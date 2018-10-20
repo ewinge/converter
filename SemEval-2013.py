@@ -13,6 +13,7 @@ from WSI import induce_from_VSM, induce_from_graph
 from pynlp import StanfordCoreNLP
 from gensim import models
 import string
+"""Script for evaluating graph-based word sense induction"""
 
 # Stanford CoreNLP setup
 annotators = "tokenize, ssplit, pos, lemma, ner"
@@ -107,6 +108,7 @@ def get_arguments():
     parser.add_argument("min", help="minimum similarity threshold", type=int, default=30)
     parser.add_argument("max", help="maximum similarity threshold", type=int, default=56)
     parser.add_argument("-step", help="similarity threshold step size", type=int, default=2)
+    parser.add_argument("-n", help="maximum number of embeddings to read", type=int, default=220000)
 #     parser.add_argument("-m", "--max_neighbors", help="max #neighbors in WSI", type=int, default=50)
     return parser.parse_args()
 
@@ -129,11 +131,11 @@ if __name__ == '__main__':
 #         if options.threshold:
 #             graph = remove_edges(graph, options.threshold)
     else:
-        model = models.KeyedVectors.load_word2vec_format(options.infile, binary=False, limit=220000)
+        model = models.KeyedVectors.load_word2vec_format(options.infile, binary=False, limit=options.n)
+        print("Loaded %d embeddings from %s" % (len(model.index2word), options.infile))
         mode = "VSM"
     # Get topics
     topics = numpy.genfromtxt("SemEval-2013/topics.txt", dtype=None, skip_header=1)
-
 #     for algorithm in ["HyperLex", "leading_eigenvector", "spinglass"]:
 #     for algorithm in ["spinglass"]:
 #     for algorithm in ["HyperLex"]:

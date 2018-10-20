@@ -8,7 +8,7 @@ import math
 import numpy
 import scipy
 from scipy.sparse.linalg.eigen.arpack.arpack import ArpackError
-from igraph import Graph, mean, plot
+from igraph import Graph, mean, plot, load
 import gensim
 from gensim import corpora, models, matutils
 from sklearn.decomposition import TruncatedSVD
@@ -125,10 +125,10 @@ def VSM2graph(model, mode, threshold=-1, k=None):
 def get_arguments():
     parser = argparse.ArgumentParser()
     parser.add_argument("-v", "--verbose", help="verbose output", action="store_true")
-    parser.add_argument("infile", help="word2vec input file")
+    parser.add_argument("infile", help="input model, word2vec or graphml")
+    parser.add_argument("out", help="output file name")
     parser.add_argument("mode", choices=["Threshold", "kNN", "Variable-k"], help="Algorithm to use")
-    parser.add_argument("-out", help="output file name")
-    parser.add_argument("-max", help="maximum dimensions", type=int, default=10000)
+    parser.add_argument("-max", help="maximum terms", type=int, default=10000)
     parser.add_argument("-k", help="k or k-max", type=int, default=25)
     parser.add_argument("-threshold", help="minimum similarity threshold", type=float, default=-1)
     return parser.parse_args()
@@ -171,33 +171,22 @@ if __name__ == '__main__':
     if options.verbose:
         logging.basicConfig(format='%(asctime)s : %(levelname)s : %(message)s', level=logging.INFO)
 
-    original_model = models.KeyedVectors.load_word2vec_format(options.infile, binary=False, limit=options.max)
-    verbose("Simlex-999 evaluation, original VSM:\n")
-    gold_data = "word-sim/EN-SimLex-999.txt"
-    original_model.evaluate_word_pairs(gold_data)
-#     exit()
-
-    graph = VSM2graph(original_model, options.mode, threshold=options.threshold, k=options.k)
-    print(graph.summary())
-#     print("graph density:", graph.density())
-#     degree = mean(graph.degree())
-#     print("mean degree:", degree)
-#     print("clustering coefficient:", graph.transitivity_undirected(), "expected(random):", 2 * degree / graph.vcount())
-#     print("average path length:", graph.average_path_length(), "expected (random):", math.log(graph.vcount()) / math.log(degree))
-
-#     print(graph.es[0])
-#     print(graph[0, 1])
-    VSM = graph2VSM(graph)
-    if options.out:
+    # Which direction are we converting?
+    if options.infile.endswith(".graphmlz") or options.infile.endswith(".graphml"):
+        graph = load(options.infile)
+        print(graph.summary())
+        VSM = graph2VSM(graph)
+        reduced = reduce_dimensions(VSM)
+        reduced.save_word2vec_format(options.out + ".txt")
+        verbose("Simlex-999 evaluation, VSM:\n")
+        gold_data = "word-sim/EN-SimLex-999.txt"
+        reduced.evaluate_word_pairs(gold_data)
+    else:
+        original_model = models.KeyedVectors.load_word2vec_format(options.infile, binary=False, limit=options.max)
+        graph = VSM2graph(original_model, options.mode, threshold=options.threshold, k=options.k)
+        print(graph.summary())
         try:
             graph.write(options.out + ".graphmlz")
         except SystemError:
             # full disk /tmp
             graph.write(options.out + ".graphml")
-    reduced = reduce_dimensions(VSM)
-    if options.out:
-        reduced.save_word2vec_format(options.out + ".txt")
-
-    verbose("Simlex-999 evaluation, reduced VSM:\n")
-    reduced.evaluate_word_pairs(gold_data)
-#     original_model.evaluate_word_pairs(os.path.join("SimLex-999", "SimLex-999.txt"))

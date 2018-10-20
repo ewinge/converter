@@ -20,7 +20,7 @@ def get_arguments():
     parser = argparse.ArgumentParser()
     parser.add_argument("-v", "--verbose", help="verbose output", action="store_true")
     parser.add_argument("mode", choices=["Threshold", "kNN", "Variable-k", "file"], help="Algorithm to use")
-    parser.add_argument("infile", help="input file")
+#     parser.add_argument("infile", help="input file")
     parser.add_argument("-max", help="maximum dimensions", type=int, default=2000)
     parser.add_argument("-k", help="k or k-max", type=int, default=25)
     parser.add_argument("-threshold", help="minimum similarity threshold", type=float, default=0.4)
@@ -69,7 +69,9 @@ def plot_graph(graph, outFile, width=1200, height=800, clustering=True, display=
         output.save(outFile)
 
 
+"""
 def main():
+    "Main method for commandline use, currently unused"
     options = get_arguments()
     if options.mode == "file":
         graph = load(options.infile)
@@ -85,7 +87,7 @@ def main():
     for term in "apple fire line queen".split():
         plot_neighborhood(graph, term, clustering=True)
 #         plot_neighborhood(graph, term, clustering=True, display=True)
-
+"""
 
 if __name__ == '__main__':
     for mode in ["threshold", "kNN"]:
