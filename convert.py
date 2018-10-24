@@ -18,7 +18,7 @@ from graph_tools import get_subgraph
 
 def make_VSM(terms, matrix):
     """
-    Make a keyedvectors VSM from a matrix
+    Make a KeyedVectors VSM from a matrix
     Params:
         terms list containing the vocabulary
         matrix numpy array containing the similarity matrix
@@ -68,12 +68,12 @@ def graph2VSM(graph):
 
 def VSM2graph(model, mode, threshold=-1, k=None):
     """
-    Convert a word2vec model to a graph model
+    Convert a gensim KeyedVectors VSM to a graph model
     Params:
         model a gensim KeyedVectors model
-        mode the conversion method to use
-        threshold (float) the minimum similarity required for an edge
-        k (int) the number  of nearest neighbors that should get edges
+        mode the conversion method to use: threshold, kNN or variable-k
+        threshold (float) the minimum similarity required for an edge, used only with threshold method
+        k (int) the number  of nearest neighbors that should get edges, used with the kNN methods
     """
     terms = model.index2word
 
@@ -100,7 +100,6 @@ def VSM2graph(model, mode, threshold=-1, k=None):
                         for term2 in (pair[0] for pair in get_kNN(term))
                         if term in (pair[0] for pair in get_kNN(term2)))
     elif mode == "Variable-k":
-        #         raise NotImplementedError("under construction")
         graph.add_edges((term, term2) for index, term in enumerate(terms)
                         for term2 in (pair[0] for pair in model.most_similar(term,
                                                                              topn=math.ceil(k / math.log10(10 + index)))))
@@ -174,19 +173,24 @@ if __name__ == '__main__':
     # Which direction are we converting?
     if options.infile.endswith(".graphmlz") or options.infile.endswith(".graphml"):
         graph = load(options.infile)
+        print("Graph summary:")
         print(graph.summary())
         VSM = graph2VSM(graph)
         reduced = reduce_dimensions(VSM)
         reduced.save_word2vec_format(options.out + ".txt")
-        verbose("Simlex-999 evaluation, VSM:\n")
-        gold_data = "word-sim/EN-SimLex-999.txt"
-        reduced.evaluate_word_pairs(gold_data)
+        print("file saved: " + options.out + ".txt")
+#         verbose("Simlex-999 evaluation, VSM:\n")
+#         gold_data = "word-sim/EN-SimLex-999.txt"
+#         reduced.evaluate_word_pairs(gold_data)
     else:
         original_model = models.KeyedVectors.load_word2vec_format(options.infile, binary=False, limit=options.max)
         graph = VSM2graph(original_model, options.mode, threshold=options.threshold, k=options.k)
+        print("Graph summary:")
         print(graph.summary())
         try:
             graph.write(options.out + ".graphmlz")
+            print("file saved: " + options.out + ".graphmlz")
         except SystemError:
             # full disk /tmp
             graph.write(options.out + ".graphml")
+            print("file saved: " + options.out + ".graphml")

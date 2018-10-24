@@ -35,6 +35,8 @@ def get_arguments():
 def get_hyponyms(synset):
     """
     Get the WordNet hyponyms that are in the model
+    Params
+        synset: nltk WordNet synset
     """
     hyponyms = synset.hyponyms()
 #     hyponym_terms = [hyponym.lemmas()[0].name() for hyponym in hyponyms]
@@ -50,6 +52,8 @@ def get_hyponyms(synset):
 def get_lemmas(synset):
     """
     Get the lemmas of synset that are in the model
+    Params
+        synset: nltk WordNet synset
     """
     return [lemma.name() for lemma in synset.lemmas() if lemma.name() in dictionary]
 
@@ -66,7 +70,10 @@ def get_rank(word):
     return model.vocab[word].index
 
 
-def get_synsets(count):
+def get_synsets():
+    """
+    Get all WordNet synsets that match our criteria
+    """
     try:
         synsets = wordnet.all_synsets("n")
 #         synsets = itertools.islice(wordnet.all_synsets("n"), 10000)
@@ -75,7 +82,7 @@ def get_synsets(count):
         print("WordNet downloaded, please restart program")
         exit()
     hypernyms = [synset for synset in synsets if len(get_hyponyms(synset)) >= 5 and is_midfrequent(synset)]
-    numpy.random.seed(1)
+#     numpy.random.seed(1)
     print("hypernyms:", len(hypernyms))
 #     return numpy.random.choice(hypernyms, count, replace=False)
     return hypernyms
@@ -87,6 +94,15 @@ def is_equal(list):
 
 
 def get_score(hypernym, centrality, max_ties):
+    """
+    Scoring function for the evaluation.
+    Params
+        hypernym:  string containing a hypernym
+        centrality: ordered list containing (term, centrality) pairs
+        max_ties: number of ties to allow/consider
+    Returns
+        1 if the hypernym is most central, otherwise 0
+    """
     if max_ties <= 1:
         return hypernym == centrality[0][0]
     else:
@@ -96,6 +112,9 @@ def get_score(hypernym, centrality, max_ties):
 
 
 def save_plot(method, graph, hypernym, center):
+    """
+    Create graph plot
+    """
     graph.vs["color"] = "yellow"
     # include centrality in node label
     if "centrality" in graph.vs.attributes():
@@ -117,9 +136,11 @@ def wordnet_subgraph(model, threshold, synset, method, plot=False):
     Create  a local graph containing the synset lemma and its hyponyms from WordNet
 
     Params:
-        model a gensim KeyedVectors model
-        threshold for  edge inclusion
-        synset a WordNet synset
+        model: a gensim KeyedVectors model
+        threshold: for  edge inclusion
+        synset: a WordNet synset
+        method: centrality measure, one of "pagerank", "degree", "betweenness"
+        plot:  save a graph plot
     """
     global fully_connected, ties, graph
     hypernym = get_lemmas(synset)[0]
@@ -216,14 +237,13 @@ if __name__ == '__main__':
     dictionary = set(model.index2word)
     # Only get mid frequent terms
     midfrequent = set(model.index2word[1000:100000])
-    synsets = get_synsets(150)
+    synsets = get_synsets()
     figure = plot.figure(figsize=(8, 5.5))
     plot.axis(ymax=0.5)
     thresholds = numpy.linspace(0, 1, num=100)
-#     for method in ["pagerank"]:
-#     for method in ["betweenness"]:
     variant_description = "%s-%s-%s" % (model_name, tiebreak, options.ties)  # for logging
     tablefile = "../data/table-%s-%s.tsv" % (model_name, tiebreak)
+
     with open(tablefile, "w") as tableout:
         printtable("Model", "Centrality", "Accuracy", "Best-epsilon", "FC", "acc-FC", "acc-no-FC", "ties", "acc-ties")
         for method in ["pagerank", "degree", "betweenness"]:

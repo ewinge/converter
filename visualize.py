@@ -30,6 +30,15 @@ def get_arguments():
 def plot_neighborhood(graph, term, outFile, radius=1, width=1200, height=1000, clustering=True, display=False):
     """
     Create a graphic plot of the neighborhood centered on term
+    Params:
+        graph: igraph Graph object
+        term: string containing a term
+        outFile: string containing the name of the output file
+        radius: radius of the neighborhood to include
+        width: width in pixels of the graphic plot
+        height: height in pixels of the graphic plot
+        clustering:  whether to apply clustering, True/False or an igraph VertexClustering instance
+        display: display the plot before saving
     """
     graph = get_subgraph(graph, term, radius)
     plot_graph(graph, outFile, width, height, clustering, display)
@@ -39,8 +48,13 @@ def plot_graph(graph, outFile, width=1200, height=800, clustering=True, display=
     """
     Create a graphic plot  of the graph
     Params:
-        graph, igraph Graph or VertexClustering object
-        outFile,  string containing filename for storing results
+        graph: igraph Graph object
+        outFile: string containing filename for storing results
+        width: width in pixels of the graphic plot
+        height: height in pixels of the graphic plot
+        clustering:  whether to apply clustering, True/False or an igraph VertexClustering instance
+        display: display the plot before saving
+        layout: an igraph graph layout
     """
     # Remove duplicate edges
 #     graph = graph.simplify()
