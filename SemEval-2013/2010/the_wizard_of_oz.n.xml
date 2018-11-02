@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataSet authors="Roberto Navigli, Daniele Vannella" task="SemeVal 2013 task 11" lang="en">
+  <the_wizard_of_oz.n.test>
+    <the_wizard_of_oz.n.1 url="http://en.wikipedia.org/wiki/The_Wizard_of_Oz_(1939_film)" title="The Wizard of Oz (1939 film) - Wikipedia, the free encyclopedia">
+      <TargetSentence>&lt;b&gt;The Wizard of Oz&lt;/b&gt; is a 1939 American fantasy adventure film produced by Metro-  Goldwyn-Mayer. Based on the 1900 novel The Wonderful Wizard of Oz by L.</TargetSentence>
+    </the_wizard_of_oz.n.1>
+    <the_wizard_of_oz.n.2 url="http://en.wikipedia.org/wiki/The_Wonderful_Wizard_of_Oz" title="The Wonderful Wizard of Oz - Wikipedia, the free encyclopedia">
+      <TargetSentence>When Dorothy and her friends meet &lt;b&gt;the Wizard of Oz&lt;/b&gt; again, he tries to put them   off. &lt;b&gt;...&lt;/b&gt; Baum explores the theme of self-contradiction in &lt;b&gt;The Wizard of Oz&lt;/b&gt;. The &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </the_wizard_of_oz.n.2>
+    <the_wizard_of_oz.n.3 url="http://www.imdb.com/title/tt0032138/" title="The Wizard of Oz (1939) - IMDb">
+      <TargetSentence>Dorothy Gale is swept away to a magical land in a tornado and embarks on a   quest to see the Wizard who can help her return home.</TargetSentence>
+    </the_wizard_of_oz.n.3>
+    <the_wizard_of_oz.n.4 url="http://www.amazon.com/The-Wizard-Oz-Judy-Garland/dp/B00000JS62" title="Amazon.com: The Wizard of Oz: Judy Garland, Frank Morgan, Ray ...">
+      <TargetSentence>Amazon.com: &lt;b&gt;The Wizard of Oz&lt;/b&gt;: Judy Garland, Frank Morgan, Ray Bolger, Bert   Lahr, Jack Haley, Billie Burke, Margaret Hamilton, Charley Grapewin, Pat Walshe &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </the_wizard_of_oz.n.4>
+    <the_wizard_of_oz.n.5 url="http://thewizardofoz.warnerbros.com/" title="The Wizard of Oz 70th Anniversary Edition on DVD">
+      <TargetSentence>Follow the Yellow Brick Road to games, coloring pages, puzzles, photo gallery,   and video clips at the official web site for the classic movie.</TargetSentence>
+    </the_wizard_of_oz.n.5>
+    <the_wizard_of_oz.n.6 url="http://www.rottentomatoes.com/m/1092277-wizard_of_oz/" title="The Wizard of Oz - Rotten Tomatoes">
+      <TargetSentence>Review: An absolute masterpiece whose groundbreaking visuals and deft   storytelling are still every bit as resonant, &lt;b&gt;The Wizard of Oz&lt;/b&gt; is a must-see...</TargetSentence>
+    </the_wizard_of_oz.n.6>
+    <the_wizard_of_oz.n.7 url="http://www.facebook.com/TheWizardOfOzMovie" title="The Wizard of Oz | Facebook">
+      <TargetSentence>&lt;b&gt;The Wizard of Oz&lt;/b&gt;. 1565506 likes · 145290 talking about this.</TargetSentence>
+    </the_wizard_of_oz.n.7>
+    <the_wizard_of_oz.n.8 url="http://www.moviemistakes.com/film1418" title="The Wizard of Oz movie mistakes, goofs and bloopers">
+      <TargetSentence>Mistakes, goofs, trivia, quotes, trailers, pictures and more for &lt;b&gt;The Wizard of Oz&lt;/b&gt;.</TargetSentence>
+    </the_wizard_of_oz.n.8>
+    <the_wizard_of_oz.n.9 url="http://thewizardofoz.info/" title="The Wonderful Wizard of Oz Website">
+      <TargetSentence>All things having to do with &lt;b&gt;The Wizard of Oz&lt;/b&gt;: Books (over forty of them!), authors   and illustrators, plays, movies, toys, games, fans and clubs...</TargetSentence>
+    </the_wizard_of_oz.n.9>
+    <the_wizard_of_oz.n.10 url="http://www.loc.gov/exhibits/oz/" title="The Wizard of Oz: An American Fairy Tale - Library of Congress">
+      <TargetSentence>To celebrate the 100th anniversary of this American literary classic, the Library of   Congress presents its exhibition; with costumes and memorabilia borrowed &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </the_wizard_of_oz.n.10>
+    <the_wizard_of_oz.n.11 url="http://wizardofozontour.com/" title="The Wizard of Oz on Tour / National Tour">
+      <TargetSentence>The greatest family musical of all time, &lt;b&gt;THE WIZARD OF OZ&lt;/b&gt;, is touching down in   theaters across the country as NETworks Presentations brings this national &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </the_wizard_of_oz.n.11>
+    <the_wizard_of_oz.n.12 url="http://movies.yahoo.com/movie/the-wizard-of-oz/" title="The Wizard of Oz | Trailer and Cast - Yahoo! Movies">
+      <TargetSentence>Get the complete cast, production details, reviews and trailer of &lt;b&gt;The Wizard of Oz&lt;/b&gt;   on Yahoo! Movies. The tale of a young Kansas girl who dreams of a better &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </the_wizard_of_oz.n.12>
+    <the_wizard_of_oz.n.13 url="http://www.pcpa.org/Default.asp%3FPage%3D376" title="The Wizard of Oz">
+      <TargetSentence>&lt;b&gt;The Wizard of Oz&lt;/b&gt; Study Guide, Generously sponsored by &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </the_wizard_of_oz.n.13>
+    <the_wizard_of_oz.n.14 url="http://www.cs.cmu.edu/~rgs/wizoz10.html" title="The Wizard of Oz (Project Gutenberg)">
+      <TargetSentence>The Wonderful Wizard of Oz. by L. Frank Baum. You might also be interested in   the first sequel to this work, &amp;quot;The Marvelous Land of Oz&amp;quot;. There are, of course, &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </the_wizard_of_oz.n.14>
+    <the_wizard_of_oz.n.15 url="http://movies.netflix.com/WiMovie/The_Wizard_of_Oz/70039535%3Flocale%3Den-US" title="The Wizard of Oz | Netflix">
+      <TargetSentence>&lt;b&gt;The Wizard of Oz&lt;/b&gt; - There&amp;#39;s no place like home for young Dorothy (Judy Garland),   who&amp;#39;s been swept away from her farm in Kansas to a wonderland of munchkins &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </the_wizard_of_oz.n.15>
+    <the_wizard_of_oz.n.16 url="http://www.kidswb.com/wizard-of-oz/" title="The Wizard of Oz - Kids WB">
+      <TargetSentence>&lt;b&gt;THE WIZARD OF OZ&lt;/b&gt;: TM &amp;amp; © TEC. Judy Garland as Dorothy from &lt;b&gt;THE WIZARD&lt;/b&gt;   &lt;b&gt;OF OZ&lt;/b&gt;. (s11). TM and © Warner Bros. Entertainment Inc. All rights reserved &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </the_wizard_of_oz.n.16>
+    <the_wizard_of_oz.n.17 url="http://www.amazon.com/The-Wizard-of-Oz/dp/B002QRCBW0" title="Amazon.com: The Wizard of Oz: Judy Garland, Frank Morgan, Ray ...">
+      <TargetSentence>Entirely remastered this magical cinematic event comes alive as never before to   tell the story of a simple Kansas farm girl caughtin a tornado, magically &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </the_wizard_of_oz.n.17>
+    <the_wizard_of_oz.n.18 url="http://www.youtube.com/watch%3Fv%3DVNugTWHnSfw" title="The Wizard of Oz (1939) - Trailer - YouTube">
+      <TargetSentence>Feb 9, 2011 &lt;b&gt;...&lt;/b&gt; &lt;b&gt;The Wizard of Oz&lt;/b&gt; - Starring Judy Garland, Frank Morgan, Ray Bolger, Bert Lahr,   Jack Haley, Billie Burke, and Margaret Hamilton Release Date: &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </the_wizard_of_oz.n.18>
+    <the_wizard_of_oz.n.19 url="http://www.loc.gov/exhibits/oz/ozsect2.html" title="The Wizard of Oz - Library of Congress">
+      <TargetSentence>A brief history of &amp;#39;&lt;b&gt;The Wizard of Oz&lt;/b&gt;&amp;#39; from the original 1902 stage version to the   1939 Metro-Goldwyn-Mayer film.</TargetSentence>
+    </the_wizard_of_oz.n.19>
+    <the_wizard_of_oz.n.20 url="http://www.moviefone.com/movie/the-wizard-of-oz/3017/main" title="The Wizard of Oz (1939) | Moviefone">
+      <TargetSentence>&lt;b&gt;The Wizard of Oz&lt;/b&gt; Movie - Starring Judy Garland, Frank Morgan, Ray Bolger, Bert   Lahr - The third and definitive film adaptation of L. Frank Baum&amp;#39;s 1900 &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </the_wizard_of_oz.n.20>
+    <the_wizard_of_oz.n.21 url="http://www.ozclub.org/" title="The International Wizard of Oz Club">
+      <TargetSentence>Founded in 1957 to bring together all those interested in L. Frank Baum and Oz.   Membership, events, and convention details, as well as information on the &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </the_wizard_of_oz.n.21>
+    <the_wizard_of_oz.n.22 url="http://www.tams-witmark.com/musicals/wizard.html" title="the wizard of oz (muny) - Tams-Witmark Music Library, Inc.">
+      <TargetSentence>There are two versions of &lt;b&gt;THE WIZARD OF OZ&lt;/b&gt;. Both include the songs Over The   Rainbow, Munchkinland (Ding Dong! The Witch Is Dead), If I Only Had A Brain, &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </the_wizard_of_oz.n.22>
+    <the_wizard_of_oz.n.23 url="http://www.cnn.com/2012/11/11/showbiz/california-wizard-oz-auction/index.html" title="Dorothy&amp;#39;s dress from &amp;#39;The Wizard of Oz&amp;#39; finds new home - CNN.com">
+      <TargetSentence>Nov 11, 2012 &lt;b&gt;...&lt;/b&gt; The blue gingham dress worn by Judy Garland, as Dorothy, in the 1939 film &amp;quot;&lt;b&gt;The&lt;/b&gt;   &lt;b&gt;Wizard of Oz&lt;/b&gt;&amp;quot; sold at auction for $480000, the auction house &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </the_wizard_of_oz.n.23>
+    <the_wizard_of_oz.n.24 url="http://sct.org/shows/on-stage/wizard" title="The Wizard of Oz | Seattle Children&amp;#39;s Theatre">
+      <TargetSentence>&lt;b&gt;The Wizard of Oz&lt;/b&gt;. By L. Frank Baum Music and Lyrics by Harold Arlen and E.Y.   Harburg Background Music by Herbert Stothart Dance and Vocal Arrangement &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </the_wizard_of_oz.n.24>
+    <the_wizard_of_oz.n.25 url="http://www.tams-witmark.com/musicals/wizard.html" title="the wizard of oz (muny) - Tams-Witmark Music Library, Inc.">
+      <TargetSentence>There are two versions of &lt;b&gt;THE WIZARD OF OZ&lt;/b&gt;. Both include the songs Over The   Rainbow, Munchkinland (Ding Dong! The Witch Is Dead), If I Only Had A Brain, &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </the_wizard_of_oz.n.25>
+    <the_wizard_of_oz.n.26 url="http://sct.org/shows/on-stage/wizard" title="The Wizard of Oz | Seattle Children&amp;#39;s Theatre">
+      <TargetSentence>&lt;b&gt;The Wizard of Oz&lt;/b&gt;. By L. Frank Baum Music and Lyrics by Harold Arlen and E.Y.   Harburg Background Music by Herbert Stothart Dance and Vocal Arrangement &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </the_wizard_of_oz.n.26>
+    <the_wizard_of_oz.n.27 url="http://en.wikipedia.org/wiki/The_Wizard_of_Oz" title="The Wizard of Oz - Wikipedia, the free encyclopedia">
+      <TargetSentence>&lt;b&gt;The Wizard of Oz&lt;/b&gt;. From Wikipedia, the free encyclopedia. Jump to: navigation,   search. Look up Wizard of Oz in Wiktionary, the free dictionary. &lt;b&gt;The Wizard of Oz&lt;/b&gt; &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </the_wizard_of_oz.n.27>
+    <the_wizard_of_oz.n.28 url="http://www.variety.com/review/VE1117796438/" title="The Wizard of Oz | Variety">
+      <TargetSentence>M-G-M. Director Victor Fleming, [King Vidor]; Producer Mervyn LeRoy;   Screenplay Noel Langley, Florence Ryerson, Edgar Allan Woolf, [E.Y. Harburg,   John Lee &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </the_wizard_of_oz.n.28>
+    <the_wizard_of_oz.n.29 url="http://www.decentfilms.com/reviews/wizardofoz" title="The Wizard of Oz (1939)">
+      <TargetSentence>&lt;b&gt;The Wizard of Oz&lt;/b&gt; is one of a very few shared experiences that unite Americans   as a culture, transcending barriers of age, locale, politics, religion, and so on.</TargetSentence>
+    </the_wizard_of_oz.n.29>
+    <the_wizard_of_oz.n.30 url="http://thewizardofozdvd.com/" title="The Wizard Of Oz on DVD - The Official Site">
+      <TargetSentence>An All-New Wizard of Oz With State of The Art Ultra-Resolution Picture Quality   and Over 10 Hours of Bonus Extras. This Classic Has Been Beautifully Restored &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </the_wizard_of_oz.n.30>
+    <the_wizard_of_oz.n.31 url="http://www.blockbuster.com/browse/catalog/movieDetails/38877" title="The Wizard of Oz DVD Rental, Rent The Wizard of Oz Movie Online">
+      <TargetSentence>Rent &lt;b&gt;The Wizard of Oz&lt;/b&gt; DVD and over 100000 other movies at Blockbuster. Buy,   Download, or Rent &lt;b&gt;The Wizard of Oz&lt;/b&gt; at Blockbuster today. Your source for &lt;b&gt;The&lt;/b&gt; &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </the_wizard_of_oz.n.31>
+    <the_wizard_of_oz.n.32 url="http://www.chicagotribune.com/topic/entertainment/movies/the-wizard-of-oz-(movie-1939)-ENMV000003342.topic" title="The Wizard of Oz (movie, 1939) news, photos and video ...">
+      <TargetSentence>Items 1 - 12 of 260 &lt;b&gt;...&lt;/b&gt; News, Photos and Information about &lt;b&gt;The Wizard of Oz&lt;/b&gt; (movie, 1939)</TargetSentence>
+    </the_wizard_of_oz.n.32>
+    <the_wizard_of_oz.n.33 url="http://www.buzzfeed.com/copyranter/the-most-accurate-synopsis-ever-for-the-wizard-of" title="The Most Accurate Synopsis Ever For &amp;quot;The Wizard Of Oz&amp;quot;">
+      <TargetSentence>I was always a fan of &amp;quot; When you think about it, &lt;b&gt;the Wizard of Oz&lt;/b&gt; is the ultimate   chic flick. At its core, its about two women trying to kill each other over a pair of &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </the_wizard_of_oz.n.33>
+    <the_wizard_of_oz.n.34 url="https://itunes.apple.com/us/podcast/wizard-of-oz/id258439609" title="iTunes - Podcasts - Wizard of Oz by Frank L Baum">
+      <TargetSentence>&lt;b&gt;...&lt;/b&gt; the Lion and the Tin Man, Dorothy battles the Wicked Witch of the West, finds   &lt;b&gt;the Wizard of Oz&lt;/b&gt;, and discovers there is no place like home. This Frank L. Baum &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </the_wizard_of_oz.n.34>
+    <the_wizard_of_oz.n.35 url="http://www.gutenberg.org/ebooks/55" title="The Wonderful Wizard of Oz by L. Frank Baum - Project Gutenberg">
+      <TargetSentence>Download the free eBook: The Wonderful Wizard of Oz by L. Frank Baum.</TargetSentence>
+    </the_wizard_of_oz.n.35>
+    <the_wizard_of_oz.n.36 url="http://www.guardian.co.uk/film/movie/36148/wizard.of.oz" title="The Wizard of Oz | Film | The Guardian">
+      <TargetSentence>As today&amp;#39;s Google doodle celebrates 71 years of &lt;b&gt;The Wizard of Oz&lt;/b&gt;, we present   71 things you might not know about the musical classic starring Judy Garland &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </the_wizard_of_oz.n.36>
+    <the_wizard_of_oz.n.37 url="http://www.imdb.com/title/tt0032138/fullcredits" title="The Wizard of Oz (1939) - Full cast and crew">
+      <TargetSentence>&lt;b&gt;The Wizard of Oz&lt;/b&gt; on IMDb: Movies, TV, Celebs, and more...</TargetSentence>
+    </the_wizard_of_oz.n.37>
+    <the_wizard_of_oz.n.38 url="http://www.tams-witmark.com/musicals/wizardrsc.html" title="Wizard of Oz">
+      <TargetSentence>There are two versions of &lt;b&gt;THE WIZARD OF OZ&lt;/b&gt;. Both include the songs Over The   Rainbow, Munchkinland (Ding Dong! The Witch Is Dead), If I Only Had A Brain, &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </the_wizard_of_oz.n.38>
+    <the_wizard_of_oz.n.39 url="http://movies.nytimes.com/movie/55014/The-Wizard-of-Oz/overview" title="The-Wizard-of-Oz - Trailer - Cast - Showtimes - NYTimes.com">
+      <TargetSentence>An overview of &lt;b&gt;The Wizard of Oz&lt;/b&gt;, including cast and credit details, a review   summary, and more.</TargetSentence>
+    </the_wizard_of_oz.n.39>
+    <the_wizard_of_oz.n.40 url="http://economics.rutgers.edu/dmdocuments/RockoffWizardofOz.pdf" title="Hugh Rockoff of Rutgers University, &amp;#39;The “Wizard of Oz” as a ...">
+      <TargetSentence>the Cowardly Lion fell asleep in the field of poppies, the identity of &lt;b&gt;the Wizard of&lt;/b&gt;   &lt;b&gt;Oz&lt;/b&gt;, the significance of the strange number of hallways and rooms in the Emerald &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </the_wizard_of_oz.n.40>
+    <the_wizard_of_oz.n.41 url="http://movies.nytimes.com/movie/55014/The-Wizard-of-Oz/overview" title="The-Wizard-of-Oz - Trailer - Cast - Showtimes - NYTimes.com">
+      <TargetSentence>An overview of &lt;b&gt;The Wizard of Oz&lt;/b&gt;, including cast and credit details, a review   summary, and more.</TargetSentence>
+    </the_wizard_of_oz.n.41>
+    <the_wizard_of_oz.n.42 url="http://economics.rutgers.edu/dmdocuments/RockoffWizardofOz.pdf" title="Hugh Rockoff of Rutgers University, &amp;#39;The “Wizard of Oz” as a ...">
+      <TargetSentence>the Cowardly Lion fell asleep in the field of poppies, the identity of &lt;b&gt;the Wizard of&lt;/b&gt;   &lt;b&gt;Oz&lt;/b&gt;, the significance of the strange number of hallways and rooms in the Emerald &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </the_wizard_of_oz.n.42>
+    <the_wizard_of_oz.n.43 url="http://www.mrqe.com/movie_reviews/the-wizard-of-oz-m100000002" title="The Wizard Of Oz (1939) Movie Review – MRQE">
+      <TargetSentence>Movie reviews for &lt;b&gt;The Wizard Of Oz&lt;/b&gt;. MRQE Metric: See what the critics had to   say and watch the trailer.</TargetSentence>
+    </the_wizard_of_oz.n.43>
+    <the_wizard_of_oz.n.44 url="http://www.nndb.com/films/432/000033333/" title="The Wizard of Oz">
+      <TargetSentence>&lt;b&gt;The Wizard of Oz&lt;/b&gt; (12-Aug-1939). Director: Victor Fleming &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </the_wizard_of_oz.n.44>
+    <the_wizard_of_oz.n.45 url="http://www.imsdb.com/scripts/Wizard-of-Oz,-The.html" title="Wizard of Oz, The Script at IMSDb.">
+      <TargetSentence>DOROTHY &lt;b&gt;The Wizard of Oz&lt;/b&gt;? Is he good or is he wicked? &lt;b&gt;...&lt;/b&gt; If ever oh ever a Wiz   there was &lt;b&gt;The Wizard of Oz&lt;/b&gt; Is one because Because, because, because, &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </the_wizard_of_oz.n.45>
+    <the_wizard_of_oz.n.46 url="http://www.nydailynews.com/life-style/fashion/wizard-oz-dress-sells-480-000-article-1.1200614" title="&amp;#39;The Wizard of Oz&amp;#39; dress sells for $480000 - New York Daily News">
+      <TargetSentence>Nov 12, 2012 &lt;b&gt;...&lt;/b&gt; The dress worn by the singer of &amp;quot;Over the Rainbow&amp;quot;, then aged 17, was sold   through a special auction of Hollywood collectibles and &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </the_wizard_of_oz.n.46>
+    <the_wizard_of_oz.n.47 url="http://www.imdb.com/title/tt0024779/" title="The Wizard of Oz (1933) - IMDb">
+      <TargetSentence>Directed by Ted Eshbaugh. A storybook opens to depict little Dorothy on the grey   Kansas prairies, when suddenly a cyclone comes up...</TargetSentence>
+    </the_wizard_of_oz.n.47>
+    <the_wizard_of_oz.n.48 url="http://www.pinballnews.com/games/wizardofoz/index.html" title="Back to the Wizard of Oz page - Pinball News - First and Free">
+      <TargetSentence>Today, we bring you (starting with the newest): NEW: Click here - The UK launch   party for &lt;b&gt;The Wizard of Oz&lt;/b&gt;. Click here - The crystal ball toy revealed plus IAAPA &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </the_wizard_of_oz.n.48>
+    <the_wizard_of_oz.n.49 url="http://fyeah-wizard-of-oz.tumblr.com/" title="The Wizard of Oz">
+      <TargetSentence>Run by iamthegirlanachronism, mishas-disciple, and myglitteryself.</TargetSentence>
+    </the_wizard_of_oz.n.49>
+    <the_wizard_of_oz.n.50 url="http://www.cardinalstage.org/plays/2012-2013-season/wizard-of-oz/overview/" title="The Wizard of Oz - Overview">
+      <TargetSentence>Lions and tigers and bears—oh my! Adapted from the 1939 film classic,   Cardinal&amp;#39;s Wizard has it all—flying monkeys, charming munchkins and of course, &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </the_wizard_of_oz.n.50>
+    <the_wizard_of_oz.n.51 url="http://movies.msn.com/movies/movie/the-wizard-of-oz.1/" title="The Wizard of Oz (1939) - Overview - MSN Movies">
+      <TargetSentence>&lt;b&gt;The Wizard of Oz&lt;/b&gt; (1939) overview: synopsis, movie reviews, photos, trailers,   movie clips, cast and crew,news, dvd, user reviews, message board and more.</TargetSentence>
+    </the_wizard_of_oz.n.51>
+    <the_wizard_of_oz.n.52 url="http://www.filmlinc.com/films/on-sale/the-wizard-of-oz" title="The Wizard of Oz | Filmlinc.com | Film Society of Lincoln Center">
+      <TargetSentence>&lt;b&gt;The Wizard of Oz&lt;/b&gt; was defined as the cornerstone of Garland&amp;#39;s “eternal fame” by   The National Observer in the late 1960s. Now, more than 40 years later, her &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </the_wizard_of_oz.n.52>
+    <the_wizard_of_oz.n.53 url="http://www.angryalien.com/aa/wizardofozbuns.asp" title="The Wizard of Oz in 30 seconds with bunnies.">
+      <TargetSentence>&lt;b&gt;The Wizard of Oz&lt;/b&gt; in 30 seconds, re-enacted by bunnies. 74. -&lt;b&gt;The Wizard of Oz&lt;/b&gt;   bunnies premiered on Starz! NEW! 30-Second Bunnies Theatre DVD now &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </the_wizard_of_oz.n.53>
+    <the_wizard_of_oz.n.54 url="http://www.afi.com/10top10/moviedetail.aspx%3Fid%3D7892%26thumb%3D1" title="1 the wizard of oz - AFI: 10 Top 10">
+      <TargetSentence>Frank Morgan (Professor Marvel [/&lt;b&gt;The Wizard of Oz&lt;/b&gt;/Doorkeeper of Emerald City/  The coach driver/Wizard&amp;#39;s doorkeeper]) Ray Bolger (&amp;quot;Hunk&amp;quot; [/The Scarecrow]) &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </the_wizard_of_oz.n.54>
+    <the_wizard_of_oz.n.55 url="http://www.amazon.com/The-Wizard-Oz-Donna-Fuller/dp/1402766254" title="The Wizard of Oz: Donna Jo Fuller, L. Frank Baum, Charles Santore ...">
+      <TargetSentence>&lt;b&gt;The Wizard of Oz&lt;/b&gt; [Donna Jo Fuller, L. Frank Baum, Charles Santore] on Amazon.  com. *FREE* super saver shipping on qualifying offers. The ultimate gift edition &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </the_wizard_of_oz.n.55>
+    <the_wizard_of_oz.n.56 url="http://www.huffingtonpost.com/2012/11/25/the-wizard-of-oz-oprah_n_2168291.html" title="&amp;#39;The Wizard of Oz&amp;#39;: Why It&amp;#39;s One of Oprah&amp;#39;s Favorite Stories (VIDEO)">
+      <TargetSentence>Nov 25, 2012 &lt;b&gt;...&lt;/b&gt; Glinda the Good Witch isn&amp;#39;t just a goody-two-shoes. She&amp;#39;s also one of Oprah&amp;#39;s   favorite spiritual teachers.</TargetSentence>
+    </the_wizard_of_oz.n.56>
+    <the_wizard_of_oz.n.57 url="http://www.amazon.com/Wizard-Oz-L-Frank-Baum/dp/1613822308" title="Amazon.com: The Wizard of Oz (9781613822302): L. Frank Baum ...">
+      <TargetSentence>Gr. 4-up, younger for reading aloud. As Mark Evan Swartz comments in Oz:   Before the Rainbow [BKL O 15 00], L. Frank Baum&amp;#39;s The Wonderful Wizard of Oz &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </the_wizard_of_oz.n.57>
+    <the_wizard_of_oz.n.58 url="http://www.amazon.com/Wonderful-Wizard-Oz-Signet-Classics/dp/0451530292" title="Amazon.com: The Wonderful Wizard of Oz (Signet Classics ...">
+      <TargetSentence>&lt;b&gt;The Wizard of Oz&lt;/b&gt; is an all time American classic story! The tale of Dorothy Gale   and her first adventure to the Land of Oz, it&amp;#39;s just spectacular. Read more &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </the_wizard_of_oz.n.58>
+    <the_wizard_of_oz.n.59 url="http://movieclips.com/bYFD-the-wizard-of-oz-movie-videos/" title="The Wizard of Oz Movie 1939: Cast, Director, Producer, Plot &amp;amp; Credits">
+      <TargetSentence>&lt;b&gt;The Wizard of Oz&lt;/b&gt; Movie 1939. Find actor, actress, cast, director, producer, plot   info, credits and movie clips for &lt;b&gt;The Wizard of Oz&lt;/b&gt; on MOVIECLIPS.com.</TargetSentence>
+    </the_wizard_of_oz.n.59>
+    <the_wizard_of_oz.n.60 url="http://www.imdb.com/title/tt0032138/trivia" title="The Wizard of Oz (1939) - Trivia - IMDb">
+      <TargetSentence>The title role was written with W.C. Fields in mind. Producer Mervyn LeRoy   wanted Ed Wynn, who turned down the role. MGM executive Arthur Freed wanted &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </the_wizard_of_oz.n.60>
+    <the_wizard_of_oz.n.61 url="http://www.imdb.com/title/tt0016544/" title="The Wizard of Oz (1925) - IMDb">
+      <TargetSentence>Videos. &lt;b&gt;The Wizard of Oz&lt;/b&gt; -- A Toymaker tells a bizarre story about how the Land ·   1 video | 7 news articles · Edit. Cast. Complete credited cast: Dorothy Dwan .</TargetSentence>
+    </the_wizard_of_oz.n.61>
+    <the_wizard_of_oz.n.62 url="http://www.imdb.com/title/tt0032138/combined" title="The Wizard of Oz (1939)">
+      <TargetSentence>Directed by Victor Fleming. With Judy Garland, Frank Morgan, Ray Bolger.   Dorothy Gale is swept away to a magical land in a tornado and embarks on a   quest to &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </the_wizard_of_oz.n.62>
+    <the_wizard_of_oz.n.63 url="http://www.imdb.com/title/tt0032138/quotes" title="The Wizard of Oz (1939) - Memorable quotes">
+      <TargetSentence>&lt;b&gt;The Wizard of Oz&lt;/b&gt; Quotes on IMDb: Movies, TV, Celebs, and more...</TargetSentence>
+    </the_wizard_of_oz.n.63>
+    <the_wizard_of_oz.n.64 url="http://en.wikipedia.org/wiki/The_Wizard_of_Oz_(1902_musical)" title="The Wizard of Oz (1902 musical) - Wikipedia, the free encyclopedia">
+      <TargetSentence>&lt;b&gt;The Wizard of Oz&lt;/b&gt; was a 1902 musical extravaganza based on The Wonderful   Wizard of Oz by L. Frank Baum, which was originally published in 1900. Much of &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </the_wizard_of_oz.n.64>
+  </the_wizard_of_oz.n.test>
+</dataSet>

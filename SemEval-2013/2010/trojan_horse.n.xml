@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataSet authors="Roberto Navigli, Daniele Vannella" task="SemeVal 2013 task 11" lang="en">
+  <trojan_horse.n.test>
+    <trojan_horse.n.1 url="http://en.wikipedia.org/wiki/Trojan_Horse" title="Trojan Horse - Wikipedia, the free encyclopedia">
+      <TargetSentence>The &lt;b&gt;Trojan Horse&lt;/b&gt; is a tale from the Trojan War about the subterfuge that the   Greeks used to enter the city of Troy and end the conflict. In the canonical version  , &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </trojan_horse.n.1>
+    <trojan_horse.n.2 url="http://en.wikipedia.org/wiki/Trojan_horse_(computing)" title="Trojan horse (computing) - Wikipedia, the free encyclopedia">
+      <TargetSentence>A &lt;b&gt;Trojan horse&lt;/b&gt;, or Trojan, is a non-self-replicating type of malware which appears   to perform a desirable function but instead facilitates unauthorized access to &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </trojan_horse.n.2>
+    <trojan_horse.n.3 url="http://www.stanford.edu/~plomio/history.html" title="History of the Trojan War">
+      <TargetSentence>The Apple of Discord; Greek Armament; Finding Troy; Embassy to Priam; The   War; The &lt;b&gt;Trojan Horse&lt;/b&gt;; After the War. The Apple of Discord. The Trojan War has   its &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </trojan_horse.n.3>
+    <trojan_horse.n.4 url="http://ancienthistory.about.com/od/troyilium/g/TrojanHorse.htm" title="An Explanation of the Term Trojan Horse">
+      <TargetSentence>The &lt;b&gt;Trojan Horse&lt;/b&gt; enabled the Greeks to put an end to the ten-year old Trojan   War.</TargetSentence>
+    </trojan_horse.n.4>
+    <trojan_horse.n.5 url="http://www.thetrojanhorse.com/" title="The Trojan Horse">
+      <TargetSentence>Specializes in Greek gyros and falafels, and provides onsite catering. Includes   menu, history of the restaurant, specials, hours and location map.</TargetSentence>
+    </trojan_horse.n.5>
+    <trojan_horse.n.6 url="http://www.webopedia.com/trojan_horse.html" title="What is Trojan horse? - A Word Definition From the Webopedia ...">
+      <TargetSentence>This page describes the term &lt;b&gt;Trojan horse&lt;/b&gt; and lists other pages on the Web   where you can find additional information.</TargetSentence>
+    </trojan_horse.n.6>
+    <trojan_horse.n.7 url="http://searchsecurity.techtarget.com/definition/Trojan-horse" title="What is Trojan horse? - Definition from WhatIs.com">
+      <TargetSentence>In computers, a &lt;b&gt;Trojan horse&lt;/b&gt; is a program in which malicious or harmful code is   contained inside apparently harmless programming or data in such a way that it &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </trojan_horse.n.7>
+    <trojan_horse.n.8 url="http://www.thefreedictionary.com/Trojan%2Bhorse" title="Trojan horse - The Free Dictionary">
+      <TargetSentence>A subversive group or device placed within enemy ranks. 2. The hollow wooden   horse in which, according to legend, Greeks hid and gained entrance to Troy, &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </trojan_horse.n.8>
+    <trojan_horse.n.9 url="http://computer.howstuffworks.com/trojan-horse.htm" title="HowStuffWorks &amp;quot;How Trojan Horses Work&amp;quot;">
+      <TargetSentence>Nov 11, 2008 &lt;b&gt;...&lt;/b&gt; &lt;b&gt;Trojan horse&lt;/b&gt; viruses can put your computer at risk and cause your system to slow   down or crash. How are they let inside? See more computer &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </trojan_horse.n.9>
+    <trojan_horse.n.10 url="http://www.irchelp.org/irchelp/security/trojan.html" title="Trojan Horse Attacks">
+      <TargetSentence>Security information for Internet Relay Chat (IRC) users, such as &lt;b&gt;Trojan horse&lt;/b&gt;   attacks, takeovers, etc.</TargetSentence>
+    </trojan_horse.n.10>
+    <trojan_horse.n.11 url="http://www.historyforkids.org/learn/greeks/religion/myths/trojanhorse.htm" title="Trojan Horse - Ancient Greek Mythology - Ancient Greece for Kids!">
+      <TargetSentence>Oct 15, 2012 &lt;b&gt;...&lt;/b&gt; After the events of the Iliad and the death of Hector, the Trojan War still wasn&amp;#39;t   over. Neither the Greeks nor the Trojans seemed to be able to &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </trojan_horse.n.11>
+    <trojan_horse.n.12 url="http://www.youtube.com/watch%3Fv%3DYbiR6IMf5KQ" title="Trojan Horse clip from &amp;quot;Troy&amp;quot; - YouTube">
+      <TargetSentence>Mar 28, 2011 &lt;b&gt;...&lt;/b&gt; &lt;b&gt;Trojan Horse&lt;/b&gt; clip from &amp;quot;Troy&amp;quot; &lt;b&gt;....&lt;/b&gt; The &lt;b&gt;Trojan Horse&lt;/b&gt; - PREVIEW - Steve Reeves ◊   Mimmo Palmara ◊ John Drew Barrymoreby peplumz84,552 &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </trojan_horse.n.12>
+    <trojan_horse.n.13 url="http://www.youtube.com/watch%3Fv%3DIOHOHDqmNc0" title="Horrible Histories - The Trojan Horse - YouTube">
+      <TargetSentence>Aug 3, 2011 &lt;b&gt;...&lt;/b&gt; Not really, there is no eveidence to suggest the &lt;b&gt;Trojan Horse&lt;/b&gt; ever existed. Even   the Trojan War itself is still subject to heavy﻿ criticism. Reply &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </trojan_horse.n.13>
+    <trojan_horse.n.14 url="http://tvtropes.org/pmwiki/pmwiki.php/Main/TrojanHorse" title="Trojan Horse - Television Tropes &amp;amp; Idioms">
+      <TargetSentence>The &lt;b&gt;Trojan Horse&lt;/b&gt; trope as used in popular culture, with a list of examples from all   media.</TargetSentence>
+    </trojan_horse.n.14>
+    <trojan_horse.n.15 url="http://en.wiktionary.org/wiki/Trojan_horse" title="Trojan horse - Wiktionary">
+      <TargetSentence>&lt;b&gt;Trojan horse&lt;/b&gt; (plural Trojan horses) &lt;b&gt;...&lt;/b&gt; might be a &lt;b&gt;Trojan horse&lt;/b&gt; program --   apparently innocent, but carrying a string of code instructing the computer to carry   out a &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </trojan_horse.n.15>
+    <trojan_horse.n.16 url="http://www.us-cert.gov/reading_room/trojan-recovery.pdf" title="Recovering from a Trojan Horse or Virus - US-Cert">
+      <TargetSentence>Recovering from a &lt;b&gt;Trojan Horse&lt;/b&gt; or Virus. Michael D. Durkota and Will Dormann.   It can happen to anyone. Considering the vast number of viruses and Trojan &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </trojan_horse.n.16>
+    <trojan_horse.n.17 url="http://www.thetrojanhorse.com/appetizers.php" title="Menu | Appetizers - The Trojan Horse, Your Locally Owned ...">
+      <TargetSentence>Saganaki Fontinella cheese served flaming at your table with two quartered pitas.   Opaa! 7.75. Tabouleh Traditional Mediterranean snack/salad with bulghur &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </trojan_horse.n.17>
+    <trojan_horse.n.18 url="http://www.amazon.com/Trojan-Horse-Sasha-Mira-ebook/dp/B005WWC62G" title="Trojan Horse (Sasha Del Mira): David Lender: Amazon.com: Kindle ...">
+      <TargetSentence>A Q&amp;amp;A with David Lender Question: &lt;b&gt;Trojan Horse&lt;/b&gt; opens with an assassination,   then skips through time and around the world. How did the story develop?</TargetSentence>
+    </trojan_horse.n.18>
+    <trojan_horse.n.19 url="http://www.merriam-webster.com/dictionary/trojan%2520horse" title="Trojan horse - Merriam-Webster Online">
+      <TargetSentence>someone or something intended to defeat or subvert from within usually by   deceptive means. 2. : a seemingly useful computer program that contains   concealed &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </trojan_horse.n.19>
+    <trojan_horse.n.20 url="http://www.youtube.com/watch%3Fv%3DXs3SfNANtig" title="Trojan Horse - The Chaser - YouTube">
+      <TargetSentence>Sep 12, 2006 &lt;b&gt;...&lt;/b&gt; This is another segment I edited for The Chaser&amp;#39;s War On Evertything. It was   played on ABC America&amp;#39;s breakfast show, Good Morning America &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </trojan_horse.n.20>
+    <trojan_horse.n.21 url="http://www.trojanhorsethebook.com/books/trojan-horse/" title="Trojan Horse: A Novel by author Mark Russinovich">
+      <TargetSentence>&lt;b&gt;Trojan Horse&lt;/b&gt; is a thrilling suspense story, a sober warning from one of the world&amp;#39;s   leading experts on cyber-security, Microsoft&amp;#39;s Technology Fellow, Mark &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </trojan_horse.n.21>
+    <trojan_horse.n.22 url="http://wordsmith.org/words/trojan_horse.html" title="A.Word.A.Day --Trojan horse">
+      <TargetSentence>In the legendary Trojan War, the Greeks left a large hollow wooden horse at the   gates of the city of Troy. The Trojans took it inside. Greek soldiers hidden in the &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </trojan_horse.n.22>
+    <trojan_horse.n.23 url="http://www.kidsonroof.com/new/product_page.php%3Fproducts_id%3D37" title="Kidsonroof : Trojan Horse">
+      <TargetSentence>&lt;b&gt;Trojan Horse&lt;/b&gt; is for sitting on and playing with - a beautiful object and very very   sturdy. Pick it up and you&amp;#39;ll understand its name: an unexpected fairytale-like &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </trojan_horse.n.23>
+    <trojan_horse.n.24 url="http://www.imdb.com/title/tt1009720/" title="&amp;quot;NCIS&amp;quot; Trojan Horse (TV episode 2007) - IMDb">
+      <TargetSentence>Directed by Terrence O&amp;#39;Hara. With Mark Harmon, Michael Weatherly, Cote de   Pablo, Pauley Perrette. When Director Shepherd goes out of country, Gibbs steps &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </trojan_horse.n.24>
+    <trojan_horse.n.25 url="http://dictionary.cambridge.org/dictionary/british/trojan-horse" title="Trojan horse noun - definition in British English Dictionary ...">
+      <TargetSentence>&lt;b&gt;Trojan horse&lt;/b&gt; noun - definition, audio pronunciation, synonyms and more for   &lt;b&gt;Trojan horse&lt;/b&gt; noun: a person or thing that joins and deceives a group or   organization &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </trojan_horse.n.25>
+    <trojan_horse.n.26 url="http://www.trojanhorse2011.com/" title="BM Trojan Horse 2011 | Burning Man 2011 – Rites of Passage">
+      <TargetSentence>Aug 21, 2012 &lt;b&gt;...&lt;/b&gt; A large wooden &lt;b&gt;Trojan Horse&lt;/b&gt; with hidden rooms inside stands ready to be towed   across the desert as part of Burning Man&amp;#39;s 2011 theme &amp;quot;Rites &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </trojan_horse.n.26>
+    <trojan_horse.n.27 url="http://ancienthistory.about.com/cs/troyilium/a/taleoftroy_3.htm" title="The Trojan War and the Trojan Horse">
+      <TargetSentence>How crafty Odysseus won the Trojan War for the Greeks by the ruse of a &lt;b&gt;Trojan&lt;/b&gt;   &lt;b&gt;Horse&lt;/b&gt;.</TargetSentence>
+    </trojan_horse.n.27>
+    <trojan_horse.n.28 url="http://www.urbandictionary.com/define.php%3Fterm%3DTrojan%2520Horse" title="Urban Dictionary: Trojan Horse">
+      <TargetSentence>A virus-like program that pretends to be something else in order to get into the   system. From _The Iliad_, by famous dead poet Homer, when the Itha...</TargetSentence>
+    </trojan_horse.n.28>
+    <trojan_horse.n.29 url="http://trojanhorse.bandcamp.com/" title="Trojan Horse">
+      <TargetSentence>&lt;b&gt;Trojan Horse Trojan Horse&lt;/b&gt;. We listened to a load of King Crimson, Jethro Tull   and Yes LPs, and dragged the 70s kicking and screaming through the   subsequent &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </trojan_horse.n.29>
+    <trojan_horse.n.30 url="http://trojanhorseuk.com/" title="Trojan Horse">
+      <TargetSentence>&lt;b&gt;Trojan Horse&lt;/b&gt;; Noisy Prog Rock Bastards from Salford / Manchester.</TargetSentence>
+    </trojan_horse.n.30>
+    <trojan_horse.n.31 url="http://www.techterms.com/definition/trojanhorse" title="Trojan Horse Definition">
+      <TargetSentence>The definition of &lt;b&gt;Trojan Horse&lt;/b&gt; defined and explained in simple language.</TargetSentence>
+    </trojan_horse.n.31>
+    <trojan_horse.n.32 url="http://www.mtolympuspark.com/attractions/wisconsin-dells-outdoor-theme-park/trojan-horse" title="Trojan Horse - Mt. Olympus Water &amp;amp; Theme Park">
+      <TargetSentence>&lt;b&gt;Trojan Horse&lt;/b&gt;. This Wisconsin Dells landmark has an exciting history and an even   more tantalizing ride. For ten long years the Greeks laid siege to the ancient &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </trojan_horse.n.32>
+    <trojan_horse.n.33 url="http://oxforddictionaries.com/definition/english/Trojan%252BHorse" title="Trojan Horse - Oxford Dictionaries">
+      <TargetSentence>&lt;b&gt;Trojan Horse&lt;/b&gt; definition and meaning from sculpture, greek history and deception   topics by Oxford University Press (British &amp;amp; World English)</TargetSentence>
+    </trojan_horse.n.33>
+    <trojan_horse.n.34 url="http://thesaurus.com/browse/trojan%2Bhorse" title="Trojan horse Synonyms, Trojan horse Antonyms | Thesaurus.com">
+      <TargetSentence>Synonyms for &lt;b&gt;trojan horse&lt;/b&gt; at Thesaurus.com with free online thesaurus,   antonyms, and definitions. Dictionary and Word of the Day.</TargetSentence>
+    </trojan_horse.n.34>
+    <trojan_horse.n.35 url="http://greece.mrdonn.org/trojanwar.html" title="Legend of the Trojan War - Ancient Greece for Kids">
+      <TargetSentence>According to the legend of &lt;b&gt;Trojan Horse&lt;/b&gt;, for ten long years, the Greeks had been   trying to get over the wall around the city of Troy. But the Greeks could not get &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </trojan_horse.n.35>
+    <trojan_horse.n.36 url="http://dictionary.reference.com/browse/trojan%2Bhorse" title="Trojan horse | Define Trojan horse at Dictionary.com">
+      <TargetSentence>Classical Mythology. a gigantic hollow wooden horse, left by the Greeks upon   their pretended abandonment of the siege of Troy. The Trojans took it into Troy &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </trojan_horse.n.36>
+    <trojan_horse.n.37 url="http://ancienthistory.about.com/cs/grecoromanmyth1/f/achilleshorse.htm" title="Was Achilles in the Trojan Horse?">
+      <TargetSentence>Achilles - Was Achilles in the &lt;b&gt;Trojan Horse&lt;/b&gt;? Troy vs the Trojan War.</TargetSentence>
+    </trojan_horse.n.37>
+    <trojan_horse.n.38 url="http://www.collinsdictionary.com/dictionary/english/trojan-horse" title="Definition of Trojan Horse | Collins English Dictionary">
+      <TargetSentence>noun. Also called: the Wooden Horse (Greek mythology) the huge wooden   hollow figure of a horse left outside Troy by the Greeks when they feigned retreat   and &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </trojan_horse.n.38>
+    <trojan_horse.n.39 url="http://www.facebook.com/trojanhorseuk" title="TrojanHorse | Facebook">
+      <TargetSentence>Fucking buzzing my little moobs off, &lt;b&gt;TrojanHorse&lt;/b&gt; will be supporting the legendary   The Crazy World of Arthur Brown in Manchester on 8th March, over at The &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </trojan_horse.n.39>
+    <trojan_horse.n.40 url="http://www.keiththompsonart.com/pages/trojanhorse.html" title="Trojan Horse">
+      <TargetSentence>&lt;b&gt;TROJAN HORSE&lt;/b&gt;. Its sides were planked with pine, its hollowness stuffed with   iron bowels. The siege had ended and an empty gesture lay in its blasted place.</TargetSentence>
+    </trojan_horse.n.40>
+    <trojan_horse.n.41 url="http://www.azlyrics.com/lyrics/blocparty/trojanhorse.html" title="BLOC PARTY. LYRICS - Trojan Horse">
+      <TargetSentence>Lyrics to &amp;quot;&lt;b&gt;Trojan Horse&lt;/b&gt;&amp;quot; song by BLOC PARTY.: You used to take your watch off   before we made love You didn&amp;#39;t want to share our time with anyone Yo...</TargetSentence>
+    </trojan_horse.n.41>
+    <trojan_horse.n.42 url="http://yugioh.wikia.com/wiki/The_Trojan_Horse" title="The Trojan Horse - Yu-Gi-Oh!">
+      <TargetSentence>The &lt;b&gt;Trojan Horse&lt;/b&gt; (6121) on the Yugioh-Card card database (Japanese); The   &lt;b&gt;Trojan Horse&lt;/b&gt; (6121) on the Yugioh-Card card database (English); TCGplayer &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </trojan_horse.n.42>
+    <trojan_horse.n.43 url="http://www.tv.com/shows/ncis/trojan-horse-1024415/" title="NCIS - Season 4, Episode 23: Trojan Horse - TV.com">
+      <TargetSentence>Watch NCIS - Season 4, Episode 23 - &lt;b&gt;Trojan Horse&lt;/b&gt;: When Jenny has to attend   an overseas conference, Gibbs is made acting director, but he prefers to ignore &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </trojan_horse.n.43>
+    <trojan_horse.n.44 url="http://us.macmillan.com/trojanhorse/MarkRussinovich" title="Trojan Horse | Mark Russinovich | Macmillan">
+      <TargetSentence>It&amp;#39;s two years after the Zero Day attacks, and cyber-security analyst Jeff Aiken is   reaping the rewards for crippling Al-Qaida&amp;#39;s assault on the computer &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </trojan_horse.n.44>
+    <trojan_horse.n.45 url="http://www.designboom.com/weblog/cat/10/view/23952/trojan-horse-made-from-computer-keys-by-babis-cloud.html" title="trojan horse made from computer keys by babis cloud">
+      <TargetSentence>Oct 2, 2012 &lt;b&gt;...&lt;/b&gt; the sculpture is a commentary on consumer cyber-culture, not only referencing   the famous greek mythology, but also the well know internet &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </trojan_horse.n.45>
+    <trojan_horse.n.46 url="http://prospect.org/article/romney-2012s-trojan-horse" title="Romney, 2012&amp;#39;s Trojan Horse">
+      <TargetSentence>Jun 21, 2012 &lt;b&gt;...&lt;/b&gt; Mitt Romney is running as the &lt;b&gt;Trojan Horse&lt;/b&gt; candidate of 2012, the big empty gift   to America who will be wheeled into the gates of Election &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </trojan_horse.n.46>
+    <trojan_horse.n.47 url="http://en.wikipedia.org/wiki/Trojan_Horse_(disambiguation)" title="Trojan Horse (disambiguation) - Wikipedia, the free encyclopedia">
+      <TargetSentence>The &lt;b&gt;Trojan Horse&lt;/b&gt;, according to legend, was a giant hollow horse in which Greeks   hid to gain entrance to Troy. &lt;b&gt;Trojan Horse&lt;/b&gt; or The &lt;b&gt;Trojan Horse&lt;/b&gt; may also refer &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </trojan_horse.n.47>
+    <trojan_horse.n.48 url="http://www.futurefarmers.com/thisisnotatrojanhorse/" title="This Is Not A Trojan Horse">
+      <TargetSentence>if i see a plant die I feel sorrow! It&amp;#39;s like a person in prison! - Albert. Incarnting   Nomadic Resistance Against Biopolitics (the discourse of traditoinal power)</TargetSentence>
+    </trojan_horse.n.48>
+    <trojan_horse.n.49 url="http://www.ncisfanwiki.com/page/4.23%2B-%2BTrojan%2BHorse" title="4.23 - Trojan Horse - NCIS">
+      <TargetSentence>While Jenny attends an overseas conference, Gibbs is made acting director, but   he prefers to ignore his duties and lead the investigation of the murder of a man, &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </trojan_horse.n.49>
+    <trojan_horse.n.50 url="http://blogs.technet.com/b/markrussinovich/archive/2012/05/08/3496339.aspx" title="Announcing Trojan Horse, the Novel! - Mark&amp;#39;s Blog - Site Home ...">
+      <TargetSentence>May 8, 2012 &lt;b&gt;...&lt;/b&gt; Its reviews and sales exceeded my expectations, so I&amp;#39;m especially excited about   the sequel, &lt;b&gt;Trojan Horse&lt;/b&gt;, which I think is even more timely and &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </trojan_horse.n.50>
+    <trojan_horse.n.51 url="http://wiki.en.grepolis.com/wiki/Trojan_Horse" title="Trojan Horse - Wiki Grepolis">
+      <TargetSentence>&lt;b&gt;Trojan Horse&lt;/b&gt;, Costs. Wood, 25510. Rock, 500. Silver, 3000. Favor, 0. Population,   0. Unit Info. Weapon Type, Blunt. Attack Damage, 5. Defense against Blunt &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </trojan_horse.n.51>
+    <trojan_horse.n.52 url="http://www.facebook.com/trojanhorseband" title="Trojan Horse | Facebook">
+      <TargetSentence>December. &lt;b&gt;Trojan Horse&lt;/b&gt; is on Facebook. To connect with &lt;b&gt;Trojan Horse&lt;/b&gt;, sign up   for Facebook today. Sign UpLog In · Cover Photo. Like · Create a Page · Privacy &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </trojan_horse.n.52>
+    <trojan_horse.n.53 url="http://www.nevadaart.org/exhibitions/detail%3Feid%3D192" title="This is Not a Trojan Horse - Nevada Museum of Art">
+      <TargetSentence>A multi-faceted and socially engaged project, This is Not a &lt;b&gt;Trojan Horse&lt;/b&gt; is a   large, human-powered, wooden horse built in Abruzzo, Italy by Amy Franceschini  , &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </trojan_horse.n.53>
+    <trojan_horse.n.54 url="http://www.bbc.co.uk/news/health-20795977" title="Trojan-horse therapy &amp;#39;completely eliminates&amp;#39; cancer in mice - BBC">
+      <TargetSentence>Dec 20, 2012 &lt;b&gt;...&lt;/b&gt; An experimental &amp;#39;&lt;b&gt;Trojan-horse&lt;/b&gt;&amp;#39; cancer therapy has completely eliminated   prostate cancer in experiments on mice, according to UK &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </trojan_horse.n.54>
+    <trojan_horse.n.55 url="http://www.guinness.com/en-ie/food-trojan-horse.html" title="Trojan Horse - Guinness">
+      <TargetSentence>&lt;b&gt;Trojan Horse&lt;/b&gt;. GUINNESS® Good Food Guide · Starters · Main Courses ·   Desserts · Cocktails · Calorie Guide. &lt;b&gt;Trojan Horse&lt;/b&gt;. Ingredients. Serves 1. 60ml of   Cola &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </trojan_horse.n.55>
+    <trojan_horse.n.56 url="http://cafehayek.com/2012/09/trojan-horse.html" title="Trojan Horse">
+      <TargetSentence>Sep 17, 2012 &lt;b&gt;...&lt;/b&gt; Having heard and read several ditties lately from “Progressives” who insist that   the failure of government to arrange to have birth-control &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </trojan_horse.n.56>
+    <trojan_horse.n.57 url="http://en.wikipedia.org/wiki/Trojan_Horse_(Luv%27_song)" title="Trojan Horse (Luv&amp;#39; song) - Wikipedia, the free encyclopedia">
+      <TargetSentence>&amp;quot;&lt;b&gt;Trojan Horse&lt;/b&gt;&amp;quot; is the fifth single by the Dutch girl group Luv&amp;#39;, released in autumn   1978 by Philips/Phonogram Records. This million seller appears on the German &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </trojan_horse.n.57>
+    <trojan_horse.n.58 url="http://wiki.godvillegame.com/Trojan_Horse" title="Trojan Horse - GodWiki">
+      <TargetSentence>Nov 14, 2012 &lt;b&gt;...&lt;/b&gt; The &lt;b&gt;Trojan Horse&lt;/b&gt; is a very rare pet in Godville. Trojan Horses are truly Marvels of   nature. They are large horse-like creatures whose bodies are &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </trojan_horse.n.58>
+    <trojan_horse.n.59 url="http://news.cnet.com/8301-17938_105-57525592-1/trojan-horse-dons-thousands-of-keyboard-keys/" title="Trojan Horse dons thousands of keyboard keys | Crave - CNET">
+      <TargetSentence>Oct 3, 2012 &lt;b&gt;...&lt;/b&gt; Are you considering throwing away that old keyboard? Pop the keys off and   make some art instead. Read this article by Christopher MacManus &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </trojan_horse.n.59>
+    <trojan_horse.n.60 url="http://www.rsc.org/chemistryworld/2012/08/trojan-horse-tuberculosis-treatment" title="Trojan horse tuberculosis treatment | Chemistry World">
+      <TargetSentence>Aug 22, 2012 &lt;b&gt;...&lt;/b&gt; A modified version of a compound from the TB pathogen is sent back in carrying   a lethal agent.</TargetSentence>
+    </trojan_horse.n.60>
+    <trojan_horse.n.61 url="http://adage.com/article/digitalnext/microsoft-s-trojan-horse-xbox-living-room/238435/" title="Microsoft&amp;#39;s Trojan Horse: The Xbox in Your Living Room ...">
+      <TargetSentence>Nov 29, 2012 &lt;b&gt;...&lt;/b&gt; As Google taught us to search and Apple taught us to swipe, pinch and tilt, with   its Xbox Microsoft now can teach the value of continuity across &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </trojan_horse.n.61>
+    <trojan_horse.n.62 url="http://www.antiwar.com/orig/ketcham.php" title="Trojan Horse - by Christopher Ketcham">
+      <TargetSentence>Sep 26, 2008 &lt;b&gt;...&lt;/b&gt; Since the late 1990s, federal agents have reported systemic communications   security breaches at the Department of Justice, FBI, DEA, the &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </trojan_horse.n.62>
+    <trojan_horse.n.63 url="http://www.davidlender.net/Author_Site/Trojan_Horse.html" title="Trojan Horse">
+      <TargetSentence>International finance, oil profiteering, espionage and a race to stop a terrorist plot   are the backdrop to this love story between an exotic spy who longs for a &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </trojan_horse.n.63>
+    <trojan_horse.n.64 url="https://twitter.com/TroHoBtown" title="Trojan Horse (TroHoBtown) on Twitter">
+      <TargetSentence>Instantly connect to what&amp;#39;s most important to you. Follow your friends, experts,   favorite celebrities, and breaking news.</TargetSentence>
+    </trojan_horse.n.64>
+  </trojan_horse.n.test>
+</dataSet>

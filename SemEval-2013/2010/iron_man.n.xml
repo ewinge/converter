@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataSet authors="Roberto Navigli, Daniele Vannella" task="SemeVal 2013 task 11" lang="en">
+  <iron_man.n.test>
+    <iron_man.n.1 url="http://www.imdb.com/title/tt0371746/" title="Iron Man (2008) - IMDb">
+      <TargetSentence>Directed by Jon Favreau. With Robert Downey Jr., Gwyneth Paltrow, Terrence   Howard, Jeff Bridges. When wealthy industrialist Tony Stark is forced to build an &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </iron_man.n.1>
+    <iron_man.n.2 url="http://en.wikipedia.org/wiki/Iron_Man_(film)" title="Iron Man (film) - Wikipedia, the free encyclopedia">
+      <TargetSentence>&lt;b&gt;Iron Man&lt;/b&gt; is a 2008 American superhero film based on the Marvel Comics   character of the same name. It is the first installment, of the first phase of the   Marvel &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </iron_man.n.2>
+    <iron_man.n.3 url="http://en.wikipedia.org/wiki/Iron_Man" title="Iron Man - Wikipedia, the free encyclopedia">
+      <TargetSentence>&lt;b&gt;Iron Man&lt;/b&gt; is a fictional character, a superhero who appears in comic books   published by Marvel Comics. The character was created by writer-editor Stan Lee  , &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </iron_man.n.3>
+    <iron_man.n.4 url="http://marvel.com/universe/Iron_Man_(Anthony_Stark)" title="Iron Man (Anthony Stark) - Marvel Universe Wiki: The definitive ...">
+      <TargetSentence>Tony personally attended a field test of his military hardware at one of his   international plants; however, soon after his arrival Stark&amp;#39;s party was attacked by   a &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </iron_man.n.4>
+    <iron_man.n.5 url="http://www.youtube.com/watch%3Fv%3D5EjG-1U3wqA" title="Iron Man 3 Trailer UK - Official Marvel | HD - YouTube">
+      <TargetSentence>Oct 22, 2012 &lt;b&gt;...&lt;/b&gt; In Marvel&amp;#39;s &amp;quot;&lt;b&gt;Iron Man&lt;/b&gt; 3&amp;quot;, brash-but-brilliant industrialist Tony Stark/&lt;b&gt;Iron Man&lt;/b&gt;   played by Robert Downey Jr., is pitted against an enemy whose &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </iron_man.n.5>
+    <iron_man.n.6 url="http://www.rottentomatoes.com/m/iron_man/" title="Iron Man - Rotten Tomatoes">
+      <TargetSentence>Review: Director Jon Favreau and star Robert Downey make this smart, high   impact superhero movie one that even non-comics fans can enjoy.</TargetSentence>
+    </iron_man.n.6>
+    <iron_man.n.7 url="http://www.facebook.com/ironman" title="Iron Man | Facebook">
+      <TargetSentence>&lt;b&gt;Iron Man&lt;/b&gt;. 12698284 likes · 223525 talking about this.</TargetSentence>
+    </iron_man.n.7>
+    <iron_man.n.8 url="http://ironman.com/" title="Ironman Triathlon">
+      <TargetSentence>&lt;b&gt;IRONMAN&lt;/b&gt; welcomes Newton Running as official U.S. footwear and run course   partner. &lt;b&gt;ironman&lt;/b&gt; &lt;b&gt;...&lt;/b&gt; Learn about the origins and history of the &lt;b&gt;IRONMAN&lt;/b&gt; triathlon &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </iron_man.n.8>
+    <iron_man.n.9 url="http://movies.yahoo.com/movie/iron-man/" title="Iron Man | Trailer and Cast - Yahoo! Movies">
+      <TargetSentence>Get the complete cast, production details, reviews and trailer of &lt;b&gt;Iron Man&lt;/b&gt; on   Yahoo! Movies. Tony Stark is a billionaire industrialist and genius inventor who is &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </iron_man.n.9>
+    <iron_man.n.10 url="http://nicktoons.nick.com/shows/iron-man-armored-adventures/" title="Iron Man: Armored Adventures | Cartoons | Nicktoons.com">
+      <TargetSentence>Tony uses his suit of invincible armor and technical know-how to protect those   who fall prey to tragedy and corruption! He is a new hero for the digital age, &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </iron_man.n.10>
+    <iron_man.n.11 url="http://www.amazon.com/Iron-Two-Disc-Ultimate-Edition-Blu-ray/dp/B001GAPC1K" title="Amazon.com: Iron Man (Two-Disc Ultimate Edition + BD Live) [Blu ...">
+      <TargetSentence>You know you&amp;#39;re going to get a different kind of superhero when you cast Robert   Downey Jr. in the lead role. And &lt;b&gt;Iron Man&lt;/b&gt; is different, in welcome ways.</TargetSentence>
+    </iron_man.n.11>
+    <iron_man.n.12 url="http://trailers.apple.com/trailers/marvel/ironman3/" title="Iron Man 3 - Movie Trailers - iTunes">
+      <TargetSentence>Marvel&amp;#39;s &amp;quot;&lt;b&gt;Iron Man&lt;/b&gt; 3&amp;quot; pits brash-but-brilliant industrialist Tony Stark/&lt;b&gt;Iron Man&lt;/b&gt;   against an enemy whose reach knows no bounds. When Stark finds his personal &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </iron_man.n.12>
+    <iron_man.n.13 url="http://www.comicvine.com/iron-man/29-1455/" title="Iron Man (comic book character)">
+      <TargetSentence>After he was kidnapped by terrorists and gravely injured, billionaire industrialist   and brilliant engineer Tony Stark was pressured to create a weapon of mass &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </iron_man.n.13>
+    <iron_man.n.14 url="http://marvel.wikia.com/Iron_Man_(Anthony_%2522Tony%2522_Stark)" title="Iron Man (Anthony &amp;quot;Tony&amp;quot; Stark) - Marvel Comics Database">
+      <TargetSentence>&lt;b&gt;Iron Man&lt;/b&gt; Gallery Real Name Anthony Edward &amp;quot;Tony&amp;quot; Stark Current Alias &lt;b&gt;Iron&lt;/b&gt;   &lt;b&gt;Man&lt;/b&gt; Aliases Tony...</TargetSentence>
+    </iron_man.n.14>
+    <iron_man.n.15 url="http://www.superherohype.com/heroes/iron-man" title="Iron Man Movie News for Iron Man II, Warmachine, Whiplash and ...">
+      <TargetSentence>&lt;b&gt;Iron Man&lt;/b&gt; Forums | &lt;b&gt;Iron Man&lt;/b&gt; Pictures | Movie Details &amp;amp; Downloads Got Any &lt;b&gt;Iron&lt;/b&gt;   &lt;b&gt;Man&lt;/b&gt; Movie News or Rumors? Contact Us!</TargetSentence>
+    </iron_man.n.15>
+    <iron_man.n.16 url="http://www.comingsoon.net/films.php%3Fid%3D7415" title="Iron Man Trailer, News, Videos, and Reviews | ComingSoon.net">
+      <TargetSentence>Plot Summary: Based upon Marvel&amp;#39;s iconic Super Hero, &amp;quot;&lt;b&gt;Iron Man&lt;/b&gt;&amp;quot; tells the story   of Tony Stark, a billionaire industrialist and genius inventor who is kidnapped &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </iron_man.n.16>
+    <iron_man.n.17 url="http://en.wikipedia.org/wiki/Ironman_Triathlon" title="Ironman Triathlon - Wikipedia, the free encyclopedia">
+      <TargetSentence>An &lt;b&gt;Ironman&lt;/b&gt; Triathlon is one of a series of long-distance triathlon races organized   by the World Triathlon Corporation (WTC) consisting of a 2.4-mile (3.86 km) &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </iron_man.n.17>
+    <iron_man.n.18 url="http://screenrant.com/tag/iron-man/" title="iron man">
+      <TargetSentence>Robert Downey Jr. says &amp;#39;&lt;b&gt;Iron Man&lt;/b&gt; 3′ goes back to its comic roots and praises   Ben Kingsley as The Mandarin; meanwhile, Marvel releases a (sorta) Winter &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </iron_man.n.18>
+    <iron_man.n.19 url="http://screenrant.com/tag/iron-man-3/" title="Iron Man 3 (2013)">
+      <TargetSentence>&lt;b&gt;Iron Man&lt;/b&gt; 3 pits genius-billionaire-playboy-philanthropist Tony Stark (&lt;b&gt;Iron Man&lt;/b&gt;)   against the Mandarin, an enemy whose reach knows no bounds. When Stark &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </iron_man.n.19>
+    <iron_man.n.20 url="http://www.ironmanmagazine.com/" title="Iron Man Magazine">
+      <TargetSentence>The World&amp;#39;s Leading Bodybuilding Magazine Since 1936. We Know Training. We  &amp;#39;ll Show You How To Be A Bodybuilder.</TargetSentence>
+    </iron_man.n.20>
+    <iron_man.n.21 url="http://www.iamironman2.com/" title="Iron Man 2 | Augmented Reality Experience">
+      <TargetSentence>Official AR for the &lt;b&gt;Iron Man&lt;/b&gt; sequel. &lt;b&gt;Iron Man&lt;/b&gt; 2 - DVD &amp;amp; BLU-RAY OCTOBER   25TH!</TargetSentence>
+    </iron_man.n.21>
+    <iron_man.n.22 url="http://www.animenewsnetwork.com/encyclopedia/anime.php%3Fid%3D11786" title="Iron Man (TV) - Anime News Network">
+      <TargetSentence>Plot Summary: Tony Stark is a physicist, an engineer, and the CEO of a major   arms manufacturing company. On a battlefield he is injured from his own   weapons &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </iron_man.n.22>
+    <iron_man.n.23 url="http://content.usatoday.com/topics/topic/People/Fictional%2BCharacters/Iron%2BMan" title="Iron Man Topics Page - USATODAY.com">
+      <TargetSentence>Collection of all USATODAY.com coverage of &lt;b&gt;Iron Man&lt;/b&gt;, including articles, videos,   photos, and quotes.</TargetSentence>
+    </iron_man.n.23>
+    <iron_man.n.24 url="http://myanimelist.net/anime/6875/Iron_Man" title="Iron Man - MyAnimeList.net">
+      <TargetSentence>&lt;b&gt;Iron Man&lt;/b&gt; Information, &lt;b&gt;Iron Man&lt;/b&gt; Reviews, Synonyms: Ironman.</TargetSentence>
+    </iron_man.n.24>
+    <iron_man.n.25 url="http://www.epixhd.com/iron-man/" title="EpixHD - Iron Man">
+      <TargetSentence>Reforged as the superhero &amp;quot;&lt;b&gt;Iron Man&lt;/b&gt;&amp;quot;, Tony embarks on an explosive warpath   for peace, making up for lost karma and setting his sights on evildoers. After all &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </iron_man.n.25>
+    <iron_man.n.26 url="http://inventingironman.com/" title="Inventing Iron Man">
+      <TargetSentence>Tony Stark has been battling bad guys and protecting innocent civilians since he   first donned his mechanized armor in the 1963 debut of &lt;b&gt;Iron Man&lt;/b&gt; in Marvel &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </iron_man.n.26>
+    <iron_man.n.27 url="http://www.imdb.com/title/tt1228705/" title="Iron Man 2 (2010) - IMDb">
+      <TargetSentence>Directed by Jon Favreau. With Robert Downey Jr., Mickey Rourke, Gwyneth   Paltrow, Don Cheadle. Because of his superhero alter ego, Tony Stark must   contend &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </iron_man.n.27>
+    <iron_man.n.28 url="http://tvtropes.org/pmwiki/pmwiki.php/Main/IronMan" title="Iron Man - Television Tropes &amp;amp; Idioms">
+      <TargetSentence>Main: &lt;b&gt;Iron Man&lt;/b&gt;. &lt;b&gt;...&lt;/b&gt; &lt;b&gt;Iron Man&lt;/b&gt; may refer to: The comic book character and   associated comics, &lt;b&gt;Iron Man&lt;/b&gt;. The live-action film franchise based on the   character, &lt;b&gt;Iron&lt;/b&gt; &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </iron_man.n.28>
+    <iron_man.n.29 url="http://dvd.netflix.com/Movie/Iron-Man/70080038" title="Netflix - Rent Iron Man">
+      <TargetSentence>Watch &lt;b&gt;Iron Man&lt;/b&gt;. Watch Unlimited Movies and TV Shows. No Late Fees.</TargetSentence>
+    </iron_man.n.29>
+    <iron_man.n.30 url="http://iwastesomuchtime.com/on/%3Fi%3D33485" title="Female == Iron Man.">
+      <TargetSentence>I&amp;#39;m a female. Fe=Iron. Male=Man. Therefore, I am &lt;b&gt;Iron Man&lt;/b&gt;.</TargetSentence>
+    </iron_man.n.30>
+    <iron_man.n.31 url="http://www.comicboards.com/ironman/" title="Iron Man Message Board">
+      <TargetSentence>5 days ago &lt;b&gt;...&lt;/b&gt; &lt;b&gt;Iron Man&lt;/b&gt; Message Board &lt;b&gt;...&lt;/b&gt; &lt;b&gt;Iron Man&lt;/b&gt; Laser Gauntlet on YouTube. &lt;b&gt;...&lt;/b&gt; &lt;b&gt;Iron Man&lt;/b&gt; #8   advertizement · The Mandarin · Sat Jan 19, 2013 at 09:14:43 &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </iron_man.n.31>
+    <iron_man.n.32 url="http://screenrant.com/iron-man-3-armor-spoilers/" title="Potential &amp;#39;Iron Man 3′ Spoilers About Tony Stark&amp;#39;s New Armor">
+      <TargetSentence>The new Mark VIII armor design featured in &amp;#39;&lt;b&gt;Iron Man&lt;/b&gt; 3&amp;#39; may do more than look   different and make it easier for Tony Stark to suit up. Read on for spoilers.</TargetSentence>
+    </iron_man.n.32>
+    <iron_man.n.33 url="http://www.imdb.com/title/tt0371746/fullcredits" title="Iron Man (2008) - Full cast and crew">
+      <TargetSentence>&lt;b&gt;Iron Man&lt;/b&gt; on IMDb: Movies, TV, Celebs, and more...</TargetSentence>
+    </iron_man.n.33>
+    <iron_man.n.34 url="http://movies.netflix.com/WiMovie/Iron_Man_2/70111470%3Flocale%3Den-US" title="Iron Man 2 | Netflix">
+      <TargetSentence>&lt;b&gt;Iron Man&lt;/b&gt; 2 - Refusing to hand over his technology to the government puts rich   inventor Tony Stark -- aka &lt;b&gt;Iron Man&lt;/b&gt; -- up against his friend, Rhodes. But when an &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </iron_man.n.34>
+    <iron_man.n.35 url="http://en.wikipedia.org/wiki/Iron_Man_(song)" title="Iron Man (song) - Wikipedia, the free encyclopedia">
+      <TargetSentence>&amp;quot;&lt;b&gt;Iron Man&lt;/b&gt;&amp;quot; is a song by British heavy metal band Black Sabbath It is taken from   their second studio album Paranoid released in 1970. It was later included on &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </iron_man.n.35>
+    <iron_man.n.36 url="http://en.wikipedia.org/wiki/Iron_Man_3" title="Iron Man 3 - Wikipedia, the free encyclopedia">
+      <TargetSentence>&lt;b&gt;Iron Man&lt;/b&gt; 3 is an upcoming American superhero film featuring the Marvel Comics   character &lt;b&gt;Iron Man&lt;/b&gt;, produced by Marvel Studios and distributed by Walt Disney &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </iron_man.n.36>
+    <iron_man.n.37 url="http://www.gamegape.com/ironman.aspx" title="iron man games">
+      <TargetSentence>Shoot the Repulsor blast to test your &lt;b&gt;Iron Man&lt;/b&gt; blasting skills. &lt;b&gt;Iron Man&lt;/b&gt;: &lt;b&gt;...&lt;/b&gt; Fight   evil drones and defeat Mandarin to serve justice in the new &lt;b&gt;Iron Man&lt;/b&gt; game!</TargetSentence>
+    </iron_man.n.37>
+    <iron_man.n.38 url="http://marvel.com/characters/bio/1009368/iron_man" title="Iron Man | Characters | Marvel.com">
+      <TargetSentence>Wounded, captured and forced to build a weapon by his enemies, billionaire   industrialist Tony Stark instead created an advanced suit of armor to save his life &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </iron_man.n.38>
+    <iron_man.n.39 url="http://www.ironmanband.com/" title="Iron Man - the official band website">
+      <TargetSentence>2013 &lt;b&gt;Iron Man&lt;/b&gt; Set resolution to 1280 x 960. This site was last updated on   January 24, 2013.</TargetSentence>
+    </iron_man.n.39>
+    <iron_man.n.40 url="http://screenrant.com/iron-man-3-official-synopsis/all/1/" title="Marvel Reveals Official &amp;#39;Iron Man 3′ Synopsis">
+      <TargetSentence>Marvel Studios releases the official plot synopsis for &amp;#39;&lt;b&gt;Iron Man&lt;/b&gt; 3&amp;#39;, revealing a tale   of personal revenge for Tony Stark.</TargetSentence>
+    </iron_man.n.40>
+    <iron_man.n.41 url="http://en.wikipedia.org/wiki/Iron_Man_2" title="Iron Man 2 - Wikipedia, the free encyclopedia">
+      <TargetSentence>&lt;b&gt;Iron Man&lt;/b&gt; 2 is a 2010 American superhero film based on the Marvel Comics   character &lt;b&gt;Iron Man&lt;/b&gt;. It is the sequel to 2008&amp;#39;s &lt;b&gt;Iron Man&lt;/b&gt;, the second piece in a   planned &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </iron_man.n.41>
+    <iron_man.n.42 url="http://en.wikipedia.org/wiki/Iron:_Man" title="Iron: Man - Wikipedia, the free encyclopedia">
+      <TargetSentence>&lt;b&gt;Iron: Man&lt;/b&gt; (colloquially referred to as The &lt;b&gt;Iron Man&lt;/b&gt;) is a statue by Antony Gormley  , in Victoria Square, Birmingham, England. The statue is 6 metres (20 ft) tall, &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </iron_man.n.42>
+    <iron_man.n.43 url="http://tvtropes.org/pmwiki/pmwiki.php/Film/IronMan" title="Iron Man - Television Tropes &amp;amp; Idioms">
+      <TargetSentence>&lt;b&gt;Iron Man&lt;/b&gt; is a live-action American superhero film franchise based on the Marvel   &lt;b&gt;...&lt;/b&gt; &lt;b&gt;Iron Man&lt;/b&gt; (2008): After being attacked by terrorists using his own weapons, &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </iron_man.n.43>
+    <iron_man.n.44 url="http://marvel.wikia.com/Iron_Man" title="Iron Man - Marvel Comics Database - Marvel Database - Wikia">
+      <TargetSentence>The Alternate versions listed below are those of Anthony Stark. All other versions   are...</TargetSentence>
+    </iron_man.n.44>
+    <iron_man.n.45 url="http://www.ign.com/movies/iron-man-3/theater-14285520" title="Iron Man 3 - Movie - IGN">
+      <TargetSentence>IGN is the &lt;b&gt;Iron Man&lt;/b&gt; 3 resource with reviews, trailers, interviews, &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </iron_man.n.45>
+    <iron_man.n.46 url="http://www.fanpop.com/clubs/iron-man" title="Iron Man Fan Club | Fansite with photos, videos, and more">
+      <TargetSentence>Fanpop community fan club for &lt;b&gt;Iron Man&lt;/b&gt; fans to share, discover content and   connect with other fans of &lt;b&gt;Iron Man&lt;/b&gt;. Find &lt;b&gt;Iron Man&lt;/b&gt; videos, photos, wallpapers, &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </iron_man.n.46>
+    <iron_man.n.47 url="http://www.imdb.com/character/ch0020749/" title="Iron Man (Character)">
+      <TargetSentence>&lt;b&gt;Iron Man&lt;/b&gt; (Character) on IMDb: Movies, TV, Celebs, and more...</TargetSentence>
+    </iron_man.n.47>
+    <iron_man.n.48 url="http://www.superherostuff.com/biographies/ironmanbiography.html" title="Iron Man Biography, History">
+      <TargetSentence>&lt;b&gt;Iron Man&lt;/b&gt;, like knights of old, is identified by the armor he wears. The best-  dressed of the Marvel heroes, he has changed his look frequently since his debut   in &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </iron_man.n.48>
+    <iron_man.n.49 url="http://www.youtube.com/watch%3Fv%3D2CzoSeClcw0" title="Iron Man 3 - Official Trailer (HD) - YouTube">
+      <TargetSentence>Oct 22, 2012 &lt;b&gt;...&lt;/b&gt; http://www.joblo.com - &amp;quot;&lt;b&gt;Iron Man&lt;/b&gt; 3&amp;quot; - Official Trailer Marvel&amp;#39;s &amp;quot;&lt;b&gt;Iron Man&lt;/b&gt; 3&amp;quot; pits   brash-but-brilliant industrialist Tony Stark/&lt;b&gt;Iron Man&lt;/b&gt; against an &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </iron_man.n.49>
+    <iron_man.n.50 url="http://www.youtube.com/watch%3Fv%3DaV8H7kszXqo" title="Iron Man 3 Official Trailer (2013) Marvel Movie HD - YouTube">
+      <TargetSentence>Oct 23, 2012 &lt;b&gt;...&lt;/b&gt; Check out our trailer review: http://youtu.be/Zzhfizb8f6Q Subscribe to TRAILERS:   http://bit.ly/sxaw6h Subscribe to COMING SOON: &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </iron_man.n.50>
+    <iron_man.n.51 url="http://www.youtube.com/watch%3Fv%3DFNQowwwwYa0" title="Iron Man 2 Trailer 2 (OFFICIAL) - YouTube">
+      <TargetSentence>Mar 5, 2010 &lt;b&gt;...&lt;/b&gt; &lt;b&gt;Iron Man&lt;/b&gt; 2 Movie Hub: http://marvel.com/movies/iron_man.iron_man_2 Read   &lt;b&gt;Iron Man&lt;/b&gt; digital comics: http://bit.ly/7b9oVc You wanted more &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </iron_man.n.51>
+    <iron_man.n.52 url="http://www.youtube.com/watch%3Fv%3DDIFaeqwES1Y" title="IRON MAN, (Robert Downey, Jr., Terrence Howard), Trailer - YouTube">
+      <TargetSentence>Apr 14, 2008 &lt;b&gt;...&lt;/b&gt; &lt;b&gt;Iron Man&lt;/b&gt; Tony Stark is a billionaire industrialist and genius inventor who is   kidnapped and forced to build a devastating weapon. Instead, using &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </iron_man.n.52>
+    <iron_man.n.53 url="http://ironmanmovie.marvel.com/" title="Iron Man 2 | Trailer &amp;amp; Official Movie Site | Available on Blu-Ray ...">
+      <TargetSentence>Official site for the &lt;b&gt;Iron Man&lt;/b&gt; sequel. &lt;b&gt;Iron Man&lt;/b&gt; 2 Available on Blu-Ray Combo   Pack and DVD September 28!</TargetSentence>
+    </iron_man.n.53>
+    <iron_man.n.54 url="http://www.rottentomatoes.com/m/iron_man_2/" title="Iron Man 2 - Rotten Tomatoes">
+      <TargetSentence>Review: It isn&amp;#39;t quite the breath of fresh air that &lt;b&gt;Iron Man&lt;/b&gt; was, but this sequel   comes close with solid performances and an action-packed plot.</TargetSentence>
+    </iron_man.n.54>
+    <iron_man.n.55 url="http://en.wikipedia.org/wiki/Iron_Man_(TV_series)" title="Iron Man (TV series) - Wikipedia, the free encyclopedia">
+      <TargetSentence>&lt;b&gt;Iron Man&lt;/b&gt;, also known as &lt;b&gt;Iron Man&lt;/b&gt;: The Animated Series, is an American   animated television series based on Marvel Comics&amp;#39; superhero &lt;b&gt;Iron Man&lt;/b&gt;. The   series &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </iron_man.n.55>
+    <iron_man.n.56 url="http://en.wikipedia.org/wiki/Alternative_versions_of_Iron_Man" title="Alternative versions of Iron Man - Wikipedia, the free encyclopedia">
+      <TargetSentence>In addition to his mainstream incarnation, &lt;b&gt;Iron Man&lt;/b&gt; has been depicted in other   fictional universes. Contents. 1 Modern continuity; 2 1602; 3 2020; 4 2093; 5 Age &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </iron_man.n.56>
+    <iron_man.n.57 url="http://en.wikipedia.org/wiki/Ultimate_Iron_Man" title="Ultimate Iron Man - Wikipedia, the free encyclopedia">
+      <TargetSentence>Ultimate &lt;b&gt;Iron Man&lt;/b&gt; is the name of two comic book miniseries written by Orson   Scott Card and published by Marvel Comics. The stories tell the origins of the &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </iron_man.n.57>
+    <iron_man.n.58 url="http://en.wikipedia.org/wiki/Extremis_(comics)" title="Extremis (comics) - Wikipedia, the free encyclopedia">
+      <TargetSentence>&amp;quot;Extremis&amp;quot; is a six-issue story arc from the comic book series &lt;b&gt;Iron Man&lt;/b&gt; (vol. &lt;b&gt;...&lt;/b&gt; &amp;quot;  Extremis&amp;quot; redefines the status quo for &lt;b&gt;Iron Man&lt;/b&gt;, introducing a new origin story,   the &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </iron_man.n.58>
+    <iron_man.n.59 url="http://en.wikipedia.org/wiki/The_Invincible_Iron_Man" title="The Invincible Iron Man - Wikipedia, the free encyclopedia">
+      <TargetSentence>The Invincible &lt;b&gt;Iron Man&lt;/b&gt; is an Eisner Award-winning comic book series written by   Matt Fraction with art by Salvador Larroca, published by Marvel Comics and &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </iron_man.n.59>
+    <iron_man.n.60 url="http://marvel.com/comic_books/issue/43944/iron_man_2012_1" title="Iron Man (2012) #1 | Comic Books | Comics | Marvel.com">
+      <TargetSentence>Tony Stark&amp;amp;mdash;&lt;b&gt;Iron Man&lt;/b&gt;: Technological visionary, wealthy playboy,   unparalleled engineer, and armored Avenger. His greatest invention becomes   his &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </iron_man.n.60>
+    <iron_man.n.61 url="http://marvelkids.marvel.com/games/play/2/iron_man_flight_test" title="Iron Man Flight Test | Marvel Heroes Games | Marvel Kids Games ...">
+      <TargetSentence>Blast your way into the record books as &lt;b&gt;Iron Man&lt;/b&gt; in this MarvelKids.com   exclusive game! Can you take down Gigantimo and complete all 10 levels?   Unleash &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </iron_man.n.61>
+    <iron_man.n.62 url="http://www.imdb.com/title/tt0115218/" title="Iron Man (TV Series 1994–1996) - IMDb">
+      <TargetSentence>With Robert Hays, John Reilly, Jim Cummings, Dorian Harewood. Industrialist   Tony Stark leads his private team of superheros as &lt;b&gt;Iron Man&lt;/b&gt; against the forces of &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </iron_man.n.62>
+    <iron_man.n.63 url="http://movies.yahoo.com/movie/iron-man-2/" title="Iron Man 2 | Trailer and Cast - Yahoo! Movies">
+      <TargetSentence>Get the complete cast, production details, reviews and trailer of &lt;b&gt;Iron Man&lt;/b&gt; 2 on   Yahoo! Movies. The world is aware that billionaire inventor Tony Stark is the &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </iron_man.n.63>
+    <iron_man.n.64 url="http://www.amazon.com/Iron-Man/dp/B001FD5KJM" title="Amazon.com: Iron Man: Robert Downey Jr., Terrence Howard, Jeff ...">
+      <TargetSentence>US Theatrical Release Date: May 02, 2008; MPAA: Rated PG-13 for some   intense sequences of sci-fi action and violence, and brief suggestive content &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </iron_man.n.64>
+  </iron_man.n.test>
+</dataSet>

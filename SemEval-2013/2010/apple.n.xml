@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataSet authors="Roberto Navigli, Daniele Vannella" task="SemeVal 2013 task 11" lang="en">
+  <apple.n.test>
+    <apple.n.1 url="http://www.apple.com/" title="Apple">
+      <TargetSentence>&lt;b&gt;Apple&lt;/b&gt; designs and creates iPod and iTunes, Mac laptop and desktop computers,   the OS X operating system, and the revolutionary iPhone and iPad.</TargetSentence>
+    </apple.n.1>
+    <apple.n.2 url="http://store.apple.com/" title="Official Apple Store - Buy the new iPhone 5, iPod touch, iPod nano ...">
+      <TargetSentence>Get fast, free shipping on orders over $50 or pick up at a local Apple Retail Store.   Buy now and get free engraving on the new iPad and iPod.</TargetSentence>
+    </apple.n.2>
+    <apple.n.3 url="http://www.apple.com/ipad/" title="Apple - The new iPad - It&amp;#39;s brilliant from the outside in.">
+      <TargetSentence>iPad is a magical window where nothing comes between you and what you love.   Now that experience is even more incredible with the new iPad.</TargetSentence>
+    </apple.n.3>
+    <apple.n.4 url="http://www.apple.com/support/" title="Apple - Support">
+      <TargetSentence>The Apple support homepage is your starting point for help with Apple hardware   and software products, featuring user forums, manuals, support downloads, &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </apple.n.4>
+    <apple.n.5 url="http://www.apple.com/itunes/" title="Apple - iTunes - Everything you need to be entertained.">
+      <TargetSentence>iTunes is now music, movies, TV, shows, iTunes in the Cloud, and iTunes Match.</TargetSentence>
+    </apple.n.5>
+    <apple.n.6 url="http://www.apple.com/iphone/" title="Apple - iPhone 5 - The thinnest, lightest, fastest iPhone ever.">
+      <TargetSentence>It&amp;#39;s so thin and so light, yet iPhone 5 features a larger display, a faster chip, the   latest wireless technology, an 8MP iSight camera, and more.</TargetSentence>
+    </apple.n.6>
+    <apple.n.7 url="http://www.apple.com/mac/" title="Apple - Mac">
+      <TargetSentence>Discover the world of Mac. Check out MacBook, iMac, iLife, and more. Download   QuickTime, Safari, and widgets for free.</TargetSentence>
+    </apple.n.7>
+    <apple.n.8 url="http://en.wikipedia.org/wiki/Apple_Inc." title="Apple Inc. - Wikipedia, the free encyclopedia">
+      <TargetSentence>&lt;b&gt;Apple&lt;/b&gt; Inc. (formerly &lt;b&gt;Apple&lt;/b&gt; Computer, Inc.) is an American multinational   corporation that designs and sells consumer electronics, computer software, and &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </apple.n.8>
+    <apple.n.9 url="http://en.wikipedia.org/wiki/Apple" title="Apple - Wikipedia, the free encyclopedia">
+      <TargetSentence>The &lt;b&gt;apple&lt;/b&gt; is the pomaceous fruit of the &lt;b&gt;apple&lt;/b&gt; tree, species Malus domestica in   the rose family (Rosaceae). It is one of the most widely cultivated tree fruits, and &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </apple.n.9>
+    <apple.n.10 url="http://quotes.wsj.com/AAPL" title="AAPL Stock Price Today - Apple Inc. Stock Quote - WSJ.com">
+      <TargetSentence>&lt;b&gt;Apple&lt;/b&gt; Inc. AAPL (NASDAQ). Help &lt;b&gt;...&lt;/b&gt; Singapore Exports Fall, Missing Out on   &lt;b&gt;Apple&lt;/b&gt; Harvest &lt;b&gt;...&lt;/b&gt; &lt;b&gt;Apple&lt;/b&gt; Contractor Hon Hai Says It Hired Underage Workers &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </apple.n.10>
+    <apple.n.11 url="http://news.cnet.com/apple/" title="Apple - The latest on Apple - CNET News">
+      <TargetSentence>1 hour ago &lt;b&gt;...&lt;/b&gt; Check out the latest &lt;b&gt;Apple&lt;/b&gt; news on CNET News, featuring developments on the   iPhone, Mac OS, iPod, iPad, and much more.</TargetSentence>
+    </apple.n.11>
+    <apple.n.12 url="http://finance.yahoo.com/q%3Fs%3DAAPL" title="AAPL: Summary for Apple Inc.- Yahoo! Finance">
+      <TargetSentence>View the basic AAPL stock chart on Yahoo! Finance. Change the date range,   chart type and compare &lt;b&gt;Apple&lt;/b&gt; Inc. against other companies.</TargetSentence>
+    </apple.n.12>
+    <apple.n.13 url="http://mashable.com/follow/topics/apple/" title="Apple">
+      <TargetSentence>brightcove.createExperiences(); &lt;b&gt;Apple&lt;/b&gt; is a multinational technology corporation   best known for its line of Macintosh computers, iPhone mobile devices, iPod &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </apple.n.13>
+    <apple.n.14 url="http://www.google.com/finance%3Fcid%3D22144" title="Apple Inc.: NASDAQ:AAPL quotes &amp;amp; news - Google Finance">
+      <TargetSentence>Get detailed financial information on &lt;b&gt;Apple&lt;/b&gt; Inc. (NASDAQ:AAPL) including real-  time stock quotes, historical charts &amp;amp; financial news, all for free!</TargetSentence>
+    </apple.n.14>
+    <apple.n.15 url="http://topics.nytimes.com/top/news/business/companies/apple_computer_inc/index.html" title="Apple Incorporated - Times Topics - The New York Times">
+      <TargetSentence>&lt;b&gt;Apple&lt;/b&gt; Incorporated financial and business news, updates, and information from   The New York Times and other leading providers.</TargetSentence>
+    </apple.n.15>
+    <apple.n.16 url="http://www.youtube.com/user/Apple" title="Apple - YouTube">
+      <TargetSentence>&lt;b&gt;Apple&lt;/b&gt; designs the Mac, along with OS X, iLife, and iWork. It leads the digital   music revolution with iPods and iTunes. It reinvented the mobile phone with   iPhone &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </apple.n.16>
+    <apple.n.17 url="http://www.apple.com/appletv/" title="Apple - Apple TV - HD iTunes content and more on your TV.">
+      <TargetSentence>Apple TV lets you play 1080p HD videos from iTunes and Netflix, enjoy music   and photos from iCloud, and use AirPlay to stream from your iOS devices.</TargetSentence>
+    </apple.n.17>
+    <apple.n.18 url="http://gizmodo.com/apple/" title="Apple News, Videos, Reviews and Gossip - Gizmodo">
+      <TargetSentence>The New iPod Touch Doesn&amp;#39;t Have an Ambient Light Sensor Because It&amp;#39;s Too   Thin, Says Phil Schiller. The iPad Mini Is Coming October 23rd. iPad Mini Rumor &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </apple.n.18>
+    <apple.n.19 url="http://www.computerworld.com/s/article/9137163/Apple_Update" title="Apple Update - Computerworld">
+      <TargetSentence>Latest news, reviews, opinions and more about &lt;b&gt;Apple&lt;/b&gt;.</TargetSentence>
+    </apple.n.19>
+    <apple.n.20 url="http://www.forbes.com/companies/apple/" title="Apple on the Forbes List">
+      <TargetSentence>&lt;b&gt;Apple&lt;/b&gt; #1 on the Forbes World&amp;#39;s Most Powerful Brands List.</TargetSentence>
+    </apple.n.20>
+    <apple.n.21 url="http://finapps.forbes.com/finapps/jsp/finance/compinfo/CIAtAGlance.jsp%3Ftkr%3DAAPL" title="AAPL - Apple - Stock Quote Analysis At A Glance - Forbes.com">
+      <TargetSentence>View the latest AAPL - &lt;b&gt;Apple&lt;/b&gt; real-time stock quote information. Get detailed   breaking investment performances, chart analysis, stock prices, Thomson   earnings &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </apple.n.21>
+    <apple.n.22 url="http://www.bloomberg.com/quote/AAPL:US" title="AAPL:NASDAQ GS Stock Quote - Apple Inc - Bloomberg">
+      <TargetSentence>9 minutes ago &lt;b&gt;...&lt;/b&gt; Stock analysis for &lt;b&gt;Apple&lt;/b&gt; Inc (AAPL:NASDAQ GS) including stock price, stock   chart, company news, key statistics, fundamentals and company &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </apple.n.22>
+    <apple.n.23 url="http://trailers.apple.com/trailers/" title="Apple Trailers - iTunes Movie Trailers">
+      <TargetSentence>View the latest movie trailers for many current and upcoming releases. Many   trailers are available in high-quality HD, iPod, and iPhone versions.</TargetSentence>
+    </apple.n.23>
+    <apple.n.24 url="http://developer.apple.com/" title="Apple Developer">
+      <TargetSentence>Design. Code. Build. Innovate. Here&amp;#39;s where it all happens for Apple developers.</TargetSentence>
+    </apple.n.24>
+    <apple.n.25 url="http://www.apple.com/ipod/" title="Apple - Play music and more on iPod.">
+      <TargetSentence>Learn about iPod, Apple TV, and more. Download iTunes for free and purchase   iTunes Gift Cards. Check out the most popular TV shows, movies, and music.</TargetSentence>
+    </apple.n.25>
+    <apple.n.26 url="http://www.apple.com/startpage/" title="Apple - Start">
+      <TargetSentence>Apple hot news, launches, apple events, movie trailers and iTunes this week. &lt;b&gt;...&lt;/b&gt;   Buy a new iPod from the Apple Online Store and get free personal engraving &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </apple.n.26>
+    <apple.n.27 url="http://www.apple.com/retail/" title="Apple Retail Store">
+      <TargetSentence>Visit the Apple Retail Store to shop for Mac, iPhone, iPad, iPod, and more. Sign   up for free workshops or visit the Genius bar for free support.</TargetSentence>
+    </apple.n.27>
+    <apple.n.28 url="http://www.apple.com/ipod-touch/" title="Apple - iPod touch">
+      <TargetSentence>iPod touch is ultrathin and colorful, plays music and video, rules games and apps  , makes video calls, takes amazing photos, and shoots HD video.</TargetSentence>
+    </apple.n.28>
+    <apple.n.29 url="http://www.apple.com/jobs/" title="Apple - Jobs at Apple (us)">
+      <TargetSentence>Users may view the official Apple website for current job opportunities,   information on employee benefits,and tips on how to apply. Opportunities for   internships &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </apple.n.29>
+    <apple.n.30 url="http://www.apple.com/why-mac/" title="Apple - Why You&amp;#39;ll Love a Mac - A Mac is the ultimate upgrade.">
+      <TargetSentence>Why get a PC with the latest Windows when you can get a Mac? A Mac has better   hardware, better software, a better OS, better support, and it works with your &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </apple.n.30>
+    <apple.n.31 url="http://www.apple.com/quicktime/" title="Apple - QuickTime - Download and watch videos, movies, and TV ...">
+      <TargetSentence>Download QuickTime 7 Player free for PC and Mac. Start watching videos,   movies, and TV shows. Quicktime 7 takes advantage of the H.264 video   compression &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </apple.n.31>
+    <apple.n.32 url="http://www.apple.com/icloud/" title="Apple - iCloud - Your content. On all your devices.">
+      <TargetSentence>iCloud is cloud service done right. It stores your music, photos, apps, calendars,   documents, and more. And wirelessly pushes them to all your devices.</TargetSentence>
+    </apple.n.32>
+    <apple.n.33 url="http://www.apple.com/imac/" title="Apple - iMac - The ultimate all-in-one desktop computer.">
+      <TargetSentence>The new iMac features quad-core processors, advanced HD graphics, and   Thunderbolt I/O. It&amp;#39;s the all-in-one computer that sets a higher standard.</TargetSentence>
+    </apple.n.33>
+    <apple.n.34 url="http://www.apple.com/ipod-nano/" title="Apple - iPod nano with Multi-Touch.">
+      <TargetSentence>iPod nano features a Multi-Touch display, built-in Bluetooth, FM radio, video, and   more. Just $149.</TargetSentence>
+    </apple.n.34>
+    <apple.n.35 url="http://www.apple.com/quicktime/download/" title="Apple - QuickTime - Download">
+      <TargetSentence>Download QuickTime 7 Player free for PC and Mac. Upgrade to QuickTime 7 Pro   and capture video with a single click or convert media into a variety of formats.</TargetSentence>
+    </apple.n.35>
+    <apple.n.36 url="http://www.apple.com/pr/" title="Apple - Press Info">
+      <TargetSentence>Media Resources. Product Info. Browse recent Apple press releases by product.   iPad and iPod Product Images. View and download product images for media &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </apple.n.36>
+    <apple.n.37 url="http://www.apple.com/macmini/" title="Apple - Mac mini - Even more powerful. Even more affordable.">
+      <TargetSentence>Up to 2x faster processors. Up to 2x faster graphics. High-speed Thunderbolt I/O.   And still the world&amp;#39;s most energy-efficient desktop computer.</TargetSentence>
+    </apple.n.37>
+    <apple.n.38 url="http://www.apple.com/iphone/from-the-app-store/" title="Apple – iPhone 5 - Learn about apps from the App Store.">
+      <TargetSentence>Learn more about iPhone apps made by Apple — Cards, iPhoto, iMovie,   GarageBand, iBooks, Keynote, Pages, and Numbers — and other apps on the   App &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </apple.n.38>
+    <apple.n.39 url="http://www.apple.com/education/" title="Apple in Education">
+      <TargetSentence>Apple in Education · iPad · Mac · iPod touch &lt;b&gt;...&lt;/b&gt; Learn about iPad in education ·   iBooks textbooks for iPad. The next chapter in learning. With video, audio, and &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </apple.n.39>
+    <apple.n.40 url="http://investor.apple.com/" title="Apple Inc. - Overview">
+      <TargetSentence>The stock information is provided by eSignal, stock charts are provided by   NASDAQ OMX, both third party services, and Apple Inc. does not maintain or   provide &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </apple.n.40>
+    <apple.n.41 url="http://www.apple.com/macbookair/" title="Apple - MacBook Air - The ultimate everyday notebook.">
+      <TargetSentence>The new MacBook Air is faster and more powerful than before, yet it&amp;#39;s still   incredibly thin and light. It&amp;#39;s everything a notebook should be. And more.</TargetSentence>
+    </apple.n.41>
+    <apple.n.42 url="http://www.apple.com/letter-from-tim-cook-on-maps/" title="Apple - A letter from Tim Cook on Maps">
+      <TargetSentence>To our customers, At Apple, we strive to make world-class products that deliver   the best experience possible to our customers. With the launch of our new Maps &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </apple.n.42>
+    <apple.n.43 url="http://www.apple.com/downloads/" title="Apple - Downloads">
+      <TargetSentence>A catalog of products made for the Mac from Apple Computer.</TargetSentence>
+    </apple.n.43>
+    <apple.n.44 url="http://www.apple.com/ios/" title="Apple - iOS 6 - 200+ new features on iPhone, iPad, and iPod touch.">
+      <TargetSentence>The free iOS 6 Software Update includes over 200 new features, taking the   world&amp;#39;s most advanced mobile operating system and moving it even further   ahead.</TargetSentence>
+    </apple.n.44>
+    <apple.n.45 url="http://developer.apple.com/wwdc/" title="WWDC - Apple Developer">
+      <TargetSentence>San Jose, California, United States. Overview of the conference with agendas   and offering information.</TargetSentence>
+    </apple.n.45>
+    <apple.n.46 url="http://www.forbes.com/companies/apple/" title="Apple on the Forbes List">
+      <TargetSentence>&lt;b&gt;Apple&lt;/b&gt; #1 on the Forbes World&amp;#39;s Most Powerful Brands List.</TargetSentence>
+    </apple.n.46>
+    <apple.n.47 url="http://www.bloomberg.com/quote/AAPL:US" title="AAPL:NASDAQ GS Stock Quote - Apple Inc - Bloomberg">
+      <TargetSentence>9 minutes ago &lt;b&gt;...&lt;/b&gt; Stock analysis for &lt;b&gt;Apple&lt;/b&gt; Inc (AAPL:NASDAQ GS) including stock price, stock   chart, company news, key statistics, fundamentals and company &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </apple.n.47>
+    <apple.n.48 url="http://gizmodo.com/apple/" title="Apple News, Videos, Reviews and Gossip - Gizmodo">
+      <TargetSentence>The New iPod Touch Doesn&amp;#39;t Have an Ambient Light Sensor Because It&amp;#39;s Too   Thin, Says Phil Schiller. The iPad Mini Is Coming October 23rd. iPad Mini Rumor &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </apple.n.48>
+    <apple.n.49 url="http://www.apple.com/macpro/" title="Apple - Mac Pro - The fastest, most powerful Mac ever.">
+      <TargetSentence>Meet Mac Pro. It&amp;#39;s the fastest Mac ever with up to 12 cores of processing power,   more advanced graphics, and millions of possible configurations.</TargetSentence>
+    </apple.n.49>
+    <apple.n.50 url="http://www.apple.com/displays/" title="Apple - Thunderbolt Display - More pixels and more possibilities.">
+      <TargetSentence>A stunning 27-inch LED-backlit display with built-in, high-speed Thunderbolt I/O.   You&amp;#39;ve never seen a display quite like it. &lt;b&gt;...&lt;/b&gt; LED Cinema Display · Available &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </apple.n.50>
+    <apple.n.51 url="http://www.apple.com/magicmouse/" title="Apple - Magic Mouse - The world&amp;#39;s first Multi-Touch mouse.">
+      <TargetSentence>Magic Mouse is a Multi-Touch mouse that works wirelessly via Bluetooth wireless   technology. It lets you click anywhere, scroll in any direction, and perform &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </apple.n.51>
+    <apple.n.52 url="http://www.apple.com/finalcutpro/" title="Apple - Final Cut Pro X - A revolution in creative editing.">
+      <TargetSentence>The ideal NLE for creative video editors, Final Cut Pro X introduces a new   Magnetic Timeline, dynamic media organization, and blazing performance.</TargetSentence>
+    </apple.n.52>
+    <apple.n.53 url="http://www.apple.com/itunes/download/" title="Apple - iTunes - Download iTunes Now">
+      <TargetSentence>The world&amp;#39;s best digital music jukebox. Download music, TV shows, movies, and   more.</TargetSentence>
+    </apple.n.53>
+    <apple.n.54 url="http://www.apple.com/html5/" title="Apple - HTML5">
+      <TargetSentence>Every new Apple mobile device and every new Mac — along with the latest   version of Apple&amp;#39;s Safari web browser — supports web standards including   HTML5, &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </apple.n.54>
+    <apple.n.55 url="http://store.apple.com/us/browse/home/shop_ipad/family/ipad" title="iPad - New iPad and iPad 2 with Free Shipping - Apple Store (U.S.)">
+      <TargetSentence>With the stunning Retina display. 5MP iSight camera. And ultrafast 4G LTE.   Starting at $499.00. Buy online and get free shipping or pick up at your favorite   Apple &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </apple.n.55>
+    <apple.n.56 url="http://store.apple.com/us/browse/home/shop_iphone/family/iphone" title="iPhone - Buy iPhone 5 and iPhone 4S with Free Shipping - Apple ...">
+      <TargetSentence>Order the new iPhone 5 in white &amp;amp; silver or black &amp;amp; slate. iPhone 5 features a thin   and light design, A6 chip, 4-inch Retina display, Apple EarPods, iOS 6, and Siri &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </apple.n.56>
+    <apple.n.57 url="http://www.apple.com/ipod-shuffle/" title="Apple - Colorful iPod shuffle with VoiceOver, playlists, and more.">
+      <TargetSentence>The clip-and-go iPod shuffle. With buttons, VoiceOver, and playlists, it&amp;#39;s the best   of iPod shuffle. Available in seven colors.</TargetSentence>
+    </apple.n.57>
+    <apple.n.58 url="http://www.apple.com/iphone/ios/" title="iPhone Software Update - Apple">
+      <TargetSentence>You know how to use iPhone, iPad, and iPod touch from the first time you pick   them up. &lt;b&gt;...&lt;/b&gt; Hardware and software made for each other. &lt;b&gt;...&lt;/b&gt; Easy to update.</TargetSentence>
+    </apple.n.58>
+    <apple.n.59 url="http://www.apple.com/ipad/features/" title="Apple - The new iPad - It&amp;#39;s breakthrough because its features are.">
+      <TargetSentence>Everything you do with iPad, you do through its large, beautiful display. And   when the display is better, the entire iPad experience is better. The Retina   display &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </apple.n.59>
+    <apple.n.60 url="http://www.apple.com/ipad/specs/" title="Apple - The new iPad - View all the technical specifications.">
+      <TargetSentence>See full tech specs for iPad, including screen resolution, height, weight,   performance, battery life, storage capacity, for Wi-Fi and cellular models.</TargetSentence>
+    </apple.n.60>
+    <apple.n.61 url="http://www.apple.com/aperture/" title="Apple - Aperture - Pro performance with iPhoto simplicity.">
+      <TargetSentence>Aperture is a professional photography application that lets you refine images,   showcase your photography, and manage massive photo libraries.</TargetSentence>
+    </apple.n.61>
+    <apple.n.62 url="http://developer.apple.com/iphone/" title="iOS Dev Center - Apple Developer">
+      <TargetSentence>Log in to get the most out of the iOS Dev Center. Log in. Log in with the Apple ID   and password you used to register as an Apple Developer, or register for free &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </apple.n.62>
+    <apple.n.63 url="http://en.wikipedia.org/wiki/Apple_II_series" title="Apple II series - Wikipedia, the free encyclopedia">
+      <TargetSentence>The &lt;b&gt;Apple&lt;/b&gt; II series (trademarked with square brackets as &amp;quot;&lt;b&gt;Apple&lt;/b&gt; ][&amp;quot;) is a set of 8-  bit home computers, one of the first highly successful mass-produced &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </apple.n.63>
+    <apple.n.64 url="http://support.apple.com/kb/HT1222" title="Apple security updates">
+      <TargetSentence>To learn more about Apple Product Security, see the Apple Product Security   website. This document describes recent updates and releases.</TargetSentence>
+    </apple.n.64>
+  </apple.n.test>
+</dataSet>

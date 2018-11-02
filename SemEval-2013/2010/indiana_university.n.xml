@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataSet authors="Roberto Navigli, Daniele Vannella" task="SemeVal 2013 task 11" lang="en">
+  <indiana_university.n.test>
+    <indiana_university.n.1 url="http://www.indiana.edu/" title="Indiana University">
+      <TargetSentence>&lt;b&gt;Indiana University&lt;/b&gt; is a leading research and teaching institution and one of the   best values in public education according to Kiplinger&amp;#39;s.</TargetSentence>
+    </indiana_university.n.1>
+    <indiana_university.n.2 url="http://www.iub.edu/" title="Indiana University Bloomington">
+      <TargetSentence>&lt;b&gt;Indiana University&lt;/b&gt; Bloomington is one of the leading public research universities   in the United States and the flagship campus of &lt;b&gt;Indiana University&amp;#39;s&lt;/b&gt; eight &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </indiana_university.n.2>
+    <indiana_university.n.3 url="http://en.wikipedia.org/wiki/Indiana_University" title="Indiana University - Wikipedia, the free encyclopedia">
+      <TargetSentence>&lt;b&gt;Indiana University&lt;/b&gt; (IU) is a multi-campus public university system in the state of   Indiana, United States. &lt;b&gt;Indiana University&lt;/b&gt; has a combined student body of more &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </indiana_university.n.3>
+    <indiana_university.n.4 url="http://www.iuhoosiers.com/" title="IUHOOSIERS.COM - Indiana University Athletics">
+      <TargetSentence>The &lt;b&gt;Indiana University&lt;/b&gt; Official Athletic Site, partner of CBS College Sports   Networks, Inc. The most comprehensive coverage of &lt;b&gt;Indiana University&lt;/b&gt; Athletics   on &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </indiana_university.n.4>
+    <indiana_university.n.5 url="http://www.iuhoosiers.com/sports/m-baskbl/ind-m-baskbl-body.html" title="IUHOOSIERS.COM - Indiana University Athletics - Men&amp;#39;s Basketball ...">
+      <TargetSentence>Official &lt;b&gt;Indiana University&lt;/b&gt; Athletics site. Roster, coaches, schedule, results,   history, statistics, press releases, broadcasts and Coach Knight quotes.</TargetSentence>
+    </indiana_university.n.5>
+    <indiana_university.n.6 url="http://www.iupui.edu/" title="IUPUI : Indiana University-Purdue University Indianapolis">
+      <TargetSentence>IUPUI is Indiana&amp;#39;s premier urban university, with over 30000 students in 20   schools and academic units which grant degrees in more than 200 programs   from &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </indiana_university.n.6>
+    <indiana_university.n.7 url="http://www.iup.edu/" title="Indiana University of Pennsylvania">
+      <TargetSentence>IUP offers high-quality academics with extensive faculty interaction in a small   classroom setting.</TargetSentence>
+    </indiana_university.n.7>
+    <indiana_university.n.8 url="http://topics.nytimes.com/topics/reference/timestopics/organizations/i/indiana_university/index.html" title="Indiana University News - The New York Times">
+      <TargetSentence>News about &lt;b&gt;Indiana University&lt;/b&gt;. Commentary and archival information about   &lt;b&gt;Indiana University&lt;/b&gt; from The New York Times.</TargetSentence>
+    </indiana_university.n.8>
+    <indiana_university.n.9 url="http://www.iuhoosiers.com/sports/m-soccer/ind-m-soccer-body.html" title="IUHOOSIERS.COM - Indiana University Athletics - Men&amp;#39;s Soccer ...">
+      <TargetSentence>Hoosiers. News, schedule, coach profiles, photos, media guide, detailed game   reviews.</TargetSentence>
+    </indiana_university.n.9>
+    <indiana_university.n.10 url="http://www.iun.edu/" title="Indiana University Northwest">
+      <TargetSentence>Located in Gary with information concerning the campus, services, an academic   calendar, faculty and degrees offered.</TargetSentence>
+    </indiana_university.n.10>
+    <indiana_university.n.11 url="http://newsinfo.iu.edu/" title="IU News Room: Indiana University">
+      <TargetSentence>Landmark discoveries and the loss of two legendary faculty members. All of these   reflect some of the top stories from across &lt;b&gt;Indiana University&amp;#39;s&lt;/b&gt; campuses in &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </indiana_university.n.11>
+    <indiana_university.n.12 url="http://kelley.iu.edu/" title="Kelley School of Business: Indiana University Bloomington">
+      <TargetSentence>Offers undergraduate and graduate education programs on its Bloomington and   Indianapolis campuses.</TargetSentence>
+    </indiana_university.n.12>
+    <indiana_university.n.13 url="https://www.iusb.edu/" title="Indiana University South Bend">
+      <TargetSentence>Official site. Information about the campus, academics, administration,   admissions, majors, costs, maps, computing, libraries, news, and events.</TargetSentence>
+    </indiana_university.n.13>
+    <indiana_university.n.14 url="http://colleges.usnews.rankingsandreviews.com/best-colleges/indiana-university-1809" title="Indiana University--Bloomington | Best College | US News">
+      <TargetSentence>Is &lt;b&gt;Indiana University&lt;/b&gt;--Bloomington the best college for you? Find out at US News.   See if &lt;b&gt;Indiana University&lt;/b&gt;--Bloomington is ranked and get info on admission, &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </indiana_university.n.14>
+    <indiana_university.n.15 url="http://www.ius.edu/" title="Indiana University Southeast">
+      <TargetSentence>Offers five master&amp;#39;s degree programs, twenty-nine bachelor&amp;#39;s degree programs,   and six associate degree programs.</TargetSentence>
+    </indiana_university.n.15>
+    <indiana_university.n.16 url="http://www.iue.edu/" title="Indiana University East">
+      <TargetSentence>Mar 28, 2012 &lt;b&gt;...&lt;/b&gt; &lt;b&gt;Indiana University&lt;/b&gt; East leads the region as the premier four-year and master&amp;#39;s   public institution in eastern Indiana and western Ohio.</TargetSentence>
+    </indiana_university.n.16>
+    <indiana_university.n.17 url="http://en.wikipedia.org/wiki/Indiana_University_Bloomington" title="Indiana University Bloomington - Wikipedia, the free encyclopedia">
+      <TargetSentence>&lt;b&gt;Indiana University&lt;/b&gt; Bloomington (IU Bloomington) is a public research university   located in Bloomington, Indiana, in the United States. IU Bloomington is the &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </indiana_university.n.17>
+    <indiana_university.n.18 url="http://www.facebook.com/IndianaUniversity" title="Indiana University - Bloomington, IN - College/University | Facebook">
+      <TargetSentence>&lt;b&gt;Indiana University&lt;/b&gt;, Bloomington, IN. 162895 likes · 2079 talking about this ·   128907 were here.</TargetSentence>
+    </indiana_university.n.18>
+    <indiana_university.n.19 url="http://content.usatoday.com/topics/topic/Organizations/Schools/Indiana%2BUniversity" title="Indiana University Topics Page - USATODAY.com">
+      <TargetSentence>Collection of all USATODAY.com coverage of &lt;b&gt;Indiana University&lt;/b&gt;, including   articles, videos, photos, and quotes.</TargetSentence>
+    </indiana_university.n.19>
+    <indiana_university.n.20 url="http://music.indiana.edu/" title="Jacobs School of Music - Indiana University">
+      <TargetSentence>Award-winning composer Claude Baker releases new CD · Choral conductor   Simon Carrington in residence at IU Jacobs School of Music · Indiana University &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </indiana_university.n.20>
+    <indiana_university.n.21 url="http://admit.indiana.edu/" title="Office of Admissions: Indiana University Bloomington">
+      <TargetSentence>What makes IU the ideas college? Watch your personalized video and see what   it&amp;#39;s like · Indiana University · Contact the Office of Admissions | Privacy Notice &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </indiana_university.n.21>
+    <indiana_university.n.22 url="http://www.soic.indiana.edu/computer-science/" title="Computer Science: School of Informatics and Computing: Indiana ...">
+      <TargetSentence>CS Program - Home · Computer Science Faculty · Research Centers and   Research Areas · Computer Science Technical Reports · Information for   Prospective &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </indiana_university.n.22>
+    <indiana_university.n.23 url="http://www.indiana.edu/campuses/index.shtml" title="Campuses: Indiana University">
+      <TargetSentence>Information about the eight campuses of Indiana University.</TargetSentence>
+    </indiana_university.n.23>
+    <indiana_university.n.24 url="http://www.libraries.iub.edu/" title="Indiana University Libraries">
+      <TargetSentence>Particular emphasis is placed on medicine, the physical sciences, the social   sciences and humanities. Research affiliation: Association of American   Universities, &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </indiana_university.n.24>
+    <indiana_university.n.25 url="http://www.indiana.edu/~mfawrite/" title="Creative Writing Program: Indiana University">
+      <TargetSentence>The Creative Writing Program at Indiana University in Bloomington offers a   Master of Fine Arts (M.F.A.) degree in fiction and poetry. The M.F.A. is a three-  year, &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </indiana_university.n.25>
+    <indiana_university.n.26 url="http://www.slis.indiana.edu/" title="School of Library and Information Science, Indiana University">
+      <TargetSentence>The School of Library and Information Science (SLIS) at IU offers programs which   &lt;b&gt;...&lt;/b&gt; Dean Shaw - Program Evaluation Visit - Kuwait University, November 2012 &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </indiana_university.n.26>
+    <indiana_university.n.27 url="http://graduate.indiana.edu/" title="University Graduate School -- Indiana University, Bloomington">
+      <TargetSentence>The University Graduate School. Quality programs with in-depth research   experience. Invest. in. your. future. Collaboration, innovation and inclusiveness.</TargetSentence>
+    </indiana_university.n.27>
+    <indiana_university.n.28 url="http://www.math.indiana.edu/" title="Department of Mathematics: Indiana University Bloomington">
+      <TargetSentence>This is the Department of Mathematics at Indiana University Bloomington website  . Information you can find on this website includes Undergraduate Studies, &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </indiana_university.n.28>
+    <indiana_university.n.29 url="http://www.soic.indiana.edu/informatics/" title="Informatics: School of Informatics and Computing: Indiana University ...">
+      <TargetSentence>SoIC informatics program. &lt;b&gt;...&lt;/b&gt; IU informatics professor receives $2.4 million from   Homeland Security to keep computer users safe. Mon, 10 Dec 2012 11:39:00 &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </indiana_university.n.29>
+    <indiana_university.n.30 url="http://www.opt.indiana.edu/" title="Indiana University School of Optometry">
+      <TargetSentence>Indiana University School of Optometry, Bloomington, Indiana: Demographics,   vision statement, mission statement, membership and accreditation, history, &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </indiana_university.n.30>
+    <indiana_university.n.31 url="http://www.iuhoosiers.com/sports/m-footbl/ind-m-footbl-body.html" title="IUHOOSIERS.COM - Indiana University Athletics - Football ...">
+      <TargetSentence>The &lt;b&gt;Indiana University&lt;/b&gt; Official Athletic Site, partner of CBS College Sports   Networks, Inc. The most comprehensive coverage of &lt;b&gt;Indiana University&lt;/b&gt; Athletics   on &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </indiana_university.n.31>
+    <indiana_university.n.32 url="http://www.iub.edu/about/index.shtml" title="About IU: Indiana University Bloomington">
+      <TargetSentence>&lt;b&gt;Indiana University&lt;/b&gt; Bloomington attracts students from around the globe who want   the ideal college experience.</TargetSentence>
+    </indiana_university.n.32>
+    <indiana_university.n.33 url="http://medicine.iu.edu/" title="Home - IU School of Medicine - Indiana University">
+      <TargetSentence>The &lt;b&gt;Indiana University&lt;/b&gt; School of Medicine is Indiana&amp;#39;s only med school and has   the second-largest student body in the nation.</TargetSentence>
+    </indiana_university.n.33>
+    <indiana_university.n.34 url="http://www.indiana.edu/~histweb/" title="Department of History: Indiana University">
+      <TargetSentence>The faculty and students of Indiana University&amp;#39;s Department of History apply   these tools to inquiries that range across geographic and disciplinary boundaries  .</TargetSentence>
+    </indiana_university.n.34>
+    <indiana_university.n.35 url="http://www.indiana.edu/~afrist/" title="African Studies Program | Indiana University Bloomington">
+      <TargetSentence>Dec 12, 2012 &lt;b&gt;...&lt;/b&gt; The African Studies Program has long been recognized as one of the leading   centers for the interdisciplinary study of Africa. It has been a U.S. &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </indiana_university.n.35>
+    <indiana_university.n.36 url="http://geology.indiana.edu/" title="Geological Sciences at Indiana -- Indiana University, Bloomington">
+      <TargetSentence>The Department of Geological Sciences at Indiana University in Bloomington,   Indiana. &lt;b&gt;...&lt;/b&gt; December 3rd News Conference Curiosity Rover Update at AGU &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </indiana_university.n.36>
+    <indiana_university.n.37 url="http://journalism.indiana.edu/" title="Indiana University School of Journalism">
+      <TargetSentence>Description: The IU School of Journalism has been a leader in journalism &lt;b&gt;...&lt;/b&gt; skills   courses and liberal arts classes to give them a well-rounded view of the world. &lt;b&gt;...&lt;/b&gt;   Indiana University School of Journalism, 940 E. Seventh St., Bloomington, IN &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </indiana_university.n.37>
+    <indiana_university.n.38 url="http://www.indiana.edu/~statmath/math/maple/" title="Maple at IU. - Indiana University">
+      <TargetSentence>Software Availability at IUB/IUPUI · Maple Licensing and System Requirements &lt;b&gt;...&lt;/b&gt;   IU&amp;#39;s involvement in the TeraGrid, and the presentation of this material is based &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </indiana_university.n.38>
+    <indiana_university.n.39 url="http://www.conferences.indiana.edu/" title="Indiana University Conferences">
+      <TargetSentence>Indiana University Conferences is chosen to provide Comprehensive Meeting   Planning Services for the Future Problem Solving Program International in 2012 &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </indiana_university.n.39>
+    <indiana_university.n.40 url="http://psych.indiana.edu/" title="Department of Psychological and Brain Sciences: Indiana University ...">
+      <TargetSentence>The Department of Psychological and Brain Sciences at Indiana University   Bloomington. &lt;b&gt;...&lt;/b&gt; Indiana University | IU Bloomington | College of Arts and   Sciences &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </indiana_university.n.40>
+    <indiana_university.n.41 url="http://www.indiana.edu/~gis/" title="GIS at Indiana University Welcome">
+      <TargetSentence>Welcome! This Geographic Information System (GIS) web site provides   information about GIS and Remote Sensing activities at Indiana University. If you   are &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </indiana_university.n.41>
+    <indiana_university.n.42 url="http://www.iumsc.indiana.edu/" title="IUMSC - Indiana University Molecular Structure Center">
+      <TargetSentence>Indiana University Bloomington &lt;b&gt;...&lt;/b&gt; IUMSC - Indiana University Molecular   Structure Center &lt;b&gt;...&lt;/b&gt; Site Network · Reciprocal Net at IUMSC · Common Molecules &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </indiana_university.n.42>
+    <indiana_university.n.43 url="http://www.indiana.edu/~anthro/" title="Department of Anthropology | Indiana University Bloomington">
+      <TargetSentence>Dec 12, 2012 &lt;b&gt;...&lt;/b&gt; This is the Department of Anthropology website. Information you can find on this   website includes undergraduate program, graduate program, &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </indiana_university.n.43>
+    <indiana_university.n.44 url="http://www.research.indiana.edu/" title="Research Gateway : Indiana University">
+      <TargetSentence>Indiana University research offices offer many training sessions and other   educational opportunities to assist the university community in learning more   about the &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </indiana_university.n.44>
+    <indiana_university.n.45 url="http://content.usatoday.com/topics/topic/Organizations/Schools/Indiana%2BUniversity" title="Indiana University Topics Page - USATODAY.com">
+      <TargetSentence>Collection of all USATODAY.com coverage of &lt;b&gt;Indiana University&lt;/b&gt;, including   articles, videos, photos, and quotes.</TargetSentence>
+    </indiana_university.n.45>
+    <indiana_university.n.46 url="http://www.chicagotribune.com/topic/education/colleges-universities/indiana-university-OREDU0000040.topic" title="Indiana University news, photos and video - chicagotribune.com">
+      <TargetSentence>Items 1 - 12 of 857 &lt;b&gt;...&lt;/b&gt; News, Photos and Information about &lt;b&gt;Indiana University&lt;/b&gt;.</TargetSentence>
+    </indiana_university.n.46>
+    <indiana_university.n.47 url="https://twitter.com/IndianaUniv" title="Indiana University (IndianaUniv) on Twitter">
+      <TargetSentence>Official news and updates from &lt;b&gt;Indiana University&lt;/b&gt;. Indiana · http://www.indiana.  edu · 3,721 Tweets · 189 Following · 19,637 Followers. Follow Following   Unfollow &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </indiana_university.n.47>
+    <indiana_university.n.48 url="http://www.iusd.iupui.edu/" title="Indiana University School of Dentistry :: Home">
+      <TargetSentence>Nov 2, 2012 &lt;b&gt;...&lt;/b&gt; Offers a learning environment in which teaching, research, and community   service come together for the preparation of dental professionals.</TargetSentence>
+    </indiana_university.n.48>
+    <indiana_university.n.49 url="http://www.indiana.edu/~relstud/" title="Department of Religious Studies: Indiana University">
+      <TargetSentence>Indiana University Department of Religious Studies. &lt;b&gt;...&lt;/b&gt; College of Arts and   Sciences logo &lt;b&gt;...&lt;/b&gt; Subscribe to the Religious Studies Department e-newsletter &amp;gt;&amp;gt; &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </indiana_university.n.49>
+    <indiana_university.n.50 url="http://www.indiana.edu/~afroamer/" title="AAADS | Home - Indiana University">
+      <TargetSentence>Department of African American and African Diaspora Studies · About · Who we   are · Meet our faculty · Meet our students · Contact us · Undergraduate &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </indiana_university.n.50>
+    <indiana_university.n.51 url="http://www.chem.indiana.edu/" title="Department of Chemistry: Indiana University Bloomington">
+      <TargetSentence>Indiana University Bloomington. Choose which website to search. Chemistry &lt;b&gt;...&lt;/b&gt;   We offer programs of research where students work closely with faculty to chart &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </indiana_university.n.51>
+    <indiana_university.n.52 url="http://www.indiana.edu/~crimjust/" title="Department of Criminal Justice, Indiana University, Bloomington">
+      <TargetSentence>Indiana University Department of Criminal Justice. &lt;b&gt;...&lt;/b&gt; We do so through the study   of the administration of justice (both civil and criminal), the nature of crime, and &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </indiana_university.n.52>
+    <indiana_university.n.53 url="http://scholarships.indiana.edu/" title="Office of Scholarships: Indiana University Bloomington">
+      <TargetSentence>Office of Scholarships · Achieve. &lt;b&gt;...&lt;/b&gt; IU has a wide variety of prestigious   scholarships available to students who will enroll as freshmen in the fall of 2013.   Please &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </indiana_university.n.53>
+    <indiana_university.n.54 url="http://www.indiana.edu/~out/" title="Free OUT, Indiana University Intro Page">
+      <TargetSentence>Free Flash Intro, Sparking Flash Effect, Sparks, Text Effects, ActionScript 3.</TargetSentence>
+    </indiana_university.n.54>
+    <indiana_university.n.55 url="http://www.iub.edu/~engweb/" title="Department of English - Indiana University Bloomington">
+      <TargetSentence>NEWS HIGHLIGHTS. Music for the Worms: Charles Darwin at the Lilly Library   Two new web exhibits, both curated and written by Christoph Irmscher, have just &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </indiana_university.n.55>
+    <indiana_university.n.56 url="http://www.iuhoosiers.com/sports/w-rowing/ind-w-rowing-body.html" title="IUHOOSIERS.COM - Indiana University Athletics - Women&amp;#39;s Rowing ...">
+      <TargetSentence>Official site with press releases, pictures, statistics, roster, schedule and quick   facts.</TargetSentence>
+    </indiana_university.n.56>
+    <indiana_university.n.57 url="http://www.law.indiana.edu/" title="Maurer School of Law: Indiana University">
+      <TargetSentence>The home page for the Indiana University Maurer School of Law Web site. &lt;b&gt;...&lt;/b&gt;   Indiana University Bloomington · Find People; Law School; Law Library. Search &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </indiana_university.n.57>
+    <indiana_university.n.58 url="http://www.bio.indiana.edu/undergraduate/opportunities/research/index.shtml" title="Research Opportunities : Department of Biology : Indiana University ...">
+      <TargetSentence>Undergraduate Research Opportunities. Academic-Year Research Programs.   L490 Independent Study gives students introductory experience with a research &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </indiana_university.n.58>
+    <indiana_university.n.59 url="http://www.indiana.edu/~sphs/" title="Department of Speech and Hearing Sciences | Indiana University ...">
+      <TargetSentence>Nov 14, 2012 &lt;b&gt;...&lt;/b&gt; This is the Department of Speech and Hearing Sciences at Indiana University   Bloomington web page. Information you can find on this website &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </indiana_university.n.59>
+    <indiana_university.n.60 url="http://www.cogs.indiana.edu/" title="Indiana University Cognitive Science Program">
+      <TargetSentence>The Indiana University Cognitive Science Program is home to the NSF IGERT   doctoral training program in the dynamics of brain-body-environment systems in &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </indiana_university.n.60>
+    <indiana_university.n.61 url="http://www.indiana.edu/~eucenter/" title="European Union Center at Indiana University">
+      <TargetSentence>WELCOME to the Indiana University European Union Center. The EU Center   promotes knowledge of the European Union (EU) through education, scholarship &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </indiana_university.n.61>
+    <indiana_university.n.62 url="http://www.physics.indiana.edu/" title="Department of Physics | Indiana University Bloomington">
+      <TargetSentence>This is the Indiana University Department of Physics website. Information on this   website includes Graduate Program, Undergraduate Program, faculty and &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </indiana_university.n.62>
+    <indiana_university.n.63 url="http://www.indiana.edu/~bands/index.php" title="Indiana University Marching Hundred">
+      <TargetSentence>Indiana University&amp;#39;s famed Marching Hundred has taken another significant step   toward its goal of constructing a new practice facility, thanks to a recent gift of &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </indiana_university.n.63>
+    <indiana_university.n.64 url="http://www.indiana.edu/~iupd/" title="Indiana University Police Department">
+      <TargetSentence>IU Police Department - Bloomington. For general safety and security information,   visit http://protect.iu.edu. Welcome to the Indiana University Police Department &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </indiana_university.n.64>
+  </indiana_university.n.test>
+</dataSet>

@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataSet authors="Roberto Navigli, Daniele Vannella" task="SemeVal 2013 task 11" lang="en">
+  <sherlock_holmes.n.test>
+    <sherlock_holmes.n.1 url="http://en.wikipedia.org/wiki/Sherlock_Holmes" title="Sherlock Holmes - Wikipedia, the free encyclopedia">
+      <TargetSentence>&lt;b&gt;Sherlock Holmes&lt;/b&gt; is a fictional detective created by author and physician Sir   Arthur Conan Doyle. A London-based &amp;quot;consulting detective&amp;quot; whose abilities   border &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </sherlock_holmes.n.1>
+    <sherlock_holmes.n.2 url="http://en.wikipedia.org/wiki/Sherlock_Holmes_(2009_film)" title="Sherlock Holmes (2009 film) - Wikipedia, the free encyclopedia">
+      <TargetSentence>Sherlock Holmes is a 2009 British-  American action mystery film based on   the &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </sherlock_holmes.n.2>
+    <sherlock_holmes.n.3 url="http://www.imdb.com/title/tt0988045/" title="Sherlock Holmes (2009) - IMDb">
+      <TargetSentence>Directed by Guy Ritchie. With Robert Downey Jr., Jude Law, Rachel McAdams,   Mark Strong. Detective &lt;b&gt;Sherlock Holmes&lt;/b&gt; and his stalwart partner Watson engage &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </sherlock_holmes.n.3>
+    <sherlock_holmes.n.4 url="http://www.imdb.com/character/ch0026631/" title="Sherlock Holmes (Character)">
+      <TargetSentence>&lt;b&gt;Sherlock Holmes&lt;/b&gt; (Character) on IMDb: Movies, TV, Celebs, and more...</TargetSentence>
+    </sherlock_holmes.n.4>
+    <sherlock_holmes.n.5 url="http://www.sherlock-holmes.co.uk/" title="THE SHERLOCK HOLMES MUSEUM - THE OFFICIAL HOME OF ...">
+      <TargetSentence>Visit 221b Baker Street, London - the world&amp;#39;s most famous address and the   official home of &lt;b&gt;Sherlock Holmes&lt;/b&gt;!</TargetSentence>
+    </sherlock_holmes.n.5>
+    <sherlock_holmes.n.6 url="http://www.sherlock-holmes.org.uk/" title="The Sherlock Holmes Society - Home">
+      <TargetSentence>A literary and social Society for study of the life and work of &lt;b&gt;Sherlock Holmes&lt;/b&gt; and   Dr Watson.</TargetSentence>
+    </sherlock_holmes.n.6>
+    <sherlock_holmes.n.7 url="http://www.pbs.org/wgbh/masterpiece/sherlock/" title="Sherlock | Masterpiece | PBS">
+      <TargetSentence>The dynamic, if dysfunctional duo of &lt;b&gt;Sherlock Holmes&lt;/b&gt; (Benedict Cumberbatch,   War Horse) and Dr. John Watson (Martin Freeman, The Hobbit), battles the worst &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </sherlock_holmes.n.7>
+    <sherlock_holmes.n.8 url="http://www.sherlockholmesonline.org/SherlockHolmes/index.htm" title="Sherlock Holmes - Sir Arthur Conan Doyle">
+      <TargetSentence>&lt;b&gt;Sherlock Holmes&lt;/b&gt;, a character of Sir Arthur Conan Doyle.</TargetSentence>
+    </sherlock_holmes.n.8>
+    <sherlock_holmes.n.9 url="http://www.amazon.com/Complete-Sherlock-Holmes-Novels-Stories/dp/0553328255" title="The Complete Sherlock Holmes: All 4 Novels and 56 Short Stories ...">
+      <TargetSentence>The Complete &lt;b&gt;Sherlock Holmes&lt;/b&gt;: All 4 Novels and 56 Short Stories [Sir Arthur   Conan Doyle] on Amazon.com. *FREE* super saver shipping on qualifying offers.</TargetSentence>
+    </sherlock_holmes.n.9>
+    <sherlock_holmes.n.10 url="http://www.amazon.com/Sherlock-Holmes-Robert-Downey-Jr/dp/B001OQCV6A" title="Amazon.com: Sherlock Holmes: Robert Downey Jr., Jude Law ...">
+      <TargetSentence>The hangman did his job, Dr. Watson declared the condemned man dead...yet   Lord Blackwood has emerged from the tomb to assert his deadly will over 1890 &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </sherlock_holmes.n.10>
+    <sherlock_holmes.n.11 url="http://www.rottentomatoes.com/m/sherlock_holmes_2009/" title="Sherlock Holmes - Rotten Tomatoes">
+      <TargetSentence>Review: Guy Ritchie&amp;#39;s directorial style might not be quite the best fit for an update   on the legendary detective, but &lt;b&gt;Sherlock Holmes&lt;/b&gt; benefits from...</TargetSentence>
+    </sherlock_holmes.n.11>
+    <sherlock_holmes.n.12 url="http://sherlockholmes2.warnerbros.com/" title="SHERLOCK HOLMES: A GAME OF SHADOWS">
+      <TargetSentence>Guy Ritchie helms a new action-packed adventure, following the world&amp;#39;s most   famous detective, &lt;b&gt;SHERLOCK HOLMES&lt;/b&gt; (Robert Downey Jr.), and his associate, &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </sherlock_holmes.n.12>
+    <sherlock_holmes.n.13 url="http://www.sherlockholmes-thegame.com/" title="Sherlock Holmes - Videogames - The official website">
+      <TargetSentence>Discover the adventure video games of the greatest detective!</TargetSentence>
+    </sherlock_holmes.n.13>
+    <sherlock_holmes.n.14 url="http://collider.com/sherlock-holmes-3-news-dan-lin/" title="SHERLOCK HOLMES 3 Update from Producer Dan Lin | Collider">
+      <TargetSentence>Dec 17, 2012 &lt;b&gt;...&lt;/b&gt; For a 125 year old, &lt;b&gt;Sherlock Holmes&lt;/b&gt; is a pretty popular guy. The character is   currently being portrayed on two different television series (the &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </sherlock_holmes.n.14>
+    <sherlock_holmes.n.15 url="http://topics.nytimes.com/topics/reference/timestopics/people/h/sherlock_holmes/index.html" title="Sherlock Holmes News - The New York Times">
+      <TargetSentence>News about &lt;b&gt;Sherlock Holmes&lt;/b&gt;. Commentary and archival information about   &lt;b&gt;Sherlock Holmes&lt;/b&gt; from The New York Times.</TargetSentence>
+    </sherlock_holmes.n.15>
+    <sherlock_holmes.n.16 url="http://www.sherlock-holmes.com/" title="Sherlock Holmes Shoppe: Home Page">
+      <TargetSentence>Home page for The &lt;b&gt;Sherlock Holmes&lt;/b&gt; Shoppe by Classic Specialties.</TargetSentence>
+    </sherlock_holmes.n.16>
+    <sherlock_holmes.n.17 url="http://en.wikipedia.org/wiki/Sherlock_Holmes:_A_Game_of_Shadows" title="Sherlock Holmes: A Game of Shadows - Wikipedia, the free ...">
+      <TargetSentence>Sherlock Holmes: A Game of Shadows   is a 2011 British–American action &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </sherlock_holmes.n.17>
+    <sherlock_holmes.n.18 url="http://www.sherlockholmes.com/" title="Sherlock Holmes">
+      <TargetSentence>&lt;b&gt;Sherlock Holmes&lt;/b&gt; is the worlds most famous and recognised fictional detective,   the first pop icon of the modern age. The &lt;b&gt;Sherlock Holmes&lt;/b&gt; Brand enjoys &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </sherlock_holmes.n.18>
+    <sherlock_holmes.n.19 url="http://www.sherlockian.net/" title="Sherlock Holmes on the Web: the Sherlockian.Net Holmepage">
+      <TargetSentence>Information about &lt;b&gt;Sherlock Holmes&lt;/b&gt; including the original 60 stories and some   background material about Victorian England and detective fiction.</TargetSentence>
+    </sherlock_holmes.n.19>
+    <sherlock_holmes.n.20 url="http://www.youtube.com/watch%3Fv%3DI0hXhGt5XPg" title="Sherlock Holmes - Official Movie Trailer 2009 [High Quality] - HD ...">
+      <TargetSentence>Jun 29, 2009 &lt;b&gt;...&lt;/b&gt; &lt;b&gt;Sherlock Holmes&lt;/b&gt; Movie Trailer - 12.25.09. This trailer is the property of its   respective owner. No copyright infringement intended.</TargetSentence>
+    </sherlock_holmes.n.20>
+    <sherlock_holmes.n.21 url="http://sherlockholmes.stanford.edu/" title="Discovering Sherlock Holmes - A Community Reading Project From ...">
+      <TargetSentence>In 2007, we will continue our rerelease of selected &lt;b&gt;Sherlock Holmes&lt;/b&gt; tales by   Arthur Conan Doyle. Travel with us as we plumb the riches of Stanford Library&amp;#39;s &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </sherlock_holmes.n.21>
+    <sherlock_holmes.n.22 url="http://www.nme.com/filmandtv/news/sherlock-holmes-3-starring-robert-downey-jr-is-still/293552" title="&amp;#39;Sherlock Holmes 3&amp;#39; starring Robert Downey Jr is &amp;#39;still in ... - NME.com">
+      <TargetSentence>Dec 19, 2012 &lt;b&gt;...&lt;/b&gt; A third &lt;b&gt;Sherlock Holmes&lt;/b&gt; movie starring Robert Downey Jr and Jude Law is &lt;b&gt;...&lt;/b&gt;   They reprised their roles for a 2011 sequel, &lt;b&gt;Sherlock Holmes&lt;/b&gt;: A &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </sherlock_holmes.n.22>
+    <sherlock_holmes.n.23 url="http://www.sherlockpeoria.net/Who_is_Sherlock/WhoIsSherlock.html" title="Who is Sherlock Holmes">
+      <TargetSentence>Better to ask &amp;quot;Who was &lt;b&gt;Sherlock Holmes&lt;/b&gt;?&amp;quot; At this point, history has claimed him   as its own. Although his death was never recorded and his obituary never &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </sherlock_holmes.n.23>
+    <sherlock_holmes.n.24 url="http://www.slate.com/articles/health_and_science/science/2013/01/how_to_think_like_sherlock_holmes_see_and_observe_to_fight_attention_blindness.html" title="Do You Think Like Sherlock Holmes? - Slate Magazine">
+      <TargetSentence>Jan 3, 2013 &lt;b&gt;...&lt;/b&gt; I do not think like &lt;b&gt;Sherlock Holmes&lt;/b&gt;. Not in the least. That was the rather   disheartening conclusion I reached while researching a book on the &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </sherlock_holmes.n.24>
+    <sherlock_holmes.n.25 url="http://www.facebook.com/SherlockHolmesMovie" title="Sherlock Holmes | Facebook">
+      <TargetSentence>&lt;b&gt;Sherlock Holmes&lt;/b&gt;. 5119480 likes · 77780 talking about this.</TargetSentence>
+    </sherlock_holmes.n.25>
+    <sherlock_holmes.n.26 url="http://www.parkplazasherlockholmes.com/" title="Sherlock Holmes Hotel">
+      <TargetSentence>4 star hotel in Central London, near Madame Tussauds, Regents Park and   Oxford Street. Hotel is located near Londons Baker Street tube and Wembley &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </sherlock_holmes.n.26>
+    <sherlock_holmes.n.27 url="http://en.wikipedia.org/wiki/Sherlock_(TV_series)" title="Sherlock (TV series) - Wikipedia, the free encyclopedia">
+      <TargetSentence>It stars Benedict Cumberbatch as &lt;b&gt;Sherlock Holmes&lt;/b&gt; and Martin Freeman as   Doctor John &lt;b&gt;...&lt;/b&gt; Steven Moffat and Mark Gatiss, both big &lt;b&gt;Sherlock Holmes&lt;/b&gt; fans   with &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </sherlock_holmes.n.27>
+    <sherlock_holmes.n.28 url="http://www.mysterynet.com/holmes/" title="Sherlock Holmes">
+      <TargetSentence>&lt;b&gt;Sherlock Holmes&lt;/b&gt;, greatest detective, by Sir Arthur Conan Doyle, books, mysteries  , and stories.</TargetSentence>
+    </sherlock_holmes.n.28>
+    <sherlock_holmes.n.29 url="http://www.gutenberg.org/ebooks/1661" title="The Adventures of Sherlock Holmes by Sir Arthur Conan Doyle ...">
+      <TargetSentence>Download the free eBook: The Adventures of &lt;b&gt;Sherlock Holmes&lt;/b&gt; by Sir Arthur   Conan Doyle.</TargetSentence>
+    </sherlock_holmes.n.29>
+    <sherlock_holmes.n.30 url="http://www.thescienceofdeduction.co.uk/" title="The Science of Deduction">
+      <TargetSentence>I&amp;#39;m &lt;b&gt;Sherlock Holmes&lt;/b&gt;, the world&amp;#39;s only consulting detective. I&amp;#39;m not going to go into   detail about how I do what I do because chances are you wouldn&amp;#39;t understand &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </sherlock_holmes.n.30>
+    <sherlock_holmes.n.31 url="http://www.comingsoon.net/films.php%3Fid%3D45650" title="Sherlock Holmes Trailer, News, Videos, and Reviews | ComingSoon ...">
+      <TargetSentence>Plot Summary: In a dynamic new portrayal of Arthur Conan Doyle&amp;#39;s most famous   characters, &amp;quot;&lt;b&gt;Sherlock Holmes&lt;/b&gt;&amp;quot; sends Holmes and his stalwart partner Watson &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </sherlock_holmes.n.31>
+    <sherlock_holmes.n.32 url="http://archive.org/details/OTR_Sherlock_Holmes_smurfmeat" title="Sherlock Holmes --&amp;gt; 125+ episodes, properly titled and tagged ...">
+      <TargetSentence>The New Adventures of &lt;b&gt;Sherlock Holmes&lt;/b&gt; was an old-time radio show which   aired in the USA from October 2, 1939 to July 7, 1947. The show first aired on the &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </sherlock_holmes.n.32>
+    <sherlock_holmes.n.33 url="http://www.fandango.com/sherlockholmes_107400/movieoverview" title="Sherlock Holmes Movie Tickets, Reviews, and Photos - Fandango.com">
+      <TargetSentence>Get the &lt;b&gt;Sherlock Holmes&lt;/b&gt; plot, movie times, movie trailers, movie tickets, cast   photos, and more on Fandango.com.</TargetSentence>
+    </sherlock_holmes.n.33>
+    <sherlock_holmes.n.34 url="http://www.britannica.com/EBchecked/topic/269523/Sherlock-Holmes" title="Sherlock Holmes (fictional character) -- Britannica Online ...">
+      <TargetSentence>Fictional character created by the Scottish writer Sir Arthur Conan Doyle. The   prototype for the modern mastermind detective, Holmes first appeared in Conan &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </sherlock_holmes.n.34>
+    <sherlock_holmes.n.35 url="http://www.blockbuster.com/browse/catalog/movieDetails/344490" title="Sherlock Holmes DVD Rental, Rent Sherlock Holmes Movie Online">
+      <TargetSentence>Rent &lt;b&gt;Sherlock Holmes&lt;/b&gt; DVD and over 100000 other movies at Blockbuster. Buy,   Download, or Rent &lt;b&gt;...&lt;/b&gt; Your source for &lt;b&gt;Sherlock Holmes&lt;/b&gt; reviews and trailers   online.</TargetSentence>
+    </sherlock_holmes.n.35>
+    <sherlock_holmes.n.36 url="http://en.memory-alpha.org/wiki/Sherlock_Holmes" title="Sherlock Holmes - Memory Alpha, the Star Trek Wiki">
+      <TargetSentence>&lt;b&gt;Sherlock Holmes&lt;/b&gt; was a fictional character in a series of books and stories written   in the late...</TargetSentence>
+    </sherlock_holmes.n.36>
+    <sherlock_holmes.n.37 url="http://www.imdb.com/title/tt1515091/" title="Sherlock Holmes: A Game of Shadows (2011) - IMDb">
+      <TargetSentence>Directed by Guy Ritchie. With Robert Downey Jr., Jude Law, Jared Harris, Rachel   McAdams. &lt;b&gt;Sherlock Holmes&lt;/b&gt; and his sidekick Dr. Watson join forces to outwit &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </sherlock_holmes.n.37>
+    <sherlock_holmes.n.38 url="http://www.imdb.com/title/tt0988045/fullcredits" title="Sherlock Holmes (2009) - Full cast and crew">
+      <TargetSentence>&lt;b&gt;Sherlock Holmes&lt;/b&gt; on IMDb: Movies, TV, Celebs, and more...</TargetSentence>
+    </sherlock_holmes.n.38>
+    <sherlock_holmes.n.39 url="http://www.theasylum.cc/product.php%3Fid%3D164" title="The Asylum | SHERLOCK HOLMES">
+      <TargetSentence>Produced by: David Michael Latt, David Rimawi, Paul Bales Directed by: Rachel   Lee Goldenberg Written by: Paul Bales Cinematography by: Adam Silver &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </sherlock_holmes.n.39>
+    <sherlock_holmes.n.40 url="http://www.sherlockholmesonline.org/" title="Sir Arthur Conan Doyle">
+      <TargetSentence>This is the Official web site of the Sir Arthur Conan Doyle Literaray Estate.   Including a specially written Biography of Sir Arthur Conan Doyle and detailed   pages &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </sherlock_holmes.n.40>
+    <sherlock_holmes.n.41 url="http://en.wikipedia.org/wiki/Sherlock_Holmes_(1984_TV_series)" title="Sherlock Holmes (1984 TV series) - Wikipedia, the free encyclopedia">
+      <TargetSentence>Sherlock Holmes is the name given to   the TV series of Sherlock Holmes &lt;b&gt;...&lt;/b&gt; by   British television company Granada   Television between 1984 and 1994, with   the &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </sherlock_holmes.n.41>
+    <sherlock_holmes.n.42 url="http://en.wikipedia.org/wiki/Adaptations_of_Sherlock_Holmes" title="Adaptations of Sherlock Holmes - Wikipedia, the free encyclopedia">
+      <TargetSentence>The stories of Sherlock Holmes by Sir   Arthur Conan Doyle were very popular &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </sherlock_holmes.n.42>
+    <sherlock_holmes.n.43 url="http://en.wikipedia.org/wiki/Sherlock_Holmes_(play)" title="Sherlock Holmes (play) - Wikipedia, the free encyclopedia">
+      <TargetSentence>&lt;b&gt;Sherlock Holmes&lt;/b&gt; is a four-act play written by William Gillette and Sir Arthur   Conan Doyle, based on Conan Doyle&amp;#39;s character &lt;b&gt;Sherlock Holmes&lt;/b&gt;.</TargetSentence>
+    </sherlock_holmes.n.43>
+    <sherlock_holmes.n.44 url="http://en.wikipedia.org/wiki/Sherlock_Holmes_(2010_film)" title="Sherlock Holmes (2010 film) - Wikipedia, the free encyclopedia">
+      <TargetSentence>Sir Arthur Conan Doyle&amp;#39;s Sherlock   Holmes, also known by the shortened   title &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </sherlock_holmes.n.44>
+    <sherlock_holmes.n.45 url="http://www.imdb.com/title/tt0086661/" title="The Adventures of Sherlock Holmes (TV Series 1984–1985) - IMDb">
+      <TargetSentence>With Jeremy Brett, David Burke, Rosalie Williams, Eric Porter. The cases of the   greatest of the detectives.</TargetSentence>
+    </sherlock_holmes.n.45>
+    <sherlock_holmes.n.46 url="http://www.imdb.com/title/tt0163492/" title="Sherlock Holmes (TV Series 1964–1968) - IMDb">
+      <TargetSentence>With Nigel Stock, Peter Cushing, Douglas Wilmer, Peter Madden.</TargetSentence>
+    </sherlock_holmes.n.46>
+    <sherlock_holmes.n.47 url="http://sherlockholmes.stanford.edu/history.html" title="Sherlock Holmes, Victorian Gentleman - Discovering Sherlock ...">
+      <TargetSentence>In 1891, &lt;b&gt;Sherlock Holmes&lt;/b&gt; was a character very much of his time and place, who   appealed to British readers directly by confronting the messy, changeable world &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </sherlock_holmes.n.47>
+    <sherlock_holmes.n.48 url="http://www.youtube.com/watch%3Fv%3DBKnZ8etir6E" title="Sherlock Holmes -The Hound Of The Baskervilles - YouTube">
+      <TargetSentence>Jan 6, 2012 &lt;b&gt;...&lt;/b&gt; &lt;b&gt;Sherlock Holmes&lt;/b&gt; -The Hound Of The Baskervilles. Jijo Philip Abraham·56 videos.   Subscribe Subscribed Unsubscribe 3,384. 390,667. Like &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </sherlock_holmes.n.48>
+    <sherlock_holmes.n.49 url="http://www.sherlock-holmes.co.uk/home.htm" title="THE SHERLOCK HOLMES MUSEUM">
+      <TargetSentence>THE &lt;b&gt;SHERLOCK HOLMES&lt;/b&gt; MUSEUM IS LOCATED AT 221B BAKER STREET   LONDON ENGLAND - THE WORLD&amp;#39;S MOST FAMOUS ADDRESS!</TargetSentence>
+    </sherlock_holmes.n.49>
+    <sherlock_holmes.n.50 url="http://en.wikipedia.org/wiki/Professor_Moriarty" title="Professor Moriarty - Wikipedia, the free encyclopedia">
+      <TargetSentence>The archenemy of &lt;b&gt;Sherlock Holmes&lt;/b&gt;, Moriarty is a criminal mastermind whom &lt;b&gt;...&lt;/b&gt;   Although Moriarty appeared in only two of the 60 &lt;b&gt;Sherlock Holmes&lt;/b&gt; tales by &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </sherlock_holmes.n.50>
+    <sherlock_holmes.n.51 url="http://en.wikipedia.org/wiki/Canon_of_Sherlock_Holmes" title="Canon of Sherlock Holmes - Wikipedia, the free encyclopedia">
+      <TargetSentence>Traditionally, the canon of Sherlock   Holmes consists of the 56 short stories   and &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </sherlock_holmes.n.51>
+    <sherlock_holmes.n.52 url="http://www.imdb.com/title/tt1475582/" title="Sherlock (TV Series 2010– ) - IMDb">
+      <TargetSentence>&lt;b&gt;Sherlock Holmes&lt;/b&gt; (7 episodes, 2010-2012) &lt;b&gt;...&lt;/b&gt; &lt;b&gt;Sherlock Holmes&lt;/b&gt; | Modernized   Setting | Mysterious Villain | Based On Short Story | Murder | See more » &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </sherlock_holmes.n.52>
+    <sherlock_holmes.n.53 url="http://www.imdb.com/title/tt1522835/" title="Sherlock Holmes (Video 2010) - IMDb">
+      <TargetSentence>Directed by Rachel Goldenberg. With Ben Syder, Gareth David-Lloyd, Dominic   Keating, William Huw. &lt;b&gt;Sherlock Holmes&lt;/b&gt; and Watson are on the trail of a criminal &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </sherlock_holmes.n.53>
+    <sherlock_holmes.n.54 url="http://www.imdb.com/title/tt0013597/" title="Sherlock Holmes (1922) - IMDb">
+      <TargetSentence>Directed by Albert Parker. With John Barrymore, Roland Young, Carol Dempster,   Gustav von Seyffertitz.</TargetSentence>
+    </sherlock_holmes.n.54>
+    <sherlock_holmes.n.55 url="http://www.youtube.com/watch%3Fv%3Dy2IhVpjYUSI" title="Sherlock Holmes -The Sign Of Four - YouTube">
+      <TargetSentence>Jan 5, 2012 &lt;b&gt;...&lt;/b&gt; I am a 15 year old guy and a﻿ huge fan of &lt;b&gt;sherlock holmes&lt;/b&gt; !!!!!! he is way better   than today&amp;#39;s detective books :) thumps up if you agree!!! (y) &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </sherlock_holmes.n.55>
+    <sherlock_holmes.n.56 url="http://www.youtube.com/watch%3Fv%3DQU0SEeQJy0c" title="SHERLOCK HOLMES 2 Trailer 2011 - Official [HD] - YouTube">
+      <TargetSentence>Jul 16, 2011 &lt;b&gt;...&lt;/b&gt; &lt;b&gt;Sherlock Holmes&lt;/b&gt; 2: A Game of Shadows - Trailer 2011 Official HD - starring   Robert Downey Jr., Jude Law &amp;amp; Noomi Rapace. &amp;quot;&lt;b&gt;Sherlock Holmes&lt;/b&gt; &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </sherlock_holmes.n.56>
+    <sherlock_holmes.n.57 url="http://www.youtube.com/watch%3Fv%3D17CLlZuiBkQ" title="Batman vs Sherlock Holmes. Epic Rap Battles of History Season 2 ...">
+      <TargetSentence>Nov 27, 2012 &lt;b&gt;...&lt;/b&gt; &lt;b&gt;Sherlock Holmes&lt;/b&gt;: Zach Sherwin aka MC Mr. Napkins http://www.youtube.com/  MCMrNapkins · http://twitter.com/ZachSherwin. Dr. Watson: Kyle &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </sherlock_holmes.n.57>
+    <sherlock_holmes.n.58 url="http://en.wikipedia.org/wiki/Sherlock_Holmes_(1954_TV_series)" title="Sherlock Holmes (1954 TV series) - Wikipedia, the free encyclopedia">
+      <TargetSentence>Sherlock Holmes (1954 TV series). From   Wikipedia, the free encyclopedia &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </sherlock_holmes.n.58>
+    <sherlock_holmes.n.59 url="http://en.wikipedia.org/wiki/The_Adventures_of_Sherlock_Holmes" title="The Adventures of Sherlock Holmes - Wikipedia, the free encyclopedia">
+      <TargetSentence>The Adventures of Sherlock Holmes is a   collection of twelve stories by Arthur &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </sherlock_holmes.n.59>
+    <sherlock_holmes.n.60 url="http://www.imdb.com/title/tt0046642/" title="Sherlock Holmes (TV Series 1954–1955) - IMDb">
+      <TargetSentence>With Ronald Howard, Howard Marion-Crawford, Archie Duncan, Richard Larke.   The adventures of master detective &lt;b&gt;Sherlock Holmes&lt;/b&gt; as he and his assistant, Dr.</TargetSentence>
+    </sherlock_holmes.n.60>
+    <sherlock_holmes.n.61 url="http://www.imdb.com/title/tt0090357/" title="Young Sherlock Holmes (1985) - IMDb">
+      <TargetSentence>Directed by Barry Levinson. With Nicholas Rowe, Alan Cox, Sophie Ward,   Anthony Higgins. When assorted people start having inexplicable delusions that   lead &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </sherlock_holmes.n.61>
+    <sherlock_holmes.n.62 url="http://www.imdb.com/title/tt0066249/" title="The Private Life of Sherlock Holmes (1970) - IMDb">
+      <TargetSentence>Directed by Billy Wilder. With Robert Stephens, Christopher Lee, Colin Blakely,   Geneviève Page. When a bored Holmes eagerly takes the case of Gabrielle &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </sherlock_holmes.n.62>
+    <sherlock_holmes.n.63 url="http://www.amazon.com/Devil-Sherlock-Holmes-Madness-Obsession/dp/0307275906" title="Amazon.com: The Devil and Sherlock Holmes: Tales of Murder ...">
+      <TargetSentence>The Devil and &lt;b&gt;Sherlock Holmes&lt;/b&gt;: Tales of Murder, Madness, and Obsession (  Vintage) [David Grann] on Amazon.com. *FREE* super saver shipping on   qualifying &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </sherlock_holmes.n.63>
+    <sherlock_holmes.n.64 url="http://www.amazon.com/Adventures-Sherlock-Holmes-Boxed-Collection/dp/B000060MVK" title="Amazon.com: The Adventures of Sherlock Holmes (Boxed Set ...">
+      <TargetSentence>Jeremy Brett&amp;#39;s portrayal of &lt;b&gt;Sherlock Holmes&lt;/b&gt; is perhaps the best filmed version of   Arthur Conan Doyle&amp;#39;s famous detective, showcasing Holmes&amp;#39;s dazzling &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </sherlock_holmes.n.64>
+  </sherlock_holmes.n.test>
+</dataSet>

@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataSet authors="Roberto Navigli, Daniele Vannella" task="SemeVal 2013 task 11" lang="en">
+  <dsl.n.test>
+    <dsl.n.1 url="http://en.wikipedia.org/wiki/Digital_subscriber_line" title="Digital subscriber line - Wikipedia, the free encyclopedia">
+      <TargetSentence>&lt;b&gt;Digital subscriber line&lt;/b&gt; (&lt;b&gt;DSL&lt;/b&gt;, originally digital subscriber loop) is a family of   technologies that provide internet access by transmitting digital data over the   wires of &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </dsl.n.1>
+    <dsl.n.2 url="http://www.att.com/dsl/" title="AT&amp;amp;T DSL High Speed Internet Service - DSL Providers">
+      <TargetSentence>Get High-Speed &lt;b&gt;DSL&lt;/b&gt; Internet Service from AT&amp;amp;T - Fast-Access Residential &lt;b&gt;DSL&lt;/b&gt;   Internet Access, with or without a phone line!</TargetSentence>
+    </dsl.n.2>
+    <dsl.n.3 url="http://computer.howstuffworks.com/dsl.htm" title="HowStuffWorks &amp;quot;How DSL Works&amp;quot;">
+      <TargetSentence>Digital subscriber line (&lt;b&gt;DSL&lt;/b&gt;) technology transmits data over phone lines without   interfering with voice service. Find out how &lt;b&gt;DSL&lt;/b&gt; uses extra bandwidth to provide &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </dsl.n.3>
+    <dsl.n.4 url="http://www.damnsmalllinux.org/" title="DSL information">
+      <TargetSentence>Comprehensive information on &lt;b&gt;DSL&lt;/b&gt;, wiki, forums, howtos, documentation.</TargetSentence>
+    </dsl.n.4>
+    <dsl.n.5 url="http://www.earthlink.net/access/dsl.faces" title="Save on DSL High Speed Internet from EarthLink - it&amp;#39;s blazing-fast!">
+      <TargetSentence>Get EarthLink High Speed &lt;b&gt;DSL&lt;/b&gt; Internet service today starting at $12.95/mo. &lt;b&gt;DSL&lt;/b&gt;   access up to 100x faster than dial-up, with free security &amp;amp; expert support.</TargetSentence>
+    </dsl.n.5>
+    <dsl.n.6 url="http://www.dslextreme.com/" title="DSL, ADSL2+, T1 &amp;amp; Ethernet for your Home or Business - DSL ...">
+      <TargetSentence>&lt;b&gt;DSL&lt;/b&gt; Extreme is one of the leading providers of &lt;b&gt;DSL&lt;/b&gt;, ADSL2+, T1 &amp;amp; Ethernet   service for your Home or Business.</TargetSentence>
+    </dsl.n.6>
+    <dsl.n.7 url="http://www.dslreports.com/" title="DSLReports Home : Broadband ISP Reviews News Tools and Forums">
+      <TargetSentence>Find &lt;b&gt;DSL&lt;/b&gt; availability and prices for your zipcode. Source for all types of xDSL   information, end-user reviews and ratings, discussions. Benchmark your line &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </dsl.n.7>
+    <dsl.n.8 url="http://whatis.techtarget.com/reference/Fast-Guide-to-DSL-Digital-Subscriber-Line" title="Fast Guide to DSL (Digital Subscriber Line) - Whatis.com - TechTarget">
+      <TargetSentence>&lt;b&gt;DSL&lt;/b&gt; (&lt;b&gt;Digital Subscriber Line&lt;/b&gt;) is a technology for bringing high-bandwidth   information to homes and small businesses over ordinary copper telephone lines  .</TargetSentence>
+    </dsl.n.8>
+    <dsl.n.9 url="http://kb.iu.edu/data/ajfr.html" title="What is DSL Internet service? - Knowledge Base">
+      <TargetSentence>Jun 14, 2012 &lt;b&gt;...&lt;/b&gt; &lt;b&gt;DSL&lt;/b&gt; (digital subscriber line) technologies, often grouped under the term &lt;b&gt;DSL&lt;/b&gt;,   connect a computer to the Internet. &lt;b&gt;DSL&lt;/b&gt; uses existing copper pair &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </dsl.n.9>
+    <dsl.n.10 url="http://www.netzero.net/dsl" title="DSL Internet Service | Cheap DSL | NetZero">
+      <TargetSentence>Want cheap &lt;b&gt;DSL&lt;/b&gt;? For fast, reliable, affordable &lt;b&gt;DSL&lt;/b&gt; internet service, visit NetZero.   Compare speeds, costs, and features to find the best &lt;b&gt;DSL&lt;/b&gt; service for you.</TargetSentence>
+    </dsl.n.10>
+    <dsl.n.11 url="http://www.allconnect.com/ssc-internet-dslInternet/dsl-services.html" title="Cheap DSL | DSL Internet Service | DSL Service in My Area">
+      <TargetSentence>Find cheap &lt;b&gt;DSL&lt;/b&gt; services in your area. Compare prices of &lt;b&gt;DSL&lt;/b&gt; internet at   Allconnect.</TargetSentence>
+    </dsl.n.11>
+    <dsl.n.12 url="http://www.dslprime.com/" title="DSL Prime, Fiber News, DOCSIS Report, Wireless Cloud, Evidence ...">
+      <TargetSentence>&lt;b&gt;DSL&lt;/b&gt;, Cable, Fiber, Wireless. The news of the fast Internet. Dave Burstein,</TargetSentence>
+    </dsl.n.12>
+    <dsl.n.13 url="http://www.centurylink.com/" title="CenturyLink | Local Provider of High Speed Internet, Phone, Mobile ...">
+      <TargetSentence>At CenturyLink&amp;#39;s official site, find a reliable local provider of high speed internet,   phone and TV services to homes as well as large and small businesses.</TargetSentence>
+    </dsl.n.13>
+    <dsl.n.14 url="http://www.megapath.com/data/dsl/" title="Business DSL Providers | DSL, ADSL, &amp;amp; SDSL High Speed internet ...">
+      <TargetSentence>MegaPath business &lt;b&gt;DSL&lt;/b&gt; provides the affordable business Internet service that   you need for your small business, branch office, or home office.</TargetSentence>
+    </dsl.n.14>
+    <dsl.n.15 url="http://www.verizon.com/" title="Internet, TV and Phone | Compare FiOS to Cable | Verizon">
+      <TargetSentence>High Speed Internet (&lt;b&gt;DSL&lt;/b&gt;) · DIRECTV · Home Phone · Standard Bundles. I want   to... Check Availability; Order New Service · Renew My Bundle · Add or Change &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </dsl.n.15>
+    <dsl.n.16 url="http://camel.apache.org/dsl.html" title="Apache Camel: DSL">
+      <TargetSentence>The benefits of using the Java &lt;b&gt;DSL&lt;/b&gt; is that your IDE can smart complete your code   as you start typing, rather than having to mess around with buckets of XML.</TargetSentence>
+    </dsl.n.16>
+    <dsl.n.17 url="http://en.wikipedia.org/wiki/Domain-specific_language" title="Domain-specific language - Wikipedia, the free encyclopedia">
+      <TargetSentence>In software development and domain engineering, a &lt;b&gt;domain-specific language&lt;/b&gt; (  &lt;b&gt;DSL&lt;/b&gt;) is a programming language or specification language dedicated to a &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </dsl.n.17>
+    <dsl.n.18 url="http://www.webopedia.com/TERM/X/xDSL.html" title="DSL - Webopedia">
+      <TargetSentence>This page describes the term xDSL and lists other pages on the Web where you   can find additional information.</TargetSentence>
+    </dsl.n.18>
+    <dsl.n.19 url="http://dsl.sis.pitt.edu/" title="DSL - Welcome !">
+      <TargetSentence>Research group at the University of Pittsburgh with links to books and software   on probabilistic, decision-theoretic, and econometric graphical models.</TargetSentence>
+    </dsl.n.19>
+    <dsl.n.20 url="http://windows.microsoft.com/en-US/windows-vista/Set-up-a-DSL-or-cable-connection" title="Set up a DSL or cable connection">
+      <TargetSentence>Set up the equipment needed to use a broadband connection.</TargetSentence>
+    </dsl.n.20>
+    <dsl.n.21 url="http://martinfowler.com/dsl.html" title="DSL Guide">
+      <TargetSentence>Q&amp;amp;A on &lt;b&gt;Domain Specific Languages&lt;/b&gt;. A quick outline of the common questions,   and answers, about DSLs. Interviews. I&amp;#39;ve done a few interviews on DSLs, which &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </dsl.n.21>
+    <dsl.n.22 url="http://www.copper.net/DSL/Service/" title="Copper.net DSL Access by States">
+      <TargetSentence>All Coppernet &lt;b&gt;DSL&lt;/b&gt; Plans Include: Surf the Internet up to 125 X&amp;#39;s faster; “Always   on” connection; Use your phone while online; 5 Copper.net email accounts &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </dsl.n.22>
+    <dsl.n.23 url="http://www.last.fm/music/DSL" title="DSL – Free listening, videos, concerts, stats, &amp;amp; pictures at Last.fm">
+      <TargetSentence>Watch videos &amp;amp; listen free to &lt;b&gt;DSL&lt;/b&gt;: Bal-Ami, Find me in the world &amp;amp; more, plus 8   pictures. In 2003, the &lt;b&gt;DSL&lt;/b&gt; brothers released their first «J.A.Y.M» album, a Hip &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </dsl.n.23>
+    <dsl.n.24 url="http://www.iol.unh.edu/services/testing/dsl/" title="InterOperability Laboratory: Services: Testing: DSL">
+      <TargetSentence>The UNH-IOL has been involved in the &lt;b&gt;DSL&lt;/b&gt; industry since 1997. We offer a wide   range of exhaustive test suites designed to test both conformance to standards &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </dsl.n.24>
+    <dsl.n.25 url="http://dsl-providers.nettop20.com/" title="DSL Providers Top 20 Review">
+      <TargetSentence>The &lt;b&gt;DSL&lt;/b&gt; providers review from NetTop20.com brings you the Top 20 &lt;b&gt;DSL&lt;/b&gt;   providers sites, the pick of the best &lt;b&gt;DSL&lt;/b&gt; providers sites on the net today. Save   time &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </dsl.n.25>
+    <dsl.n.26 url="http://www.dslsound.com/" title="Multi-Media Projection Contractor Hagerstown, MD - DSL Sound Inc.">
+      <TargetSentence>&lt;b&gt;DSL&lt;/b&gt; Provides lighting, sound equipment rental and design and installations. &lt;b&gt;DSL&lt;/b&gt;   Sound Inc. provides sound products and services and sound design.</TargetSentence>
+    </dsl.n.26>
+    <dsl.n.27 url="http://en.wikipedia.org/wiki/DSL_modem" title="DSL modem - Wikipedia, the free encyclopedia">
+      <TargetSentence>A digital subscriber line (&lt;b&gt;DSL&lt;/b&gt;) modem is a device used to connect a computer or   router to a telephone line which has the digital subscriber line service &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </dsl.n.27>
+    <dsl.n.28 url="http://www.elasticsearch.org/guide/reference/query-dsl/" title="elasticsearch - guide - Query DSL">
+      <TargetSentence>elasticsearch provides a full Query &lt;b&gt;DSL&lt;/b&gt; based on JSON to define queries. In   general, there are basic queries such as term or prefix. There are also compound &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </dsl.n.28>
+    <dsl.n.29 url="http://dsl.org/" title="Dsl.org by Michael Stutz">
+      <TargetSentence />
+    </dsl.n.29>
+    <dsl.n.30 url="http://martinfowler.com/dslCatalog/" title="DSL Patterns">
+      <TargetSentence>My book on &lt;b&gt;Domain Specific Languages&lt;/b&gt; uses a pattern structure to organize the   concepts that I use to describe DSLs. Here is a list of the patterns in that book.</TargetSentence>
+    </dsl.n.30>
+    <dsl.n.31 url="http://www.dslshops.com/" title="DSL Shops">
+      <TargetSentence>Latest News: Sorry folks, but due to manufacturing costs and process, kit #O211,   The Wholesale Grocery (limited products page), has been discontinued.</TargetSentence>
+    </dsl.n.31>
+    <dsl.n.32 url="http://www.dsl.sr/" title="DSL.sr - Compare DSL Service Providers - Home and Business">
+      <TargetSentence>Offering &lt;b&gt;DSL&lt;/b&gt; service access, broadband, cable, high speed access service at   competitive prices. Comparision shop &lt;b&gt;DSL&lt;/b&gt; service providers online.</TargetSentence>
+    </dsl.n.32>
+    <dsl.n.33 url="http://www.dslradio.us/" title="DSL Radio - powered by KryKey - Listen to Free Internet Radio, Find ...">
+      <TargetSentence>&lt;b&gt;DSL&lt;/b&gt; Radio broadcasts Weekly Live Shows where you can listen to our DJ   personalities, call them, chat to the listeners in the chat room, and of course listen   to &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </dsl.n.33>
+    <dsl.n.34 url="http://www.dsl-mud.org/" title="Dark &amp;amp; Shattered Lands (DSL)">
+      <TargetSentence>&lt;b&gt;Dark and Shattered Lands&lt;/b&gt; (&lt;b&gt;DSL&lt;/b&gt;): One of the largest Muds on the Internet.</TargetSentence>
+    </dsl.n.34>
+    <dsl.n.35 url="http://compnetworking.about.com/od/dsldigitalsubscriberline/f/dslspeed.htm" title="DSL Speed - How Fast Is DSL?">
+      <TargetSentence>Compared to the performance of cable Internet service, &lt;b&gt;DSL&lt;/b&gt; speed has   historically been slower. However, the speed of &lt;b&gt;DSL&lt;/b&gt; Internet is increasing as the &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </dsl.n.35>
+    <dsl.n.36 url="http://www.juno.com/dsl" title="DSL Broadband from Juno - The Simple DSL Solution">
+      <TargetSentence>&lt;b&gt;DSL&lt;/b&gt; can drastically improve music downloading, streaming video, playing online   games, and more! Discover the amazing speed and ease of Juno &lt;b&gt;DSL&lt;/b&gt; &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </dsl.n.36>
+    <dsl.n.37 url="http://www.earthlink.net/access/dsl_freestanding.faces" title="EarthLink Freestanding DSL Internet - no phone company required.">
+      <TargetSentence>No home phone? You can still get High Speed &lt;b&gt;DSL&lt;/b&gt; Internet from EarthLink.   Connect up to 50x faster than dial-up, save $240/yr with no phone bills.</TargetSentence>
+    </dsl.n.37>
+    <dsl.n.38 url="http://shopping.yahoo.com/modems/dsl-modem--modem-type/" title="DSL Modem: Compare Prices, Reviews &amp;amp; Buy Online @ Yahoo ...">
+      <TargetSentence>Results 1 - 9 of 9 &lt;b&gt;...&lt;/b&gt; Yahoo! Shopping is the best place to comparison shop for &lt;b&gt;DSL&lt;/b&gt; Modem.   Compare prices on &lt;b&gt;DSL&lt;/b&gt; Modem. Find &lt;b&gt;DSL&lt;/b&gt; Modem deals and save.</TargetSentence>
+    </dsl.n.38>
+    <dsl.n.39 url="http://www.milb.com/index.jsp%3Fsid%3Dt625" title="DSL Rangers - Minor League Baseball">
+      <TargetSentence>&lt;b&gt;Dominican Summer League&lt;/b&gt; &lt;b&gt;...&lt;/b&gt; a banned steroid story &lt;b&gt;dsl&lt;/b&gt; righty heredia   suspended pitchers suspended 50 games de la cruz suspended &lt;b&gt;dsl&lt;/b&gt; pitchers   suspended &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </dsl.n.39>
+    <dsl.n.40 url="http://www.actiontec.com/dsl/" title="DSL Modems, Routers and Wireless DSL Modems from Actiontec">
+      <TargetSentence>A full range of &lt;b&gt;DSL&lt;/b&gt; modems, routers, and Wireless &lt;b&gt;DSL&lt;/b&gt; Modem Routers. Specific   versions available for Verizon &lt;b&gt;DSL&lt;/b&gt;, Qwest &lt;b&gt;DSL&lt;/b&gt;, TDS &lt;b&gt;DSL&lt;/b&gt; and MTS &lt;b&gt;DSL&lt;/b&gt; &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </dsl.n.40>
+    <dsl.n.41 url="http://www.qwest.com/dsl/" title="DSL - High Speed Internet Access - Qwest">
+      <TargetSentence />
+    </dsl.n.41>
+    <dsl.n.42 url="http://www.milb.com/index.jsp%3Fsid%3Dl130" title="Dominican Summer League - Minor League Baseball">
+      <TargetSentence>&lt;b&gt;Dominican Summer League&lt;/b&gt; Boca Chica North &lt;b&gt;DSL&lt;/b&gt; Marlins · &lt;b&gt;DSL&lt;/b&gt; Mets2 · &lt;b&gt;DSL&lt;/b&gt;   Pirates1 · &lt;b&gt;DSL&lt;/b&gt; Rangers · &lt;b&gt;DSL&lt;/b&gt; Red Sox · &lt;b&gt;DSL&lt;/b&gt; Yankees2, &lt;b&gt;Dominican Summer&lt;/b&gt; &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </dsl.n.42>
+    <dsl.n.43 url="http://www.milb.com/index.jsp%3Fsid%3Dt2270" title="DSL Cubs2 - Minor League Baseball">
+      <TargetSentence>&lt;b&gt;DSL&lt;/b&gt; Standings. * 1st half division winner; # Division winner; &amp;amp; Wild card winner;   @ Clinched playoff spot. Complete Standings Roster &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </dsl.n.43>
+    <dsl.n.44 url="http://www.milb.com/index.jsp%3Fsid%3Dt605" title="DSL Braves - Minor League Baseball">
+      <TargetSentence>&lt;b&gt;DSL&lt;/b&gt; Standings &lt;b&gt;...&lt;/b&gt; a banned steroid story &lt;b&gt;dsl&lt;/b&gt; righty heredia suspended pitchers   suspended 50 games de la cruz suspended &lt;b&gt;dsl&lt;/b&gt; pitchers suspended league news &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </dsl.n.44>
+    <dsl.n.45 url="http://www.milb.com/index.jsp%3Fsid%3Dt624" title="DSL Pirates1 - Minor League Baseball">
+      <TargetSentence>&lt;b&gt;DSL&lt;/b&gt; Standings. * 1st half division winner; # Division winner; &amp;amp; Wild card winner;   @ Clinched playoff spot. Complete Standings Roster &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </dsl.n.45>
+    <dsl.n.46 url="http://gradle.org/docs/current/dsl/index.html" title="Build Language (DSL) Reference - Gradle DSL Version 1.2">
+      <TargetSentence>There are a few basic concepts that you should understand, which will help you   write Gradle scripts. First, Gradle scripts are configuration scripts. As the script &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </dsl.n.46>
+    <dsl.n.47 url="http://www.ccifastnet.com/dsl-services.html" title="DSL Internet Services in USA: High Speed DSL Services Provider In ...">
+      <TargetSentence>&lt;b&gt;DSL&lt;/b&gt; services of CCIFASTNET is Secure, Flexible and Cost-effective. We offer   High Speed unlimited &lt;b&gt;DSL&lt;/b&gt; Internet service throughout the U.S. Currently   available &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </dsl.n.47>
+    <dsl.n.48 url="http://www.dslreports.com/shownews/Verizon-is-Willfully-Driving-DSL-Users-Into-the-Arms-of-Cable-120473" title="Verizon is Willfully Driving DSL Users Into the Arms of Cable ...">
+      <TargetSentence>Back in April you&amp;#39;ll recall that Verizon stopped selling standalone &lt;b&gt;DSL&lt;/b&gt;, taking us   back to the stone age of broadband when users were forced to &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </dsl.n.48>
+    <dsl.n.49 url="http://www.covad.com/" title="Nationwide Business Broadband &amp;amp; VoIP Provider | Network Security">
+      <TargetSentence>Covad, a MegaPath brand, offers business communication and network solutions   on a privately-held, nationwide network.</TargetSentence>
+    </dsl.n.49>
+    <dsl.n.50 url="http://promo.sbcglobal.net/sbcyahoodsl/" title="SBC Yahoo!® DSL - Welcome Home">
+      <TargetSentence>If you are a &lt;b&gt;DSL&lt;/b&gt; customer and your email domain is one of the following: wans.  net, prodigy.net, flash.net, please do not upgrade at this time. You will soon &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </dsl.n.50>
+    <dsl.n.51 url="http://compnetworking.about.com/od/dslvscablemodem/a/dslcablecompare.htm" title="DSL vs. Cable Modem Comparison">
+      <TargetSentence>Both &lt;b&gt;DSL&lt;/b&gt; and cable modem service bring broadband networking to the home   and small business at an affordable price. But what are the differences between &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </dsl.n.51>
+    <dsl.n.52 url="http://reviews.cnet.com/4520-6536_7-726601-1.html" title="Cable vs. DSL - CNET Reviews">
+      <TargetSentence>Cable vs. &lt;b&gt;DSL&lt;/b&gt;: CNET&amp;#39;s guide to picking the right broadband access.</TargetSentence>
+    </dsl.n.52>
+    <dsl.n.53 url="http://law.psu.edu/" title="Penn State Law">
+      <TargetSentence>With a $150 million investment in new faculty appointments, signature facilities,   and exciting new clinics Penn State Law is preparing its students to engage in a &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </dsl.n.53>
+    <dsl.n.54 url="http://www.assia-inc.com/DSL-solutions/DSL-products/DSL-expresse/" title="DSL Expresse Software - ASSIA">
+      <TargetSentence>ASSIA &lt;b&gt;DSL&lt;/b&gt; Expresse software enables &lt;b&gt;DSL&lt;/b&gt; operators to extend the rate and   reach of their &lt;b&gt;DSL&lt;/b&gt; systems, maximizing service quality and minimizing costs.</TargetSentence>
+    </dsl.n.54>
+    <dsl.n.55 url="http://www.telbay.com/dsl/" title="DSL Providers - Cheap DSL Deals from Verizon, Bellsouth &amp;amp; Earthlink">
+      <TargetSentence>Get fast cheap &lt;b&gt;DSL&lt;/b&gt; service - compare &lt;b&gt;DSL&lt;/b&gt; deals from providers like Verizon,   Bellsouth, EarthLink, and ATT Yahoo &lt;b&gt;DSL&lt;/b&gt;. With &lt;b&gt;DSL&lt;/b&gt; internet service you can surf &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </dsl.n.55>
+    <dsl.n.56 url="http://www.peoplepc.com/dsl-highspeed/" title="DSL from PeoplePC | Low cost DSL high speed Internet service ...">
+      <TargetSentence>PeoplePC &lt;b&gt;DSL&lt;/b&gt; Internet service gives you high-quality, high-speed Internet   access and cheap low prices. Get a &lt;b&gt;DSL&lt;/b&gt; connection up to 50x faster than dial-up.</TargetSentence>
+    </dsl.n.56>
+    <dsl.n.57 url="http://www.damnsmalllinux.org/dsl-n/" title="DSL-n - Damn Small Linux">
+      <TargetSentence>Take Tux with you everywhere, Damn Small Linux is the perfect geek companion.</TargetSentence>
+    </dsl.n.57>
+    <dsl.n.58 url="http://www.asus.com/Networks/ADSL_Modem_Routers/DSLN13/" title="ASUS - Networks- ASUS DSL-N13">
+      <TargetSentence>11n technology for more throughput and data rate. Fast &amp;amp; Guaranteed multi-  media content streaming. with Asus AiDisk FTP server applications, plus &amp;quot;Quick &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </dsl.n.58>
+    <dsl.n.59 url="http://www.wisegeek.com/what-is-dsl.htm" title="What Is DSL?">
+      <TargetSentence>Jul 20, 2012 &lt;b&gt;...&lt;/b&gt; &lt;b&gt;DSL&lt;/b&gt; is high-speed Internet service that operates over standard telephone lines.   Voice and &lt;b&gt;DSL&lt;/b&gt; can coexist on copper lines because...</TargetSentence>
+    </dsl.n.59>
+    <dsl.n.60 url="http://compnetworking.about.com/od/dslvscablemodem/a/speedcompare.htm" title="Broadband Internet Speed Comparison - DSL vs Cable">
+      <TargetSentence>Both &lt;b&gt;DSL&lt;/b&gt; and cable boast faster speeds than competing Internet services. Is &lt;b&gt;DSL&lt;/b&gt;   or cable faster than the other? More importantly, what can you do to maximize &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </dsl.n.60>
+    <dsl.n.61 url="http://www.assia-inc.com/DSL-technology/DSL-knowledge-center/tutorials/DSL-technology-tutorial.php" title="DSL Technology Tutorial - ASSIA">
+      <TargetSentence>The ASSIA &lt;b&gt;DSL&lt;/b&gt; Knowledge Center serves as a resource to learn more about   &lt;b&gt;DSL&lt;/b&gt; technology, and references tutorials, articles, research, and books.</TargetSentence>
+    </dsl.n.61>
+    <dsl.n.62 url="http://smallbusiness.verizon.com/products/internet/hsi/packages.aspx" title="Small Business High Speed Internet | Broadband (DSL) Internet ...">
+      <TargetSentence>Equip your small business with reliable and fast high speed internet service. Find   value, service and peace of mind with Verizon &lt;b&gt;DSL&lt;/b&gt; internet service provider.</TargetSentence>
+    </dsl.n.62>
+    <dsl.n.63 url="http://www.ikanos.com/products/broadband-dsl/" title="Broadband DSL - ikanos®">
+      <TargetSentence>We have a range of broadband &lt;b&gt;DSL&lt;/b&gt; semiconductor and software products for   VDSL, ADSL and SHDSL implementations. Ikanos VDSL chipsets for DSLAMs &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </dsl.n.63>
+    <dsl.n.64 url="http://www.oregon.gov/dsl/" title="State of Oregon: Department of State Lands">
+      <TargetSentence>Debris from Japan&amp;#39;s 2011 tsunami has begun washing up on Oregon&amp;#39;s shores.   The Oregon Parks and Recreation Department&amp;#39;s website lists important   resources &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </dsl.n.64>
+  </dsl.n.test>
+</dataSet>

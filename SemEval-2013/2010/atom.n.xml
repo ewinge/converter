@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataSet authors="Roberto Navigli, Daniele Vannella" task="SemeVal 2013 task 11" lang="en">
+  <atom.n.test>
+    <atom.n.1 url="http://en.wikipedia.org/wiki/Atom" title="Atom - Wikipedia, the free encyclopedia">
+      <TargetSentence>The &lt;b&gt;atom&lt;/b&gt; is a basic unit of matter that consists of a dense central nucleus   surrounded by a cloud of negatively charged electrons. The &lt;b&gt;atomic&lt;/b&gt; nucleus   contains a &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </atom.n.1>
+    <atom.n.2 url="http://en.wikipedia.org/wiki/Atom_(standard)" title="Atom (standard) - Wikipedia, the free encyclopedia">
+      <TargetSentence>The name &lt;b&gt;Atom&lt;/b&gt; applies to a pair of related standards. The &lt;b&gt;Atom&lt;/b&gt; Syndication   Format is an XML language used for web feeds, while the &lt;b&gt;Atom&lt;/b&gt; Publishing   Protocol &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </atom.n.2>
+    <atom.n.3 url="http://education.jlab.org/atomtour/index.html" title="All About Atoms - What are atoms?">
+      <TargetSentence>What are &lt;b&gt;atoms&lt;/b&gt;? A very basic overview of &lt;b&gt;atomic&lt;/b&gt; structure.</TargetSentence>
+    </atom.n.3>
+    <atom.n.4 url="http://tools.ietf.org/html/rfc4287" title="RFC 4287 - The Atom Syndication Format">
+      <TargetSentence>Official specification for the XML-based document format that describes lists of   related information known as &amp;quot;feeds&amp;quot;.</TargetSentence>
+    </atom.n.4>
+    <atom.n.5 url="http://web.jjay.cuny.edu/~acarpi/NSC/3-atoms.htm" title="Atomic Structure">
+      <TargetSentence>In the last lesson we learned that &lt;b&gt;atoms&lt;/b&gt; were particles of elements, substances   that could not be broken down further. In examining &lt;b&gt;atomic&lt;/b&gt; structure though, we &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </atom.n.5>
+    <atom.n.6 url="http://www.howstuffworks.com/atom.htm" title="HowStuffWorks &amp;quot;How Atoms Work&amp;quot;">
+      <TargetSentence>&lt;b&gt;Atoms&lt;/b&gt; are in your body, the chair you are sitting in, your desk and even in the air.   Learn about the particles that make the universe possible.</TargetSentence>
+    </atom.n.6>
+    <atom.n.7 url="http://www.atomenabled.org/" title="AtomEnabled.org">
+      <TargetSentence>&lt;b&gt;Atom&lt;/b&gt; is a way to read and write information on the web, and is considered a   competitor/alternate format to RSs. Basic information about the format as well as   on &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </atom.n.7>
+    <atom.n.8 url="http://www.intel.com/content/www/us/en/processors/atom/atom-processor.html" title="Intel® Atom™ Processor">
+      <TargetSentence>Intel® &lt;b&gt;Atom&lt;/b&gt;™ Processor. All new and designed from the ground up for power-  optimized computing for work and play. Learn more about the Intel® &lt;b&gt;Atom&lt;/b&gt;™ &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </atom.n.8>
+    <atom.n.9 url="http://www.atom.edu/" title="ATOM-ATLANTIC INSTITUTE OF ORIENTAL MEDICINE">
+      <TargetSentence>Master&amp;#39;s Degree program in Traditional Chinese Medicine/Oriental Medicine. Fort   Lauderdale, Florida.</TargetSentence>
+    </atom.n.9>
+    <atom.n.10 url="http://dictionary.reference.com/browse/atom" title="Atom | Define Atom at Dictionary.com">
+      <TargetSentence>the smallest component of an element having the chemical properties of the   element, consisting of a nucleus containing combinations of neutrons and   protons &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </atom.n.10>
+    <atom.n.11 url="http://www.epa.gov/rpdweb00/understand/atom.html" title="What is an Atom? | Radiation Protection | US EPA">
+      <TargetSentence>&lt;b&gt;Atoms&lt;/b&gt; are the extremely small particles of which we, and everything around us,   are made. There are 92 naturally occurring elements and scientists have made &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </atom.n.11>
+    <atom.n.12 url="http://www.pbs.org/wgbh/aso/tryit/atom/" title="A Science Odyssey: You Try It: Atom Builder">
+      <TargetSentence>A shockwave application that allows the user to add up and down quarks to a   hydrogen nucleus to create a carbon nucleus.</TargetSentence>
+    </atom.n.12>
+    <atom.n.13 url="http://www.theatomgroup.com/" title="The Atom Group | Portsmouth NH | Web Design and Development">
+      <TargetSentence>The &lt;b&gt;Atom&lt;/b&gt; Group provides custom web solutions for your business needs. We use   the latest cutting edge techniques and technologies in web development to &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </atom.n.13>
+    <atom.n.14 url="http://www.myspace.com/atomtm" title="Atom™ | Free Music, Tour Dates, Photos, Videos">
+      <TargetSentence>&lt;b&gt;Atom&lt;/b&gt;™&amp;#39;s official profile including the latest music, albums, songs, music videos   and more updates.</TargetSentence>
+    </atom.n.14>
+    <atom.n.15 url="http://www.chem4kids.com/files/atom_intro.html" title="Chem4Kids.com: Atoms">
+      <TargetSentence>Chem4Kids.com Popular Sections &lt;b&gt;Atom&lt;/b&gt; Basics &lt;b&gt;...&lt;/b&gt; If you want to build molecules,   you will need &lt;b&gt;atoms&lt;/b&gt; of different elements. Each element is a little bit different &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </atom.n.15>
+    <atom.n.16 url="http://phet.colorado.edu/en/simulation/build-an-atom" title="Build an Atom - Atomic Structure, Atoms, Atomic Nuclei - PhET">
+      <TargetSentence>Build an &lt;b&gt;atom&lt;/b&gt; out of protons, neutrons, and electrons, and see how the element,   charge, and mass change. Then play a game to test your ideas!</TargetSentence>
+    </atom.n.16>
+    <atom.n.17 url="http://en.wikipedia.org/wiki/Intel_Atom" title="Intel Atom - Wikipedia, the free encyclopedia">
+      <TargetSentence>Intel &lt;b&gt;Atom&lt;/b&gt; is the brand name for a line of ultra-low-voltage IA-32 and x86-64   CPUs (or microprocessors) from Intel, originally designed in 45 nm CMOS with &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </atom.n.17>
+    <atom.n.18 url="http://www.youtube.com/watch%3Fv%3DlP57gEWcisY" title="Basic Atomic Structure - YouTube">
+      <TargetSentence>Aug 23, 2009 &lt;b&gt;...&lt;/b&gt; A superb video on the basics of subatomic particles and nuclear structure. It   really shows the fundamentals well.</TargetSentence>
+    </atom.n.18>
+    <atom.n.19 url="http://chemistry.about.com/od/chemistryglossary/a/atomdefinition.htm" title="Atom Definition - Chemistry Glossary Definition of Atom">
+      <TargetSentence>&lt;b&gt;Atom&lt;/b&gt; definition, as used in chemistry, chemical engineering, and physics.</TargetSentence>
+    </atom.n.19>
+    <atom.n.20 url="http://www.aip.org/history/electron/jjhome.htm" title="A Look Inside the Atom">
+      <TargetSentence>ne hundred years ago, amidst glowing glass tubes and the hum of electricity, the   British physicist J.J. Thomson was venturing into the interior of the &lt;b&gt;atom&lt;/b&gt;. At the &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </atom.n.20>
+    <atom.n.21 url="http://www.rfc-editor.org/rfc/rfc5023.txt" title="Atom Publishing Protocol - RFC Editor">
+      <TargetSentence>Abstract The &lt;b&gt;Atom&lt;/b&gt; Publishing Protocol (AtomPub) is an application-level protocol   for publishing and editing Web resources. The protocol is based on HTTP &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </atom.n.21>
+    <atom.n.22 url="http://en.wiktionary.org/wiki/atom" title="atom - Wiktionary">
+      <TargetSentence>&lt;b&gt;atom&lt;/b&gt; (plural &lt;b&gt;atoms&lt;/b&gt;). The smallest, indivisible &lt;b&gt;...&lt;/b&gt; Animal Farm, chapter 1. […] those   of us who are capable of it are forced to work to the last &lt;b&gt;atom&lt;/b&gt; of our strength &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </atom.n.22>
+    <atom.n.23 url="http://www.britannica.com/EBchecked/topic/41549/atom" title="atom (matter) -- Britannica Online Encyclopedia">
+      <TargetSentence>smallest unit into which matter can be divided without the release of electrically   charged particles. It also is the smallest unit of matter that has the characteristic &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </atom.n.23>
+    <atom.n.24 url="http://www.atomwheels.com/" title="Atom Wheels">
+      <TargetSentence>NistevoUSA.com | LuiginoUSA.com | BionicBearings.com | AtomGear.com |   JacksonRoller.com | info@NistevoUSA.com. Nistevo USA | 3306 E Washington   St &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </atom.n.24>
+    <atom.n.25 url="http://www.arielatom.com/" title="Ariel Atom">
+      <TargetSentence>Ariel &lt;b&gt;Atom&lt;/b&gt;. Drive An &lt;b&gt;Atom&lt;/b&gt; · Buy An &lt;b&gt;Atom&lt;/b&gt; · Race An &lt;b&gt;Atom&lt;/b&gt; &lt;b&gt;...&lt;/b&gt; ARIEL &lt;b&gt;ATOM&lt;/b&gt; 3. Quick   Facts · &lt;b&gt;Atom&lt;/b&gt; 3 Specs · &lt;b&gt;Atom&lt;/b&gt; 3 Options · News · Gallery · Contact. SPEC RACE &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </atom.n.25>
+    <atom.n.26 url="http://belfercenter.ksg.harvard.edu/project/3/managing_the_atom.html" title="Managing the Atom - Harvard - Belfer Center for Science and ...">
+      <TargetSentence>The Project on Managing the &lt;b&gt;Atom&lt;/b&gt; (MTA) conducts and disseminates policy-  relevant research on nuclear weapons, nuclear energy, and nuclear &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </atom.n.26>
+    <atom.n.27 url="http://www.ietf.org/html.charters/atompub-charter.html" title="Atom Publishing Format and Protocol (atompub) - Charter">
+      <TargetSentence>Description of Working Group. &lt;b&gt;Atom&lt;/b&gt; defines a feed format for representing and a   protocol for editing Web resources such as Weblogs, online journals, Wikis, &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </atom.n.27>
+    <atom.n.28 url="http://www.merriam-webster.com/dictionary/atom" title="Atom - Definition and More from the Free Merriam-Webster Dictionary">
+      <TargetSentence>one of the minute indivisible particles of which according to ancient materialism   the universe is composed. 2. : a tiny particle : bit. 3. : the smallest particle of an &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </atom.n.28>
+    <atom.n.29 url="http://www.nyu.edu/pages/mathmol/textbook/atoms.html" title="Structure of the Atom (grades 6-8)">
+      <TargetSentence>Basics about &lt;b&gt;atoms&lt;/b&gt;, including structure and behavior.</TargetSentence>
+    </atom.n.29>
+    <atom.n.30 url="https://www.ica-atom.org/" title="ICA-AtoM: Open Source Archival Description Software">
+      <TargetSentence>The Software. ICA-&lt;b&gt;AtoM&lt;/b&gt; is web-based archival description software that is based   on International Council on Archives (&amp;#39;ICA&amp;#39;) standards. &amp;#39;&lt;b&gt;AtoM&lt;/b&gt;&amp;#39; is an acronymn &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </atom.n.30>
+    <atom.n.31 url="http://www.nobeliefs.com/atom.htm" title="History of atoms">
+      <TargetSentence>&lt;b&gt;atom&lt;/b&gt; n. A unit of matter, the smallest unit of an element, consisting of a dense,   central, positively charged nucleus surrounded by a system of electrons, equal in &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </atom.n.31>
+    <atom.n.32 url="http://roberthenke.com/concerts/atom.html" title="Robert Henke &amp;amp; Christoph Bauder ATOM">
+      <TargetSentence>&lt;b&gt;Atom&lt;/b&gt;. &lt;b&gt;atom&lt;/b&gt;. Performance for a matrix of 64 illuminated gas balloons and sound.   A room is filled with deep, evolving noises from a four-channel sound system.</TargetSentence>
+    </atom.n.32>
+    <atom.n.33 url="http://www.atomandhispackage.com/" title="Atom and His Package Official Web Site">
+      <TargetSentence>The official web site, authored by &lt;b&gt;Atom&lt;/b&gt; himself. Features a collection of letters   and criticism he has received, free mp3s, archive of misheard lyrics, pictures,   links, &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </atom.n.33>
+    <atom.n.34 url="http://archive.org/details/isforAto1953" title="A is for Atom : Sutherland (John) Productions : Free Download ...">
+      <TargetSentence>Animated classic presenting what an &lt;b&gt;atom&lt;/b&gt; is, how energy is released from   certain kinds of &lt;b&gt;atoms&lt;/b&gt;, the peacetime uses of &lt;b&gt;atomic&lt;/b&gt; energy and the byproducts   of...</TargetSentence>
+    </atom.n.34>
+    <atom.n.35 url="http://www.amazon.com/Atom-Single-Oxygen-Journey-Earth/dp/0316183091" title="Atom: A Single Oxygen Atom&amp;#39;s Journey from the Big Bang to Life on ...">
+      <TargetSentence>&lt;b&gt;ATOM&lt;/b&gt; has a truly astounding breadth...Krauss present(s) the ideas with great   clarity. With a little effort, readers will reap big rewards here.&amp;#39; NEW SCIENTIST &amp;#39;A &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </atom.n.35>
+    <atom.n.36 url="http://library.thinkquest.org/17940/texts/atom/atom.html" title="The Atom">
+      <TargetSentence>A Description of the &lt;b&gt;Atom&amp;#39;s&lt;/b&gt; Structure and Properties.</TargetSentence>
+    </atom.n.36>
+    <atom.n.37 url="http://en.wikipedia.org/wiki/Acorn_Atom" title="Acorn Atom - Wikipedia, the free encyclopedia">
+      <TargetSentence>The Acorn &lt;b&gt;Atom&lt;/b&gt; was a home computer made by Acorn Computers Ltd from 1980   to 1982 when it was replaced by the BBC Micro (originally Proton) and later the &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </atom.n.37>
+    <atom.n.38 url="http://www.atom-ami.co.jp/english/" title="Atom Medical International">
+      <TargetSentence>&lt;b&gt;Atom&lt;/b&gt; Medical Corporation and Philips Healthcare entered into the distributorship   agreement in the markets of United States and three major European countries &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </atom.n.38>
+    <atom.n.39 url="http://music.hyperreal.org/artists/atom_heart/" title="Atom™ Discography">
+      <TargetSentence>AtomTM / &lt;b&gt;Atom&lt;/b&gt; Heart / Lassigue Bendthaus complete discography featuring in-  depth info and visual descriptions for all releases from Uwe Schmidt.</TargetSentence>
+    </atom.n.39>
+    <atom.n.40 url="http://www.iaea.org/" title="International Atomic Energy Agency (IAEA)">
+      <TargetSentence>The world&amp;#39;s central intergovernmental forum for scientific and technical co-  operation in the nuclear field, and the international inspectorate for the   application of &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </atom.n.40>
+    <atom.n.41 url="http://www.electricmoons.com/indexAtom.htm" title="ATOM performance">
+      <TargetSentence>electric moOns - balloon ballet and interactive physical 3D display.</TargetSentence>
+    </atom.n.41>
+    <atom.n.42 url="http://www.fusionthink.com/atommatt/" title="Atom - fusionTHINK">
+      <TargetSentence>&lt;b&gt;ATOM&lt;/b&gt; - WMC09 promo dj mix (original+funky+minimal) · &lt;b&gt;ATOM&lt;/b&gt; @ GaiaTribe,   Portland, OR - Everybody Loves Music AUG08 (funky+techy outdoor rave) &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </atom.n.42>
+    <atom.n.43 url="http://www.chemguide.co.uk/atoms/properties/atomorbs.html" title="atomic orbitals">
+      <TargetSentence>Explains what an &lt;b&gt;atomic&lt;/b&gt; orbital is, and looks at the various kinds of &lt;b&gt;atomic&lt;/b&gt; orbital   - s, p, d and f.</TargetSentence>
+    </atom.n.43>
+    <atom.n.44 url="http://www.chemguide.co.uk/atoms/properties/gcse.html" title="a simple view of atomic structure">
+      <TargetSentence>Gives a simple picture of the arrangement of protons, neutrons and electrons in   some uncomplicated &lt;b&gt;atoms&lt;/b&gt;.</TargetSentence>
+    </atom.n.44>
+    <atom.n.45 url="http://www.phys.virginia.edu/classes/252/atoms.html" title="Atoms">
+      <TargetSentence>The first &amp;quot;&lt;b&gt;atomic&lt;/b&gt; theorists&amp;quot; we have any record of were two fifth-century BC   Greeks, Leucippus of Miletus (a town now in Turkey) and Democritus of Abdera.</TargetSentence>
+    </atom.n.45>
+    <atom.n.46 url="http://www.ndt-ed.org/EducationResources/HighSchool/Electricity/atommodels.htm" title="Atom Models">
+      <TargetSentence>An &lt;b&gt;atom&lt;/b&gt; is the smallest particle of any element that still retains the characteristics   &lt;b&gt;...&lt;/b&gt; &lt;b&gt;Atoms&lt;/b&gt; consist of a central, dense nucleus that is surrounded by one or more &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </atom.n.46>
+    <atom.n.47 url="http://education.jlab.org/qa/atom.html" title="What is an atom? What are atoms made of?">
+      <TargetSentence>What is an &lt;b&gt;atom&lt;/b&gt;? &lt;b&gt;...&lt;/b&gt; Return to the &lt;b&gt;Atoms&lt;/b&gt;, Elements and Molecules Index Page | &lt;b&gt;...&lt;/b&gt;   The protons and neutrons cluster together in the central part of the &lt;b&gt;atom&lt;/b&gt;, called &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </atom.n.47>
+    <atom.n.48 url="http://soundcloud.com/atom_tm" title="Atom™&amp;#39;s sounds on SoundCloud - Create, record and share your ...">
+      <TargetSentence>&lt;b&gt;Atom&lt;/b&gt;™&amp;#39;s Upcoming Gigs Sunday 14 October, 2012.</TargetSentence>
+    </atom.n.48>
+    <atom.n.49 url="http://www.atomcentral.com/" title="Atom Bomb photos, movies, &amp;amp; videos">
+      <TargetSentence>&lt;b&gt;Atom&lt;/b&gt; Central is a website dedicated to documenting the history of &lt;b&gt;Atomic&lt;/b&gt; Bomb   testing in the 50&amp;#39;s and 60&amp;#39;s. Peter Kuran has produced several movies on the &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </atom.n.49>
+    <atom.n.50 url="http://www.thefreedictionary.com/atom" title="atom - definition of atom by the Free Online Dictionary, Thesaurus ...">
+      <TargetSentence>a. A part or particle considered to be an irreducible constituent of a specified   system. b. The irreducible, indestructible material unit postulated by ancient &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </atom.n.50>
+    <atom.n.51 url="http://atom.smasher.org/" title="Atom Smasher">
+      <TargetSentence>&lt;b&gt;Atom&lt;/b&gt; Smasher. Generators: Error Message Generator · Word Puzzle Generator ·   Street Party Sign Generator · Highway Sign Generator · Gas Station Sign &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </atom.n.51>
+    <atom.n.52 url="http://clojure.org/atoms" title="Clojure - atoms">
+      <TargetSentence>&lt;b&gt;Atoms&lt;/b&gt; provide a way to manage shared, synchronous, independent state. They   are a reference type like refs and vars. You create an &lt;b&gt;atom&lt;/b&gt; with &lt;b&gt;atom&lt;/b&gt;, and can &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </atom.n.52>
+    <atom.n.53 url="http://www.aboutnuclear.org/view.cgi%3FfC%3DThe_Atom,Structure_of_the_Atom" title="NS&amp;amp;T : The Atom : Structure of the Atom">
+      <TargetSentence>That smallest piece is called an iron &lt;b&gt;atom&lt;/b&gt;. An &lt;b&gt;atom&lt;/b&gt; is very, very small. In fact, the   size of an &lt;b&gt;atom&lt;/b&gt; compared to the size of an apple, is like the size of an apple &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </atom.n.53>
+    <atom.n.54 url="http://www.physics.isu.edu/radinf/atom.htm" title="atom">
+      <TargetSentence>A typical model of the &lt;b&gt;atom&lt;/b&gt; is called the Bohr Model, in honor of Niels Bohr who   proposed the structure in 1913. The Bohr &lt;b&gt;atom&lt;/b&gt; consists of a central nucleus &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </atom.n.54>
+    <atom.n.55 url="http://en.wikipedia.org/wiki/Atom_(comics)" title="Atom (comics) - Wikipedia, the free encyclopedia">
+      <TargetSentence>There have been five characters who have shared the &lt;b&gt;Atom&lt;/b&gt; codename. The   original Golden Age &lt;b&gt;Atom&lt;/b&gt;, Al Pratt, was created by Ben Flinton and Bill O&amp;#39;Connor &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </atom.n.55>
+    <atom.n.56 url="http://www.neok12.com/Atom.htm" title="Atom - Kids Science Videos, Games and Lessons that Make - NeoK12">
+      <TargetSentence>&lt;b&gt;Atom&lt;/b&gt; - Kids science videos, lessons, quizzes and games for K-12 grade school   kids that make learning fun and interesting.</TargetSentence>
+    </atom.n.56>
+    <atom.n.57 url="http://www.atomenabled.org/developers/syndication/" title="AtomEnabled / Developers / Atom Syndication Format">
+      <TargetSentence>&lt;b&gt;Atom&lt;/b&gt; is the name of an XML-based Web content and metadata syndication   format, and an application-level protocol for publishing and editing Web   resources &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </atom.n.57>
+    <atom.n.58 url="http://www.iun.edu/~cpanhd/C101webnotes/modern-atomic-theory/rutherford-model.html" title="Rutherford model of the atom">
+      <TargetSentence>By 1911 the components of the &lt;b&gt;atom&lt;/b&gt; had been discovered. The &lt;b&gt;atom&lt;/b&gt; consisted   of subatomic particles called protons and electrons. However, it was not clear &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </atom.n.58>
+    <atom.n.59 url="http://en.wikipedia.org/wiki/Atomic_nucleus" title="Atomic nucleus - Wikipedia, the free encyclopedia">
+      <TargetSentence>The nucleus is the very dense region consisting of protons and neutrons at the   center of an atom. It was discovered in 1911, as a result of Ernest Rutherford&amp;#39;s &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </atom.n.59>
+    <atom.n.60 url="http://en.wikipedia.org/wiki/Atomic_theory" title="Atomic theory - Wikipedia, the free encyclopedia">
+      <TargetSentence>In chemistry and physics, atomic theory is a theory of the nature of matter, which   states that matter is composed of discrete units called atoms, as opposed to the &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </atom.n.60>
+    <atom.n.61 url="http://en.wikipedia.org/wiki/Atom_(Ray_Palmer)" title="Atom (Ray Palmer) - Wikipedia, the free encyclopedia">
+      <TargetSentence>The &lt;b&gt;Atom&lt;/b&gt; is a fictional character, a DC Comics superhero introduced during the   Silver Age of comic books in Showcase # 34 (Sep-Oct 1961). He was named &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </atom.n.61>
+    <atom.n.62 url="http://www.intel.com/content/www/us/en/processors/atom/atom-processor-details.html" title="Power Internet Devices with the Intel® Atom™ Processor">
+      <TargetSentence>Learn how affordable, convenient internet devices powered by the Intel® &lt;b&gt;Atom&lt;/b&gt;™   processor make ideal companions for your everyday PC.</TargetSentence>
+    </atom.n.62>
+    <atom.n.63 url="http://simple.wikipedia.org/wiki/Atom" title="Atom - Simple English Wikipedia, the free encyclopedia">
+      <TargetSentence>An &lt;b&gt;atom&lt;/b&gt; is the basic unit that makes up all matter. There are many different types   of &lt;b&gt;atoms&lt;/b&gt;, each with its own name, mass and size. These different types of &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </atom.n.63>
+    <atom.n.64 url="http://www.chem4kids.com/files/atom_structure.html" title="Chem4Kids.com: Atoms: Structure">
+      <TargetSentence>Chem4Kids.com Popular Sections &lt;b&gt;Atoms&lt;/b&gt; and &lt;b&gt;Atom&lt;/b&gt; Structure &lt;b&gt;...&lt;/b&gt; You should start   by remembering that matter is composed of &lt;b&gt;atoms&lt;/b&gt;. &lt;b&gt;Atoms&lt;/b&gt; and the study of &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </atom.n.64>
+  </atom.n.test>
+</dataSet>

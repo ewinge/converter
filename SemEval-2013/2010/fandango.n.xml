@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataSet authors="Roberto Navigli, Daniele Vannella" task="SemeVal 2013 task 11" lang="en">
+  <fandango.n.test>
+    <fandango.n.1 url="http://www.fandango.com/" title="Movie Tickets &amp;amp; Movie Times - Fandango.com">
+      <TargetSentence>Buy movie tickets in advance, find movie times, watch trailers, read movie   reviews, and more at &lt;b&gt;Fandango&lt;/b&gt;.</TargetSentence>
+    </fandango.n.1>
+    <fandango.n.2 url="http://www.fandango.com/movietimes" title="Movie Times - Theater Showtimes - Fandango.com">
+      <TargetSentence>Find local movie times. Enter your zip code or city to find local movie theaters and   movie showtimes near you using Fandango.com.</TargetSentence>
+    </fandango.n.2>
+    <fandango.n.3 url="http://www.fandango.com/moviesintheaters" title="Movies in Theaters – New Movies – Movie Listings – Fandango">
+      <TargetSentence>Find movies in theaters and details about new movies now playing. Get the latest   movie news on films opening this week from Fandango.</TargetSentence>
+    </fandango.n.3>
+    <fandango.n.4 url="http://itunes.apple.com/us/app/fandango-movies-times-tickets/id307906541%3Fmt%3D8" title="Fandango Movies – Times &amp;amp; Tickets for iPhone 3GS, iPhone 4 ...">
+      <TargetSentence>Sep 20, 2012 &lt;b&gt;...&lt;/b&gt; Read reviews, get customer ratings, see screenshots, and learn more about   &lt;b&gt;Fandango&lt;/b&gt; Movies – Times &amp;amp; Tickets on the App Store. Download &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </fandango.n.4>
+    <fandango.n.5 url="http://en.wikipedia.org/wiki/Fandango" title="Fandango - Wikipedia, the free encyclopedia">
+      <TargetSentence>&lt;b&gt;Fandango&lt;/b&gt; is a lively couples dance, usually in triple metre, traditionally   accompanied by guitars and castanets or hand-clapping (&amp;quot;palmas&amp;quot; in Spanish   and &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </fandango.n.5>
+    <fandango.n.6 url="http://www.fandangorestaurant.com/" title="Fandango Restaurant - Welcome">
+      <TargetSentence>European dining featuring a mix of Mediterranean cuisine. Wine list, menus,   rooms and recipes.</TargetSentence>
+    </fandango.n.6>
+    <fandango.n.7 url="https://twitter.com/Fandango" title="Fandango (Fandango) on Twitter">
+      <TargetSentence>Welcome to the official Twitter page for &lt;b&gt;Fandango&lt;/b&gt;! Rachel here, tweeting the   latest movie news, trailers &amp;amp; giveaways. Buy your movie tickets at &lt;b&gt;fandango&lt;/b&gt;.com!</TargetSentence>
+    </fandango.n.7>
+    <fandango.n.8 url="http://www.imdb.com/title/tt0089126/" title="Fandango (1985) - IMDb">
+      <TargetSentence>Directed by Kevin Reynolds. With Kevin Costner, Judd Nelson, Sam Robards,   Chuck Bush. Five college buddies from the University of Texas circa 1971   embark &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </fandango.n.8>
+    <fandango.n.9 url="http://www.merriam-webster.com/dictionary/fandango" title="Fandango - Definition and More from the Free Merriam-Webster ...">
+      <TargetSentence>a lively Spanish or Spanish-American dance in triple time that is usually   performed by a man and a woman to the accompaniment of guitar and castanets;   also &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </fandango.n.9>
+    <fandango.n.10 url="http://www.fandangoevents.com/" title="Event Design | Management | Production | Marketing - Fandango ...">
+      <TargetSentence>&lt;b&gt;Fandango&lt;/b&gt; Productions design, management and marketing services for events,   trade show exhibits, television sets and mobile marketing campaigns.</TargetSentence>
+    </fandango.n.10>
+    <fandango.n.11 url="http://www.youtube.com/watch%3Fv%3DoFOcR-8M45s" title="Fandango - YouTube">
+      <TargetSentence>Jun 6, 2007 &lt;b&gt;...&lt;/b&gt; This is the &lt;b&gt;fandango&lt;/b&gt; section of a &lt;b&gt;fandango&lt;/b&gt;/alegrias we presented at our 2006   show at the Madrid Theatre: Choreography: Katerina Tomás &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </fandango.n.11>
+    <fandango.n.12 url="http://www.casinofandango.com/" title="Casino Fandango | Welcome">
+      <TargetSentence>Casino &lt;b&gt;Fandango&lt;/b&gt;, Carson City&amp;#39;s Best for Gaming, Dining and Entertainment,   Carson City&amp;#39;s best gaming promotions, Carson City&amp;#39;s Best Casino.</TargetSentence>
+    </fandango.n.12>
+    <fandango.n.13 url="http://www.facebook.com/fandango" title="Fandango | Facebook">
+      <TargetSentence>To connect with &lt;b&gt;Fandango&lt;/b&gt;, sign up for Facebook today. &lt;b&gt;...&lt;/b&gt; I appreciate &lt;b&gt;Fandango&lt;/b&gt;  .com they show me every time the name of the theater in my area thank you for &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </fandango.n.13>
+    <fandango.n.14 url="http://www.fandangotapasbistro.com/" title="Fandango Tapas Bistro | Downtown Kalamazoo">
+      <TargetSentence>Inviting with stylish sophistication and flair, &lt;b&gt;fandango&lt;/b&gt; tapas bistro delivers tastes   and wines reminiscent of the Mediterranean Coast of Spain. A passionate and &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </fandango.n.14>
+    <fandango.n.15 url="https://play.google.com/store/apps/details%3Fid%3Dcom.fandango%26hl%3Den" title="Fandango Movies - Android Apps on Google Play">
+      <TargetSentence>Sep 20, 2012 &lt;b&gt;...&lt;/b&gt; Find movie &amp;amp; theater listings, watch trailers, view fan ratings &amp;amp; buy tix fast!   Download &lt;b&gt;Fandango&lt;/b&gt; Movies – Times &amp;amp; Tickets, the #1 movie &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </fandango.n.15>
+    <fandango.n.16 url="http://www.amazon.com/Fandango-Kevin-Costner/dp/B0006J28NC" title="Amazon.com: Fandango: Kevin Costner, Judd Nelson, Sam ...">
+      <TargetSentence>An unknown Kevin Costner is magnetic in this entertaining road picture that   bypassed most theaters when it was released in 1985. On the eve of their college &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </fandango.n.16>
+    <fandango.n.17 url="http://www.fandango.com/mobilemovietickets" title="Mobile Movie Tickets - Fandango.com Mobile - Mobile Apps ...">
+      <TargetSentence>Buy tickets, check showtimes, watch trailers + more with these free Fandango   mobile apps. NEW! Mobile Tickets Now, at select theaters! Learn More &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </fandango.n.17>
+    <fandango.n.18 url="http://www.elfandangorestaurant.com/" title="The Origins of El Fandango Mexican Restaurant in Old Town San ...">
+      <TargetSentence>From the heart of Old Town San Diego State Historic Park, El &lt;b&gt;Fandango&lt;/b&gt;   transports visitors back to the late 1840s to a time when the early days of modern   San &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </fandango.n.18>
+    <fandango.n.19 url="http://en.wiktionary.org/wiki/fandango" title="fandango - Wiktionary">
+      <TargetSentence>A form of flamenco music and dance that has many regional variations (e.g.   &lt;b&gt;fandango&lt;/b&gt; de Huelva), some of which have their own names (e.g. malagueña, &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </fandango.n.19>
+    <fandango.n.20 url="http://www.thefreedictionary.com/fandango" title="fandango - definition of fandango by the Free Online Dictionary ...">
+      <TargetSentence>a. An animated Spanish or Spanish-American dance in triple time. b. A piece of   music for this dance. 2. Informal Nonsense; tomfoolery.</TargetSentence>
+    </fandango.n.20>
+    <fandango.n.21 url="https://www.plasticjungle.com/gift-card/fandango-gift-cards" title="Buy Fandango Gift Cards &amp;amp; Save - Free shipping - Plastic Jungle">
+      <TargetSentence>Buy discounted &lt;b&gt;Fandango&lt;/b&gt; gift cards to save money, similar to &lt;b&gt;Fandango&lt;/b&gt;   coupons. Fast, Free Shipping. Guaranteed. Sell &lt;b&gt;Fandango&lt;/b&gt; gift cards for cash.</TargetSentence>
+    </fandango.n.21>
+    <fandango.n.22 url="http://fandangorecs.com/" title="Fandango Records">
+      <TargetSentence>Jun 28, 2012 &lt;b&gt;...&lt;/b&gt; &lt;b&gt;Fandango&lt;/b&gt; Records is an independent record label based in Washington, D.C.   We have released many records including releases by &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </fandango.n.22>
+    <fandango.n.23 url="http://www.crunchbase.com/company/fandango" title="Fandango | CrunchBase Profile">
+      <TargetSentence>&lt;b&gt;Fandango&lt;/b&gt; entertains and informs consumers with exclusive film clips, trailers,   celebrity interviews, fan reviews and news, while offering the ability.</TargetSentence>
+    </fandango.n.23>
+    <fandango.n.24 url="http://www.floydfandango.com/" title="Floyd Fandango Faire">
+      <TargetSentence>Born in 2001 on the small stage of Oddfella&amp;#39;s Cantina in downtown Floyd Virginia  , Across-the-Way Productions, Inc., has dedicated itself to becoming Southwest &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </fandango.n.24>
+    <fandango.n.25 url="http://www.fandango.com/las%2Bvegas_%2Bnv_movietimes%3Fsrce%3D%26wss%3DCJAFFILIATE%26x%3D10%26y%3D10%26rfilter%3Dsrce,x,y" title="Movie Times and Movie Theaters in Las Vegas, NV - Fandango.com">
+      <TargetSentence>Get movie times and movie theaters in Las Vegas, NV. Find the movie showings   at theaters near you and buy movie tickets at Fandango.com.</TargetSentence>
+    </fandango.n.25>
+    <fandango.n.26 url="http://www.fandango.com/Knoxville_TN_movietimes/" title="Movie Times and Movie Theaters in Knoxville, TN - Fandango.com">
+      <TargetSentence>Get movie times and movie theaters in Knoxville, TN. Find the movie showings at   theaters near you and buy movie tickets at Fandango.com.</TargetSentence>
+    </fandango.n.26>
+    <fandango.n.27 url="http://www.fandango.com/moviephotos" title="Movie Photos - Celebrity Photos - Film Poster Images - Fandango ...">
+      <TargetSentence>Browse movie photo galleries, movie stills, celebrity photos, and other movie   images for old and new movies on Fandango.com.</TargetSentence>
+    </fandango.n.27>
+    <fandango.n.28 url="http://www.fandango.com/movieblog/" title="Fandango Movie Blog">
+      <TargetSentence>Read the Fandango Movie blog for movie news, insider gossip, and early   reviews from people in the know.</TargetSentence>
+    </fandango.n.28>
+    <fandango.n.29 url="http://www.fandango.com/century16andimax%25C2%25AE_aaner/theaterpage" title="Century 16 and IMAX® Showtimes and Tickets - Fandango">
+      <TargetSentence>Find Century 16 and IMAX® movie times and tickets, box office information,   driving directions, and more on Fandango.</TargetSentence>
+    </fandango.n.29>
+    <fandango.n.30 url="http://www.fandango.com/washington_dc_movietimes" title="Movie Times and Movie Theaters in Washington, DC - Fandango.com">
+      <TargetSentence>Get movie times and movie theaters in Washington, DC. Find the movie showings   at theaters near you and buy movie tickets at Fandango.com.</TargetSentence>
+    </fandango.n.30>
+    <fandango.n.31 url="http://www.fandango.com/edwardsfresnostadium2226imax_aafyg/theaterpage" title="Edwards Fresno Stadium 22 &amp;amp; IMAX Showtimes and ... - Fandango">
+      <TargetSentence>Find Edwards Fresno Stadium 22 &amp;amp; IMAX movie times and tickets, box office   information, driving directions, and more on Fandango.</TargetSentence>
+    </fandango.n.31>
+    <fandango.n.32 url="http://thetwilightsaga.fandango.com/" title="Twilight Saga Movie Guide - Fandango.com">
+      <TargetSentence>Get the scoop on Twilight at Fandango&amp;#39;s Twilight Saga Movie Guide. View photos  , calendars and more at Fandango.com.</TargetSentence>
+    </fandango.n.32>
+    <fandango.n.33 url="http://www.fandango.com/AboutUs.aspx" title="About Fandango">
+      <TargetSentence>About Us. Fandango, the nation&amp;#39;s leading moviegoer destination, sells tickets to   nearly 20,000 screens nationwide. Fandango entertains and informs consumers &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </fandango.n.33>
+    <fandango.n.34 url="http://www.fandango.com/Portland_OR_movietimes/" title="Movie Times and Movie Theaters in Portland, OR - Fandango.com">
+      <TargetSentence>Get movie times and movie theaters in Portland, OR. Find the movie showings at   theaters near you and buy movie tickets at Fandango.com.</TargetSentence>
+    </fandango.n.34>
+    <fandango.n.35 url="http://www.fandango.com/movieblog/exclusive-poster-premiereand-release-date-for-worlds-end-723360.html" title="Exclusive Poster Premiere--and Release Date! for &amp;#39;The ... - Fandango">
+      <TargetSentence>4 days ago &lt;b&gt;...&lt;/b&gt; The good folks over at Focus Features gave us the first look at Edgar Wright&amp;#39;s The   World&amp;#39;s End, which reunites Simon Pegg and Nick Frost for &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </fandango.n.35>
+    <fandango.n.36 url="http://www.fandango.com/discountmovietickets" title="Discount Movie Tickets - Movie Promotions - Fandango.com">
+      <TargetSentence>Find discount movie tickets, participate in movie promotions for new and   upcoming movies, and enter movie sweepstakes at Fandango.com.</TargetSentence>
+    </fandango.n.36>
+    <fandango.n.37 url="http://www.fandango.com/Reno_NV_movietimes/" title="Movie Times and Movie Theaters in Reno, NV - Fandango.com">
+      <TargetSentence>Get movie times and movie theaters in Reno, NV. Find the movie showings at   theaters near you and buy movie tickets at Fandango.com.</TargetSentence>
+    </fandango.n.37>
+    <fandango.n.38 url="http://www.fandango.com/gainesville_florida_movietimes" title="Movie Times and Movie Theaters in Gainesville, FL - Fandango.com">
+      <TargetSentence>Get movie times and movie theaters in Gainesville, FL. Find the movie showings   at theaters near you and buy movie tickets at Fandango.com.</TargetSentence>
+    </fandango.n.38>
+    <fandango.n.39 url="http://www.fandango.com/thedarkknightrises/movieguide" title="The Dark Knight Rises Movie Guide - Fandango.com">
+      <TargetSentence>Get the scoop on The Dark Knight Rises at Fandango&amp;#39;s The Dark Knight Rises   Movie Guide. View photos, calendars and more at Fandango.com.</TargetSentence>
+    </fandango.n.39>
+    <fandango.n.40 url="http://www.fandango.com/edwardsvalenciastadium1226imax_aabix/theaterpage" title="Edwards Valencia Stadium 12 &amp;amp; IMAX Showtimes and ... - Fandango">
+      <TargetSentence>Find Edwards Valencia Stadium 12 &amp;amp; IMAX movie times and tickets, box office   information, driving directions, and more on Fandango.</TargetSentence>
+    </fandango.n.40>
+    <fandango.n.41 url="http://www.fandango.com/Rochester_NY_movietimes/" title="Movie Times and Movie Theaters in Rochester, NY - Fandango.com">
+      <TargetSentence>Get movie times and movie theaters in Rochester, NY. Find the movie showings   at theaters near you and buy movie tickets at Fandango.com.</TargetSentence>
+    </fandango.n.41>
+    <fandango.n.42 url="http://www.fandango.com/Charlotte_NC_movietimes/" title="Movie Times and Movie Theaters in Charlotte, NC - Fandango.com">
+      <TargetSentence>Get movie times and movie theaters in Charlotte, NC. Find the movie showings at   theaters near you and buy movie tickets at Fandango.com.</TargetSentence>
+    </fandango.n.42>
+    <fandango.n.43 url="http://www.fandango.com/carmikethoroughbred20_aaofp/theaterpage" title="Carmike Thoroughbred 20 Showtimes and Tickets - Fandango">
+      <TargetSentence>Find Carmike Thoroughbred 20 movie times and tickets, box office information,   driving directions, and more on Fandango.</TargetSentence>
+    </fandango.n.43>
+    <fandango.n.44 url="http://www.amazon.com/Fandango-Kevin-Costner/dp/B0006J28NC" title="Amazon.com: Fandango: Kevin Costner, Judd Nelson, Sam ...">
+      <TargetSentence>An unknown Kevin Costner is magnetic in this entertaining road picture that   bypassed most theaters when it was released in 1985. On the eve of their college &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </fandango.n.44>
+    <fandango.n.45 url="http://www.elfandangorestaurant.com/" title="The Origins of El Fandango Mexican Restaurant in Old Town San ...">
+      <TargetSentence>From the heart of Old Town San Diego State Historic Park, El &lt;b&gt;Fandango&lt;/b&gt;   transports visitors back to the late 1840s to a time when the early days of modern   San &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </fandango.n.45>
+    <fandango.n.46 url="http://en.wiktionary.org/wiki/fandango" title="fandango - Wiktionary">
+      <TargetSentence>A form of flamenco music and dance that has many regional variations (e.g.   &lt;b&gt;fandango&lt;/b&gt; de Huelva), some of which have their own names (e.g. malagueña, &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </fandango.n.46>
+    <fandango.n.47 url="http://www.thefreedictionary.com/fandango" title="fandango - definition of fandango by the Free Online Dictionary ...">
+      <TargetSentence>a. An animated Spanish or Spanish-American dance in triple time. b. A piece of   music for this dance. 2. Informal Nonsense; tomfoolery.</TargetSentence>
+    </fandango.n.47>
+    <fandango.n.48 url="https://play.google.com/store/apps/details%3Fid%3Dcom.fandango%26hl%3Den" title="Fandango Movies - Android Apps on Google Play">
+      <TargetSentence>Sep 20, 2012 &lt;b&gt;...&lt;/b&gt; Find movie &amp;amp; theater listings, watch trailers, view fan ratings &amp;amp; buy tix fast!   Download &lt;b&gt;Fandango&lt;/b&gt; Movies – Times &amp;amp; Tickets, the #1 movie &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </fandango.n.48>
+    <fandango.n.49 url="http://www.fandango.com/colorado%2Bsprings_colorado_movietimes" title="Movie Times and Movie Theaters in Colorado Springs, CO - Fandango">
+      <TargetSentence>Get movie times and movie theaters in Colorado Springs, CO. Find the movie   showings at theaters near you and buy movie tickets at Fandango.com.</TargetSentence>
+    </fandango.n.49>
+    <fandango.n.50 url="http://www.fandango.com/Henderson_NV_movietimes/" title="Movie Times and Movie Theaters in Henderson, NV - Fandango.com">
+      <TargetSentence>Get movie times and movie theaters in Henderson, NV. Find the movie showings   at theaters near you and buy movie tickets at Fandango.com.</TargetSentence>
+    </fandango.n.50>
+    <fandango.n.51 url="http://www.fandango.com/Raleigh_NC_movietimes/" title="Movie Times and Movie Theaters in Raleigh, NC - Fandango.com">
+      <TargetSentence>Get movie times and movie theaters in Raleigh, NC. Find the movie showings at   theaters near you and buy movie tickets at Fandango.com.</TargetSentence>
+    </fandango.n.51>
+    <fandango.n.52 url="http://www.fandango.com/boxoffice" title="Box Office – Movie Box Office Results – Fandango">
+      <TargetSentence>Get box office news and see how the latest movie releases stack up against the   competition on Fandango.</TargetSentence>
+    </fandango.n.52>
+    <fandango.n.53 url="http://www.fandango.com/Savannah_GA_movietimes/" title="Movie Times and Movie Theaters in Savannah, GA - Fandango.com">
+      <TargetSentence>Get movie times and movie theaters in Savannah, GA. Find the movie showings   at theaters near you and buy movie tickets at Fandango.com.</TargetSentence>
+    </fandango.n.53>
+    <fandango.n.54 url="http://www.fandango.com/Vancouver_WA_movietimes/" title="Movie Times and Movie Theaters in Vancouver, WA - Fandango.com">
+      <TargetSentence>Get movie times and movie theaters in Vancouver, WA. Find the movie showings   at theaters near you and buy movie tickets at Fandango.com.</TargetSentence>
+    </fandango.n.54>
+    <fandango.n.55 url="http://www.fandango.com/Asheville_NC_movietimes/" title="Movie Times and Movie Theaters in Asheville, NC - Fandango.com">
+      <TargetSentence>Get movie times and movie theaters in Asheville, NC. Find the movie showings at   theaters near you and buy movie tickets at Fandango.com.</TargetSentence>
+    </fandango.n.55>
+    <fandango.n.56 url="http://games.fandango.com/" title="Online Games from Fandango">
+      <TargetSentence>Play online games at Fandango.com. Earn points and win prizes at Fandango! &lt;b&gt;...&lt;/b&gt;   FEATURED GAMES. This Week&amp;#39;s Featured Games &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </fandango.n.56>
+    <fandango.n.57 url="http://www.fandango.com/HDFandangoPuppetTrailers.aspx" title="Fandango Bag Puppet Trailers">
+      <TargetSentence>Watch the latest Fandango bag puppet trailers and view pictures of all the bag   puppets at Fandango.com.</TargetSentence>
+    </fandango.n.57>
+    <fandango.n.58 url="http://www.fandango.com/cinedome8napa_aacez/theaterpage" title="Cinedome 8 Napa Showtimes and Tickets - Fandango">
+      <TargetSentence>Find Cinedome 8 Napa movie times and tickets, box office information, driving   directions, and more on Fandango.</TargetSentence>
+    </fandango.n.58>
+    <fandango.n.59 url="http://www.fandango.com/century14vallejo_aapis/theaterpage" title="Century 14 Vallejo Showtimes and Tickets - Fandango">
+      <TargetSentence>Find Century 14 Vallejo movie times and tickets, box office information, driving   directions, and more on Fandango.</TargetSentence>
+    </fandango.n.59>
+    <fandango.n.60 url="http://www.fandango.com/freemovietickets" title="Free Movie Tickets - Discount Movie Tickets - Fandango.com">
+      <TargetSentence>Get free movie tickets and special offers, including Fandango coupons, discount   tickets, sweepstakes, and more special offers at Fandango.com.</TargetSentence>
+    </fandango.n.60>
+    <fandango.n.61 url="http://www.fandango.com/edwardssantamaria10_aabif/theaterpage" title="Edwards Santa Maria 10 Showtimes and Tickets - Fandango">
+      <TargetSentence>Find Edwards Santa Maria 10 movie times and tickets, box office information,   driving directions, and more on Fandango.</TargetSentence>
+    </fandango.n.61>
+    <fandango.n.62 url="http://www.fandango.com/movie-trailer/riseoftheplanetoftheapes-trailer/135719" title="Rise of the Planet of the Apes - Movie Trailers - Fandango.com">
+      <TargetSentence>Watch Rise of the Planet of the Apes movie trailers, including Rise of the Planet   of the Apes scenes, clips and cast interviews at Fandango.com.</TargetSentence>
+    </fandango.n.62>
+    <fandango.n.63 url="https://www.fandango.com/fbs/FBEGiftCards.aspx" title="Fandango Bucks Purchase">
+      <TargetSentence>Give the gift of movies the fast and fun way with Fandango Bucks via e-mail. It&amp;#39;s   easy! Choose the design, amount and personalize the message. They&amp;#39;ll instantly &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </fandango.n.63>
+    <fandango.n.64 url="http://www.imdb.com/company/co0073684/" title="Fandango [it]">
+      <TargetSentence>&lt;b&gt;Fandango&lt;/b&gt; - Filmography. Join IMDb Pro for more details!</TargetSentence>
+    </fandango.n.64>
+  </fandango.n.test>
+</dataSet>

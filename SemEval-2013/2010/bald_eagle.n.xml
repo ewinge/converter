@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataSet authors="Roberto Navigli, Daniele Vannella" task="SemeVal 2013 task 11" lang="en">
+  <bald_eagle.n.test>
+    <bald_eagle.n.1 url="http://en.wikipedia.org/wiki/Bald_Eagle" title="Bald Eagle - Wikipedia, the free encyclopedia">
+      <TargetSentence>The &lt;b&gt;Bald Eagle&lt;/b&gt; (Haliaeetus leucocephalus Greek hali = salt/ocean, aeetus =   eagle, leuco = white, cephalis = head) is a bird of prey found in North America.</TargetSentence>
+    </bald_eagle.n.1>
+    <bald_eagle.n.2 url="http://www.baldeagleinfo.com/" title="American Bald Eagle Information">
+      <TargetSentence>The &lt;b&gt;bald eagle&lt;/b&gt; (Haliaeetus leucocephalus), USA&amp;#39;s national bird symbol, is the   only eagle unique to North America. The &lt;b&gt;bald eagle&amp;#39;s&lt;/b&gt; scientific name signifies a &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </bald_eagle.n.2>
+    <bald_eagle.n.3 url="http://www.allaboutbirds.org/guide/Bald_Eagle/id" title="Bald Eagle, Identification, All About Birds - Cornell Lab of Ornithology">
+      <TargetSentence>Learn how to identify &lt;b&gt;Bald Eagle&lt;/b&gt;, its life history, cool facts, sounds and calls, and   watch videos. The &lt;b&gt;Bald Eagle&lt;/b&gt; has been the national emblem of the United &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </bald_eagle.n.3>
+    <bald_eagle.n.4 url="http://animals.nationalgeographic.com/animals/birds/bald-eagle/" title="Bald Eagle - National Geographic">
+      <TargetSentence>Learn all you wanted to know about bald eagles with pictures, videos, photos,   facts, and news from National Geographic.</TargetSentence>
+    </bald_eagle.n.4>
+    <bald_eagle.n.5 url="http://www.defenders.org/bald-eagle/basic-facts" title="Bald Eagle | Basic Facts About Bald Eagles | Defenders of Wildlife">
+      <TargetSentence>Learn about the size, diet, population, range, behavior and other fascinating facts   about bald eagles.</TargetSentence>
+    </bald_eagle.n.5>
+    <bald_eagle.n.6 url="http://www.youtube.com/watch%3Fv%3DhecXupPpE9o" title="Bald Eagle catches salmon - YouTube">
+      <TargetSentence>Mar 11, 2009 &lt;b&gt;...&lt;/b&gt; See how an American &lt;b&gt;Bald Eagle&lt;/b&gt; catches a salmon out of the water in full flight.   Fragment from BBC Nature&amp;#39;s Great Events - The Great Salmon &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </bald_eagle.n.6>
+    <bald_eagle.n.7 url="http://www.nwf.org/wildlife/wildlife-library/birds/bald-eagle.aspx" title="Bald Eagle - National Wildlife Federation">
+      <TargetSentence>Learn about the biology, range and behaviors of bald eagles.</TargetSentence>
+    </bald_eagle.n.7>
+    <bald_eagle.n.8 url="http://www.enchantedlearning.com/subjects/birds/printouts/Eaglecoloring.shtml" title="Bald Eagle Printout- EnchantedLearning.com">
+      <TargetSentence>The &lt;b&gt;bald eagle&lt;/b&gt; is a large, powerful bird with keen eyesight.</TargetSentence>
+    </bald_eagle.n.8>
+    <bald_eagle.n.9 url="http://www.sandiegozoo.org/animalbytes/t-bald_eagle.html" title="San Diego Zoo&amp;#39;s Animal Bytes: Bald Eagle">
+      <TargetSentence>Get accurate information in an easy-to-read style about bald eagles from the San   Diego Zoo&amp;#39;s Animal Bytes. Buy tickets online and plan a visit to the Zoo or &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </bald_eagle.n.9>
+    <bald_eagle.n.10 url="http://www.fws.gov/migratorybirds/baldeagle.htm" title="Migratory Birds Bald Eagle">
+      <TargetSentence>Oct 19, 2012 &lt;b&gt;...&lt;/b&gt; The &lt;b&gt;Bald Eagle&lt;/b&gt; is an Endangered Species Act success story. Forty years ago,   our national symbol was in danger of extinction throughout most &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </bald_eagle.n.10>
+    <bald_eagle.n.11 url="http://ecos.fws.gov/species_profile/SpeciesProfile%3Fspcode%3DB008" title="Species Profile for Bald eagle (Haliaeetus leucocephalus)">
+      <TargetSentence>A large raptor, the &lt;b&gt;bald eagle&lt;/b&gt; has a wingspread of about 7 feet. Adults have a   dark brown body and wings, white head and tail, and a yellow beak. Juveniles   are &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </bald_eagle.n.11>
+    <bald_eagle.n.12 url="http://www.usflag.org/bald.eagle.html" title="Bald Eagle">
+      <TargetSentence>The &lt;b&gt;bald eagle&lt;/b&gt; is truly an all-American bird -- it is the only eagle unique to North   America. It ranges over most of the continent, from the northern reaches of &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </bald_eagle.n.12>
+    <bald_eagle.n.13 url="http://www.ct.gov/dep/cwp/view.asp%3Fq%3D325972" title="DEP: Bald Eagle Fact Sheet">
+      <TargetSentence>&lt;b&gt;Bald Eagle&lt;/b&gt; Fact Sheet Abstract: Fact sheet about the &lt;b&gt;Bald Eagle&lt;/b&gt; produced by the   Connecticut DEP-Wildlife Division.</TargetSentence>
+    </bald_eagle.n.13>
+    <bald_eagle.n.14 url="http://www.portal.state.pa.us/portal/server.pt/document/775654/bald_eagle_pdf" title="Bald Eagle.pdf - Commonwealth of Pennsylvania">
+      <TargetSentence>CURRENT STATUS: In Pennsylvania, the &lt;b&gt;bald eagle&lt;/b&gt; is threatened and &lt;b&gt;...&lt;/b&gt; &lt;b&gt;bald&lt;/b&gt;   &lt;b&gt;eagle&lt;/b&gt; population has increased steadily and dramatically in recent years, roughly &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </bald_eagle.n.14>
+    <bald_eagle.n.15 url="http://www.dec.ny.gov/animals/7068.html" title="Bald Eagle Program - NYS Dept. of Environmental Conservation">
+      <TargetSentence>Information about bald eagles, listed as a threatened species in New York State.</TargetSentence>
+    </bald_eagle.n.15>
+    <bald_eagle.n.16 url="http://www.arkive.org/bald-eagle/haliaeetus-leucocephalus/" title="Bald eagle (Haliaeetus leucocephalus) - ARKive">
+      <TargetSentence>Learn more about the &lt;b&gt;Bald eagle&lt;/b&gt; - with amazing &lt;b&gt;Bald eagle&lt;/b&gt; videos, photos and   facts on ARKive.</TargetSentence>
+    </bald_eagle.n.16>
+    <bald_eagle.n.17 url="http://www.baldeagleinfo.com/eagle/eagle-facts.html" title="Bald Eagle Facts Sheet">
+      <TargetSentence>American &lt;b&gt;Bald Eagle&lt;/b&gt; Information General Facts baldeagleinfo.</TargetSentence>
+    </bald_eagle.n.17>
+    <bald_eagle.n.18 url="http://www.baldeagles.org/" title="American Bald Eagle Foundation">
+      <TargetSentence>The American &lt;b&gt;Bald Eagle&lt;/b&gt; Foundation and Live Raptor Center in Haines Alaska   is dedicated to the preservation of our national symbol.</TargetSentence>
+    </bald_eagle.n.18>
+    <bald_eagle.n.19 url="http://www.myspace.com/baldeagle" title="BALD EAGLE | Free Music, Tour Dates, Photos, Videos">
+      <TargetSentence>&lt;b&gt;BALD EAGLE&amp;#39;s&lt;/b&gt; official profile including the latest music, albums, songs, music   videos and more updates.</TargetSentence>
+    </bald_eagle.n.19>
+    <bald_eagle.n.20 url="http://www.fws.gov/midwest/eagle/" title="U.S. Fish and Wildlife Service - Bald Eagle">
+      <TargetSentence>Oct 16, 2012 &lt;b&gt;...&lt;/b&gt; &lt;b&gt;Bald Eagle&lt;/b&gt; flying with a fish in its talons. On August 9, 2007, the &lt;b&gt;bald eagle&lt;/b&gt; was   removed from the federal list of threatened and endangered &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </bald_eagle.n.20>
+    <bald_eagle.n.21 url="http://www.nhptv.org/natureworks/baldeagle.htm" title="Bald Eagle - Haliaeetus leucocephalus - NatureWorks">
+      <TargetSentence>The &lt;b&gt;bald eagle&lt;/b&gt; is 30-31 inches in length with a wingspan of 6-7 feet. It has a dark   brown body, a white tail and a white head and shoulders. It has bright yellow &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </bald_eagle.n.21>
+    <bald_eagle.n.22 url="http://myfwc.com/wildlifehabitats/managed/bald-eagle/" title="Bald Eagle Management">
+      <TargetSentence>Welcome to the FWC&amp;#39;s &lt;b&gt;Bald Eagle&lt;/b&gt; home page. The &lt;b&gt;bald eagle&lt;/b&gt;, our national bird,   was removed from the imperiled species list on the heels of its remarkable &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </bald_eagle.n.22>
+    <bald_eagle.n.23 url="http://bensguide.gpo.gov/3-5/symbols/eagle.html" title="Bald Eagle - Ben&amp;#39;s Guide to U.S. Government for Kids - U.S. ...">
+      <TargetSentence />
+    </bald_eagle.n.23>
+    <bald_eagle.n.24 url="http://www.learner.org/jnorth/eagle/" title="Bald Eagle: Please Report Your Bald Eagle Sightings!">
+      <TargetSentence>Journey North students track &lt;b&gt;bald eagle&lt;/b&gt; migration by satellite with New York   scientist Peter Nye.</TargetSentence>
+    </bald_eagle.n.24>
+    <bald_eagle.n.25 url="http://www.dcnr.state.pa.us/stateparks/findapark/baldeagle/index.htm" title="PA DCNR - Bald Eagle State Park">
+      <TargetSentence>The 5,900-acre &lt;b&gt;Bald Eagle&lt;/b&gt; State Park is in the broad &lt;b&gt;Bald Eagle&lt;/b&gt; Valley of   northcentral Pennsylvania. The 1,730-acre lake laps the flanks of &lt;b&gt;Bald Eagle&lt;/b&gt; &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </bald_eagle.n.25>
+    <bald_eagle.n.26 url="http://www.baldeagleranch.com/" title="BALD EAGLE RANCH, LLC">
+      <TargetSentence>Guest ranch for horses and riders in Camden with hands on trail riding and other   programs.</TargetSentence>
+    </bald_eagle.n.26>
+    <bald_eagle.n.27 url="http://www.baldeagleinfo.com/eagle/eagle9.html" title="The Bald Eagle - USA&amp;#39;s National Emblem">
+      <TargetSentence>The &lt;b&gt;bald eagle&lt;/b&gt; was chosen June 20, 1782 as the emblem of the United States of   American, because of its long life, great strength and majestic looks, and also &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </bald_eagle.n.27>
+    <bald_eagle.n.28 url="http://www.va.gov/opa/publications/celebrate/eagle.pdf" title="The American Bald Eagle">
+      <TargetSentence>The American &lt;b&gt;Bald Eagle&lt;/b&gt;. The &lt;b&gt;bald eagle&lt;/b&gt; has been the national bird of the   United States since 1782, when it was placed with outspread wings on the &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </bald_eagle.n.28>
+    <bald_eagle.n.29 url="http://www.oregonzoo.org/discover/animals/bald-eagle" title="Bald eagle | Oregon Zoo">
+      <TargetSentence>The &lt;b&gt;bald eagle&lt;/b&gt; is the national symbol of the United States. The Great Seal of the   United States shows a &lt;b&gt;bald eagle&lt;/b&gt; grasping 13 arrows in one claw and an olive &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </bald_eagle.n.29>
+    <bald_eagle.n.30 url="http://www.chesapeakebay.net/fieldguide/critter/bald_eagle" title="Bald Eagle - Chesapeake Bay Program">
+      <TargetSentence>The &lt;b&gt;bald eagle&lt;/b&gt; is a large raptor with a yellow, hook-shaped bill and a white head   and tail. It lives in forested, sparsely developed areas near rivers, wetlands and &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </bald_eagle.n.30>
+    <bald_eagle.n.31 url="http://identify.whatbird.com/obj/25/_/Bald_Eagle.aspx" title="Bald Eagle - Whatbird.com">
+      <TargetSentence>&lt;b&gt;Bald Eagle&lt;/b&gt;: Large, hawk-like bird, dark brown body and white head, tail. Heavy   bill, legs, feet, eyes are yellow. Hunts for fish, which it sometimes steals from &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </bald_eagle.n.31>
+    <bald_eagle.n.32 url="http://www.fcps.edu/islandcreekes/ecology/american_bald_eagle.htm" title="american bald eagle">
+      <TargetSentence>Besides being our nation&amp;#39;s symbol, Bald Eagles are one of our largest birds. They   grow almost three feet tall, with a wingspan of close to seven feet. Females are &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </bald_eagle.n.32>
+    <bald_eagle.n.33 url="http://www.baldeaglebash.com/" title="Bald Eagle Bash | Weeks Bay Foundation">
+      <TargetSentence>The Weeks Bay Foundation will host the first ever &lt;b&gt;Bald Eagle&lt;/b&gt; Bash to celebrate   the return of the &lt;b&gt;Bald Eagle&lt;/b&gt; to the Weeks Bay area. Our national symbol, as well &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </bald_eagle.n.33>
+    <bald_eagle.n.34 url="https://qccaexpocenter.com/%3Foption%3Dcom_content%26view%3Dcategory%26layout%3Dblog%26id%3D14%26Itemid%3D26" title="Bald Eagle Days">
+      <TargetSentence>Come see the two largest subspecies of gray wolf in North America, the tundra   and arctic wolf. We will cover the impact wolf hunting is having on populations in &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </bald_eagle.n.34>
+    <bald_eagle.n.35 url="http://www.dnr.state.oh.us/LinkClick.aspx%3Flink%3D6542%26tabid%3D6006" title="Bald Eagle">
+      <TargetSentence>Our national symbol, the &lt;b&gt;bald eagle&lt;/b&gt;, displays many outstanding characteristics -   exceptional vision, a striking appearance, and a commanding presence. Sadly &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </bald_eagle.n.35>
+    <bald_eagle.n.36 url="http://www.nps.gov/cuva/bald-eagles.htm" title="Bald Eagles in the Park - Cuyahoga Valley National Park">
+      <TargetSentence>&lt;b&gt;Bald eagle&lt;/b&gt; fact: Nest failure can result from building a nest too late in the spring,   laying unfertilized eggs or no eggs, or environmental stressors. Fledged eaglet &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </bald_eagle.n.36>
+    <bald_eagle.n.37 url="http://www.baldeagleinfo.com/eagle/eagle4.html" title="American Bald Eagle - Nesting &amp;amp; Young">
+      <TargetSentence>There are an estimated 7,066 nesting pairs of bald eagles, due to the efforts of   federal agencies, tribes, state and local governments, conservation groups, &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </bald_eagle.n.37>
+    <bald_eagle.n.38 url="http://discoverthejames.com/%3Fq%3DEagle-Tour" title="Bald Eagle Tours | Discover the James">
+      <TargetSentence>The James River runs through it ... through the City of Richmond. And just   minutes downriver is an incredible opportunity to see resident bald eagles in their &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </bald_eagle.n.38>
+    <bald_eagle.n.39 url="http://www.azdot.gov/CCPartnerships/BaldEagleProtection/index.asp" title="Bald Eagle Protection">
+      <TargetSentence>PILOTS . . . You can help protect an Arizona treasure. Private planes and   helicopters are the most common human activities in &lt;b&gt;bald eagle&lt;/b&gt; breeding areas   of &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </bald_eagle.n.39>
+    <bald_eagle.n.40 url="http://www.baldeaglechimney.com/" title="Chimney Sweep in Sandpoint, Idaho - Bald Eagle Enterprises">
+      <TargetSentence>Welcome to the &lt;b&gt;Bald Eagle&lt;/b&gt; Enterprises. We serve North Idaho and NW Montana   with chimney sweeping, chimney relining and dryer vent cleaning.</TargetSentence>
+    </bald_eagle.n.40>
+    <bald_eagle.n.41 url="http://www.nps.gov/chis/photosmultimedia/bald-eagle-webcam.htm" title="Channel Islands Live Bald Eagle Webcams - National Park Service">
+      <TargetSentence>Nov 30, 2012 &lt;b&gt;...&lt;/b&gt; The &lt;b&gt;Bald Eagle&lt;/b&gt; Webcams provide an intimate view of the breeding and nesting   behavior of bald eagles at the Channel Islands. Enhance your &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </bald_eagle.n.41>
+    <bald_eagle.n.42 url="http://www.swbemc.org/" title="Southwest Bald Eagle Management Committee Homepage">
+      <TargetSentence>Provides information on the nestwatch program, the sub adult migration study   and plenty of information on the bird in Arizona.</TargetSentence>
+    </bald_eagle.n.42>
+    <bald_eagle.n.43 url="http://www.thebigzoo.com/Animals/Bald_Eagle.asp" title="Bald Eagle (Haliaeetus leucocephalus)">
+      <TargetSentence>&lt;b&gt;Bald Eagle&lt;/b&gt; (Haliaeetus leucocephalus) facts, photos and videos.</TargetSentence>
+    </bald_eagle.n.43>
+    <bald_eagle.n.44 url="http://www.mass.gov/dfwele/dfw/nhesp/species_info/nhfacts/haliaeetus_leucocephalus.pdf" title="Bald eagle fact sheet - Mass.Gov">
+      <TargetSentence>&lt;b&gt;Bald Eagle&lt;/b&gt;. Haliaeetus leucocephalus. State Status: Threatened. Federal Status:   None. Photo by Bill Byrne, MassWildlife. DESCRIPTION: The &lt;b&gt;Bald Eagle&lt;/b&gt; is one &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </bald_eagle.n.44>
+    <bald_eagle.n.45 url="http://www.michigan.gov/dnr/0,4570,7-153-10370_12145_12202-32581--,00.html" title="DNR - Bald Eagle (Haliaeetus leucocephalus)">
+      <TargetSentence>Life History; Michigan History; &lt;b&gt;Bald Eagle&lt;/b&gt; Nesting History; Non-DNR Links. Life   History. Bald eagles, our national emblem, are one of two species of eagles &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </bald_eagle.n.45>
+    <bald_eagle.n.46 url="http://wdfw.wa.gov/conservation/bald_eagle/" title="Bald Eagle Management &amp;amp; Protection in Washington State ...">
+      <TargetSentence>IMPORTANT! Are you proposing to develop land, engage in construction, clear   brush, harvest trees or other similar activities within 660 feet of a &lt;b&gt;Bald Eagle&lt;/b&gt; nest &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </bald_eagle.n.46>
+    <bald_eagle.n.47 url="http://www.youtube.com/watch%3Fv%3DxPYXVo-j7j0" title="Liberty the Bald Eagle - YouTube">
+      <TargetSentence>Oct 1, 2009 &lt;b&gt;...&lt;/b&gt; http://www.houstonzoo.org Have your heard the call of a &lt;b&gt;bald eagle&lt;/b&gt; before? Hear   Liberty&amp;#39;s call and hear a bit about her in this short video.</TargetSentence>
+    </bald_eagle.n.47>
+    <bald_eagle.n.48 url="http://www.dnr.state.oh.us/linkclick.aspx%3Flink%3D15488%26tabid%3D6975" title="Bald Eagle Resources">
+      <TargetSentence>The &lt;b&gt;bald eagle&lt;/b&gt; can be found in small concentrations throughout the U.S.,   particularly near sizeable bodies of water, natural and man-made. Some of the   largest &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </bald_eagle.n.48>
+    <bald_eagle.n.49 url="http://dnr.alaska.gov/parks/units/eagleprv.htm" title="Alaska Chilkat Bald Eagle Preserve, Alaska State Parks">
+      <TargetSentence>Alaska Chilkat &lt;b&gt;Bald Eagle&lt;/b&gt; Preserve, Alaska State Parks, Division of Parks and   Outdoor Recreation.</TargetSentence>
+    </bald_eagle.n.49>
+    <bald_eagle.n.50 url="http://gfp.sd.gov/outdoor-learning/bald-eagle-awareness-days/default.aspx" title="Bald Eagle Awareness Days -- Welcome">
+      <TargetSentence>This annual event is a joint effort by conservation agencies and organizations to   increase public involvement and awareness concerning bald eagles and other &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </bald_eagle.n.50>
+    <bald_eagle.n.51 url="http://www.shopnwf.org/Adopt-a-Bald-Eagle/index.cat" title="Adopt a Bald Eagle | Shop NWF - D2C">
+      <TargetSentence>Bald eagles call the entire North American continent above Mexico their range.   You are likely to see an eagle near a large body of water with nearby old growth &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </bald_eagle.n.51>
+    <bald_eagle.n.52 url="http://baldeaglewatershed.com/" title="Bald Eagle Watershed Association">
+      <TargetSentence>&lt;b&gt;Bald Eagle&lt;/b&gt; Watershed Association - protecting watershed quality and beauty.</TargetSentence>
+    </bald_eagle.n.52>
+    <bald_eagle.n.53 url="http://www.answers.com/topic/bald-eagle" title="bald eagle: Definition from Answers.com">
+      <TargetSentence>&lt;b&gt;bald eagle&lt;/b&gt; n. A North American eagle (Haliaeetus leucocephalus) characterized   by a brownish-black body and a white head and tail in the adult.</TargetSentence>
+    </bald_eagle.n.53>
+    <bald_eagle.n.54 url="http://www.in.gov/dnr/fishwild/3383.htm" title="DNR: Bald Eagle">
+      <TargetSentence>Designated as the national bird of the United States in 1782, the &lt;b&gt;bald eagle&lt;/b&gt;   nested throughout the nation. Today, it is classified as a Federally threatened &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </bald_eagle.n.54>
+    <bald_eagle.n.55 url="http://wdfw.wa.gov/lands/wildlife_areas/skagit/Bald%2520Eagle%2520Natural/" title="Bald Eagle Natural Unit - Washington Department of Fish &amp;amp; Wildlife">
+      <TargetSentence>The &lt;b&gt;Bald Eagle&lt;/b&gt; Natural Area encompasses 2,450 acres along the upper Skagit   River at the confluence with the Sauk River, east of Concrete. The property was &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </bald_eagle.n.55>
+    <bald_eagle.n.56 url="http://www.dnr.sc.gov/wildlife/baldeagle/index.html" title="SCDNR - Wildlife - Bald Eagles">
+      <TargetSentence>Adult &lt;b&gt;Bald Eagle&lt;/b&gt; Adult bald eagles have a distinctive white head and tail, dark   brown body with a bright yellow bill and feet with unfeathered lower legs.</TargetSentence>
+    </bald_eagle.n.56>
+    <bald_eagle.n.57 url="http://www.enchantedlearning.com/subjects/birds/info/Eagle.shtml" title="Bald Eagle - EnchantedLearning.com">
+      <TargetSentence>The &lt;b&gt;bald eagle&lt;/b&gt;, Haliaeetus leucocephalus, is a magnificent bird of prey. It is not   really bald, it just has white feathers on its head.</TargetSentence>
+    </bald_eagle.n.57>
+    <bald_eagle.n.58 url="http://www.mnh.si.edu/arctic/html/eagle.html" title="Bald Eagle - Arctic Studies Center">
+      <TargetSentence>&lt;b&gt;Bald Eagle&lt;/b&gt; Haliaeetus leucocephalus. Bald Eagles are large and dangerous   predatory birds of North America. They used to be found throughout the US and &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </bald_eagle.n.58>
+    <bald_eagle.n.59 url="http://www.iucnredlist.org/details/106003365/0" title="Haliaeetus leucocephalus (Bald Eagle)">
+      <TargetSentence>&lt;b&gt;...&lt;/b&gt; here to view more detailed search options such as taxonomy, location, habitat,.   Home &amp;gt; Haliaeetus leucocephalus (&lt;b&gt;Bald Eagle&lt;/b&gt;) · Map_thumbnail_large_font &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </bald_eagle.n.59>
+    <bald_eagle.n.60 url="http://www3.northern.edu/natsource/ENDANG1/Baldeg1.htm" title="Bald Eagle">
+      <TargetSentence>The wingspan of a mature &lt;b&gt;bald eagle&lt;/b&gt; can be up to eight feet (2.4 meters) across.   Immature bald eagles, called wambli gleska (spotted eagle) by the Lakota, &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </bald_eagle.n.60>
+    <bald_eagle.n.61 url="http://woodstockint.com/brands/bald_eagle.aspx" title="Bald Eagle Precision Machine Co - Woodstock International Inc.">
+      <TargetSentence>Woodstock International has recently purchased the assets and trademarks of   &lt;b&gt;Bald Eagle&lt;/b&gt; Precision Machine Co. We are in the process of sorting out the dies, &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </bald_eagle.n.61>
+    <bald_eagle.n.62 url="http://www.baldeaglebuilders.com/" title="Bald Eagle Builders, Inc in Minnesota provides you with a satisfying ...">
+      <TargetSentence>&lt;b&gt;Bald Eagle&lt;/b&gt; Builders, Inc will build your dream home to fit your needs, lifestyle and   budget.</TargetSentence>
+    </bald_eagle.n.62>
+    <bald_eagle.n.63 url="http://www.nps.gov/chis/photosmultimedia/webcams.htm" title="Webcams - Channel Islands National Park">
+      <TargetSentence>Nov 30, 2012 &lt;b&gt;...&lt;/b&gt; &lt;b&gt;Bald Eagle&lt;/b&gt; Webcams. Please click on the picture to visit the &lt;b&gt;Bald Eagle&lt;/b&gt;   Webcams. \\inpchis_01\private\Lohuis\web site\web photos\right side &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </bald_eagle.n.63>
+    <bald_eagle.n.64 url="http://dnr.state.il.us/lands/landmgt/parks/r4/bald_eagle_days.htm" title="Pere Marquette Bald Eagle Days Brochure">
+      <TargetSentence>Have you ever seen our national bird, the &lt;b&gt;bald eagle&lt;/b&gt;? Soaring on a 6 to 7 1/2   foot wing span, these birds are magnificent! It is not necessary to travel all the   way &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </bald_eagle.n.64>
+  </bald_eagle.n.test>
+</dataSet>

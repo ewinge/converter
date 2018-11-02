@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataSet authors="Roberto Navigli, Daniele Vannella" task="SemeVal 2013 task 11" lang="en">
+  <aetna.n.test>
+    <aetna.n.1 url="http://www.aetna.com/" title="Aetna - Health Insurance, Dental, Pharmacy, Group Life and ...">
+      <TargetSentence>&lt;b&gt;Aetna&lt;/b&gt; is a national leader of health and related benefits offering health insurance  , pharmacy, dental, life, products for individuals, medicare insurance and &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </aetna.n.1>
+    <aetna.n.2 url="http://www.aetna.com/about-aetna-insurance/login-register/login-register.html" title="Login / Register -- Aetna">
+      <TargetSentence>Log In / Register. MEMBER LOG IN. Member Log In: Secure Site Log In &amp;gt; &lt;b&gt;...&lt;/b&gt; Find   a doctor; Check account balances; Find costs of tests and doctor visits. Register &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </aetna.n.2>
+    <aetna.n.3 url="http://www.aetna.com/docfind/" title="DocFind - Aetna">
+      <TargetSentence>DocFind, Aetna&amp;#39;s online participating provider directory, allows you to locate   physicians and other health care providers such as dentists, optometrists,   hospitals &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </aetna.n.3>
+    <aetna.n.4 url="http://www.aetna.com/about-aetna-insurance/aetna-careers/index.html" title="Aetna Careers and Job Opportunities -- Aetna">
+      <TargetSentence>Discover exciting careers at Aetna. Whether you&amp;#39;re an experienced professional,   a recent grad or a student, there could be opportunities for you.</TargetSentence>
+    </aetna.n.4>
+    <aetna.n.5 url="http://healthinsurance.aetna.com/" title="Health Insurance - Affordable Individual Health Insurance from Aetna">
+      <TargetSentence>Aetna offers a variety of health insurance plans for individuals, families and the   self-employed. Choose from many Aetna insurance options, including plans that &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </aetna.n.5>
+    <aetna.n.6 url="https://member.aetna.com/MbrLanding/login.fcc" title="Login/Register to access your personalized health ... - Aetna">
+      <TargetSentence>Member Log In. Aetna members log in. User name: Password: SECURE LOG IN   &lt;b&gt;...&lt;/b&gt; Aetna Mobile, convenience &amp;quot;on the go&amp;quot; Use your web enabled phone or &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </aetna.n.6>
+    <aetna.n.7 url="http://www.aetna.com/individuals-families-health-insurance/member-guidelines/member_services.html" title="Aetna Member Services -- Aetna">
+      <TargetSentence>Aetna Members, contact Member Services through the Internet or call the phone   number. Non-Aetna members, use the public contact us form to send a &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </aetna.n.7>
+    <aetna.n.8 url="http://www.aetnamedicare.com/" title="Aetna Medicare - Home">
+      <TargetSentence>&lt;b&gt;Aetna&lt;/b&gt; Medicare benefits and &lt;b&gt;Aetna&lt;/b&gt; Medicare plans. Find out the best plan for the   benefits you need, and which doctors, hospitals, pharmacies and prescriptions &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </aetna.n.8>
+    <aetna.n.9 url="http://en.wikipedia.org/wiki/Aetna" title="Aetna - Wikipedia, the free encyclopedia">
+      <TargetSentence>&lt;b&gt;Aetna&lt;/b&gt;, Inc is an American managed health care company, providing a range of   traditional and consumer directed health care insurance products and related &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </aetna.n.9>
+    <aetna.n.10 url="http://www.aetnainternational.com/" title="International Health Insurance | Worldwide Health Insurance - Aetna ...">
+      <TargetSentence>We are pleased to announce the launch of a series of iPhone and Android   application for &lt;b&gt;Aetna&lt;/b&gt; International members looking for direct-settlement   providers.</TargetSentence>
+    </aetna.n.10>
+    <aetna.n.11 url="http://www.aetnadental.com/" title="Aetna Dental Public">
+      <TargetSentence>Read more about a new dental discount program that may bring more patients to   your participating &lt;b&gt;Aetna&lt;/b&gt; Dental Access® network practice. With this program &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </aetna.n.11>
+    <aetna.n.12 url="https://www.aetnastudenthealth.com/" title="Aetna Student Health - Health Insurance for College and University ...">
+      <TargetSentence>May 9, 2012 &lt;b&gt;...&lt;/b&gt; For more than 30 years, student health insurance has been our focus. Now, more   than ever, we&amp;#39;re passionate about working with you to help &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </aetna.n.12>
+    <aetna.n.13 url="http://www.aetna-foundation.org/" title="Aetna Foundation -- promoting wellness, health, and access to high ...">
+      <TargetSentence>Our mission is to promote wellness, health, and access to high-quality health   care to everyone, while supporting the communities that we serve.</TargetSentence>
+    </aetna.n.13>
+    <aetna.n.14 url="http://www.aetna-foundation.org/foundation/apply-for-a-grant/index.html" title="Apply for a Grant -- Aetna Foundation">
+      <TargetSentence>Information on applying for grants and sponsorships from the &lt;b&gt;Aetna&lt;/b&gt; Foundation.</TargetSentence>
+    </aetna.n.14>
+    <aetna.n.15 url="http://articles.courant.com/2012-10-02/news/hc-aetna-layoffs-20121002_1_health-exchange-aetna-spokeswoman-cynthia-michener-aetna-employees" title="Aetna Laying Off 160, Mainly Managers In Innovation, Technology ...">
+      <TargetSentence>Oct 2, 2012 &lt;b&gt;...&lt;/b&gt; &lt;b&gt;Aetna&lt;/b&gt; has started laying off 160 people, including 80 in Connecticut, as the   health insurer continues to reduce expenses to prepare for stiff &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </aetna.n.15>
+    <aetna.n.16 url="http://www.aetnafeds.com/" title="Welcome Federal Employees | AetnaFeds.com">
+      <TargetSentence>The Federal Employees Health Benefits (FEHB) Program offers numerous health   benefits plans and coverage options. Choosing a health coverage option is an &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </aetna.n.16>
+    <aetna.n.17 url="http://www.aetna.com/healthcare-professionals/" title="Health Care Professionals -- Aetna">
+      <TargetSentence>Making it easy for health care professionals. We make working with us easy by   providing convenient access to: Online transactions; Communications, policy &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </aetna.n.17>
+    <aetna.n.18 url="https://twitter.com/Aetna" title="Aetna (Aetna) on Twitter">
+      <TargetSentence>&lt;b&gt;Aetna&lt;/b&gt;. @&lt;b&gt;Aetna&lt;/b&gt;. We want to make it easier for you to live healthier. Join us in a &lt;b&gt;...&lt;/b&gt;   RT @MedStartr To follow tonight&amp;#39;s tweetup sponsored by @&lt;b&gt;Aetna&lt;/b&gt;, follow &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </aetna.n.18>
+    <aetna.n.19 url="http://finance.yahoo.com/q%3Fs%3DAET" title="AET: Summary for Aetna Inc. Common Stock- Yahoo! Finance">
+      <TargetSentence>View the basic AET stock chart on Yahoo! Finance. Change the date range, chart   type and compare &lt;b&gt;Aetna&lt;/b&gt; Inc. Common Stock against other companies.</TargetSentence>
+    </aetna.n.19>
+    <aetna.n.20 url="http://www.google.com/finance%3Fcid%3D665575" title="Aetna Inc.: NYSE:AET quotes &amp;amp; news - Google Finance">
+      <TargetSentence>Get detailed financial information on &lt;b&gt;Aetna&lt;/b&gt; Inc. (NYSE:AET) including real-time   stock quotes, historical charts &amp;amp; financial news, all for free!</TargetSentence>
+    </aetna.n.20>
+    <aetna.n.21 url="http://www.intelihealth.com/" title="Aetna InteliHealth: Featuring Harvard Medical School&amp;#39;s Consumer ...">
+      <TargetSentence>InteliHealth - Featuring Harvard Medical School&amp;#39;s consumer health information.   Information on symptoms and treatment for mental health, diabetes, asthma, &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </aetna.n.21>
+    <aetna.n.22 url="http://www.aetnabetterhealth.com/" title="Aetna Better Health">
+      <TargetSentence>&lt;b&gt;Aetna&lt;/b&gt; Better Health offers access to quality health care for the Medicaid members   and in some states, Children Health Insurance Program (CHIP) members we &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </aetna.n.22>
+    <aetna.n.23 url="http://www.aetnawire.com/" title="Aetna Insulated Wire, LLC | Quality Cable at the Right Price">
+      <TargetSentence>&lt;b&gt;Aetna&lt;/b&gt; Insulated Wire, a member company of Marmon Engineered Wire &amp;amp; Cable,   is a major manufacturer and supplier of specialty power cable and building &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </aetna.n.23>
+    <aetna.n.24 url="http://www.aetnatools.com/" title="Aetna Tools">
+      <TargetSentence>Plans offered by &lt;b&gt;Aetna&lt;/b&gt; Life Insurance Company and its affiliates. This material is   for information only. Health benefits and health insurance plans contain &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </aetna.n.24>
+    <aetna.n.25 url="http://www.aetna.org/" title="Aetna Plywood wholesale distributor of Hardwood Plywood ...">
+      <TargetSentence>Wholesale distributor of Hardwood Plywood, Hardwood Lumber, Particleboard,   M.D.F., Plastic Laminate, wood, panel and industrial products.</TargetSentence>
+    </aetna.n.25>
+    <aetna.n.26 url="https://www.vitalsavings.com/" title="Vital Savings by Aetna">
+      <TargetSentence>Choose from more than 111,500* available dental practices locations nationwide  , through one of the country&amp;#39;s largest dental discount networks - the &lt;b&gt;Aetna&lt;/b&gt; &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </aetna.n.26>
+    <aetna.n.27 url="http://www.aetna.com/about-aetna-insurance/contact-us/forms/about/contact_us.html" title="Contact Us -- Aetna">
+      <TargetSentence>A page containing various ways to contact Aetna Inc.</TargetSentence>
+    </aetna.n.27>
+    <aetna.n.28 url="http://www.aetna.com/individuals-families-health-insurance/index.html" title="Family &amp;amp; Individual Health Insurance – Aetna">
+      <TargetSentence>Find an Aetna health insurance plan that offers easy access to the care you and   your family need. Get health coverage through an employer or buy direct.</TargetSentence>
+    </aetna.n.28>
+    <aetna.n.29 url="http://www.aetna.com/about-aetna-insurance/" title="About Aetna">
+      <TargetSentence>About us. Aetna offers a broad range of traditional and consumer-directed health   insurance products and related services, including medical, pharmacy, dental, &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </aetna.n.29>
+    <aetna.n.30 url="http://www.aetna.com/FSE/planType.do%3FbusinessSectorCode%3DCM" title="Aetna® - Medication Search">
+      <TargetSentence>Members: For better results, log in to Medication Search from Aetna Navigator® ,   your secure member website. You may also refer to your plan documents for a &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </aetna.n.30>
+    <aetna.n.31 url="http://www.aetna.com/insurance-producer/index.html" title="Health Insurance Producers &amp;amp; Brokers – Aetna">
+      <TargetSentence>Work with Aetna health plans to offer the best coverage products and services for   any type of client. In our Producer World, find the tools and resources you need &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </aetna.n.31>
+    <aetna.n.32 url="http://www.aetna.com/about-aetna-insurance/sas/mobile/index.html" title="Aetna Mobile Web and Apps - Aetna">
+      <TargetSentence>Aetna Mobile Web and Apps make it even easier for Aetna members to get their   personal information or complete important tasks on the go. Our mobile apps are &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </aetna.n.32>
+    <aetna.n.33 url="http://www.aetna.com/employer-plans/index.html" title="Employee Health Insurance for Businesses – Aetna">
+      <TargetSentence>Aetna business health insurance for employers and organizations offers products   and services for businesses of all sizes. Get a quote on plans for small, &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </aetna.n.33>
+    <aetna.n.34 url="http://www.aetna.com/individuals-families-health-insurance/document-library/find-document-form.html" title="Find a Form – Aetna">
+      <TargetSentence>Find a Form. Find the forms and documents you need. If you can&amp;#39;t find the form   you need below, please log on to your secure member website. Here you will find &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </aetna.n.34>
+    <aetna.n.35 url="http://www.aetna.com/individuals-families-health-insurance/buy-insurance/myself-family/pay-premium.html" title="Pay Your Individual Premium Online -- Aetna">
+      <TargetSentence>Pay Premium Online. How to Read Your Invoice. Questions about your invoice?   Feel free to contact us at 1-866-772-3862. Two easy ways to make a one-time &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </aetna.n.35>
+    <aetna.n.36 url="http://www.aetna.com/investor/" title="Investor Information - Aetna">
+      <TargetSentence>Aetna announced it has entered into a definitive agreement to acquire Coventry   Health Care, Inc. Read more here. 2011 Annual Report Financial Report &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </aetna.n.36>
+    <aetna.n.37 url="http://www.aetna.com/individuals-families-health-insurance/healthier-living/index.html" title="Health &amp;amp; Wellness Resources — Aetna">
+      <TargetSentence>Find resources on living a smarter, healthier lifestyle for you and your family.   Information on drug safety, dental, medical and physical health.</TargetSentence>
+    </aetna.n.37>
+    <aetna.n.38 url="http://www.aetna.com/about-aetna-insurance/aetna-corporate-profile/diversity/index.html" title="Diversity -- Aetna">
+      <TargetSentence>We recognize the impact and importance of diversity in all aspects of our   business–our workforce, customers, suppliers, networks of health care   professionals, &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </aetna.n.38>
+    <aetna.n.39 url="http://www.aetna.com/legal-notices/aetna_company_names.html" title="Aetna Company Names">
+      <TargetSentence>&amp;quot;Aetna&amp;quot; is the brand name for products and services provided by one or more of   the Aetna group of subsidiary companies.</TargetSentence>
+    </aetna.n.39>
+    <aetna.n.40 url="http://healthinsurance.aetna.com/aetna/saved-quote-apply" title="Access saved quotes or an application - Health Insurance - Aetna">
+      <TargetSentence>Get Individual Health Insurance Quotes or Apply Online. securitylogo Information   you provide is confidential and secure. Aetna &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </aetna.n.40>
+    <aetna.n.41 url="http://www.aetna.com/individuals-families-health-insurance/plans-benefits/dental/index.html" title="Dental Products &amp;amp; Programs - Aetna">
+      <TargetSentence>Aetna offers several types of dental insurance, as well as Vital Savings, a   discount program, and ValuePass, which gives discounts within Aetna&amp;#39;s dental &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </aetna.n.41>
+    <aetna.n.42 url="http://www.aetna.com/individuals-families-health-insurance/plans-benefits/index.html" title="Family &amp;amp; Individual Health Insurance Benefits &amp;amp; Plans - Aetna">
+      <TargetSentence>Home · Individuals &amp;amp; Families; About Our Plans &amp;amp; Benefits. Aetna · Shop for   Insurance · About Our Plans &amp;amp; Benefits · Medical · Dental · Vision · Medicare &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </aetna.n.42>
+    <aetna.n.43 url="http://www.aetna.com/about-aetna-insurance/aetna-corporate-profile/aetna-history/index.html" title="Aetna History -- Aetna">
+      <TargetSentence>A timeline of Aetna&amp;#39;s history dating back to 1850, when Aetna Insurance   Company was first established.</TargetSentence>
+    </aetna.n.43>
+    <aetna.n.44 url="http://www.aetna.com/plans-services-health-insurance/detail/dental-insurance/dental-insurance.html" title="Dental Plans -- Aetna">
+      <TargetSentence>Find value-packed dental plans to fit your business and your budget with Aetna   Dental®. Get cost-saving plan options and flexibility for healthy smiles and a &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </aetna.n.44>
+    <aetna.n.45 url="http://www.aetna.com/about-aetna-insurance/aetna-careers/find-a-career/index.html" title="Find Aetna Careers - Apply for Jobs online -- Aetna">
+      <TargetSentence>Find and apply for a job with Aetna. Our secure website makes it easy.</TargetSentence>
+    </aetna.n.45>
+    <aetna.n.46 url="http://www.aetna.com/health-reform-connection/index.html" title="Health Care Reform - Aetna">
+      <TargetSentence>Plan · Aetna Member or Consumer · Physician or Health Care Professional &lt;b&gt;...&lt;/b&gt;   Find out about health law changes set for 2012. Get health reform update &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </aetna.n.46>
+    <aetna.n.47 url="http://www.aetna.com/about-aetna-insurance/contact-us/locations.html" title="Aetna Office Locations and Directions -- Aetna">
+      <TargetSentence>The locations of Aetna&amp;#39;s offices and directions how to get there. &lt;b&gt;...&lt;/b&gt; Choose a   location to view a parking map and directions &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </aetna.n.47>
+    <aetna.n.48 url="http://www.aetna.com/individuals-families-health-insurance/pharmacy-prescription-drugs/index.html" title="Prescription Drug Coverage and Pharmacy Benefits — Aetna">
+      <TargetSentence>Get coverage for generic and brand-name medicine and support to manage your   health, safety and prescription drug costs with Aetna Pharmacy.</TargetSentence>
+    </aetna.n.48>
+    <aetna.n.49 url="http://www.courant.com/topic/economy-business-finance/aetna-inc.-ORCRP000343.topic" title="Aetna Inc. news, photos and video - Courant.com">
+      <TargetSentence>Items 1 - 12 of 611 &lt;b&gt;...&lt;/b&gt; News, Photos and Information about &lt;b&gt;Aetna&lt;/b&gt; Inc. &lt;b&gt;...&lt;/b&gt; A collection of news and   information related to &lt;b&gt;Aetna&lt;/b&gt; Inc. published by this site and its &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </aetna.n.49>
+    <aetna.n.50 url="http://www.aetna.com/individuals-families-health-insurance/plans-benefits/vision/index.html" title="Affordable Vision Care &amp;amp; Eye Exams - Aetna">
+      <TargetSentence>Find affordable eye exams, glasses and contact lenses with Aetna Vision   discount program.</TargetSentence>
+    </aetna.n.50>
+    <aetna.n.51 url="http://healthinsurance.aetna.com/dental/aetna-dental" title="Dental Insurance from Aetna">
+      <TargetSentence>If you live in one of the states listed below, you can purchase dental insurance as   a standalone policy – without buying one of our health insurance plans.</TargetSentence>
+    </aetna.n.51>
+    <aetna.n.52 url="http://www.aetnaforwarding.com/" title="Aetna Forwarding, Quality, Logistics, Performance, Service">
+      <TargetSentence>Located in the New York City area. Complete overseas transport and support   services. Specialist in shipment of antiques and works of art. Links to web based &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </aetna.n.52>
+    <aetna.n.53 url="http://www.aetnaengineering.com/" title="Aetna Engineering Digital Tachometers">
+      <TargetSentence>Manufacturer of digital LED and LCD tachometers, direction indicating shaft tachs  , multifunctional tachometers with speedometers, magnetic sensors, &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </aetna.n.53>
+    <aetna.n.54 url="http://www.aetnacapitalmanagement.com/" title="Aetna Capital Management, Llc">
+      <TargetSentence>&lt;b&gt;Aetna&lt;/b&gt; Capital Management, LLC (&amp;quot;ACM&amp;quot;), a registered investment adviser, is an   established fund of hedge funds manager specializing in the construction and &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </aetna.n.54>
+    <aetna.n.55 url="http://www.aetnaedi.com/" title="Aetna EDI Connect(SM)">
+      <TargetSentence>&lt;b&gt;Aetna&lt;/b&gt; EDI ConnectSM home page. This site allows you to securely exchange   EDI data and other files with us. You must register in order to access &lt;b&gt;Aetna&lt;/b&gt; EDI &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </aetna.n.55>
+    <aetna.n.56 url="http://www.bloomberg.com/quote/AET:US" title="AET:New York Stock Quote - Aetna Inc - Bloomberg">
+      <TargetSentence>Stock analysis for &lt;b&gt;Aetna&lt;/b&gt; Inc (AET:New York) including stock price, stock chart,   company news, key statistics, fundamentals and company profile.</TargetSentence>
+    </aetna.n.56>
+    <aetna.n.57 url="http://www.ybr.com/aetna" title="Aetna Retiree Connection Newsletter - Ybr.com">
+      <TargetSentence />
+    </aetna.n.57>
+    <aetna.n.58 url="http://www.aetna.com/about-aetna-insurance/aetna-careers/working-at-aetna/culture.html" title="Why Aetna? Culture--Aetna">
+      <TargetSentence>Find out about our culture and how we&amp;#39;re different from other companies.</TargetSentence>
+    </aetna.n.58>
+    <aetna.n.59 url="http://www.aetna.com/individuals-families-health-insurance/plans-benefits/behavioral-mental-health/index.html" title="Behavioral Health – Aetna">
+      <TargetSentence>Whether trying to cope with everyday stresses or a long term illness, Aetna can   help. Find support through life&amp;#39;s challenges with Aetna&amp;#39;s behavioral health tools &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </aetna.n.59>
+    <aetna.n.60 url="http://www.aetna.com/about-aetna-insurance/aetna-careers/student-programs/index.html" title="Summer Internships &amp;amp; Leadership Programs for Students -- Aetna">
+      <TargetSentence>Aetna offers summer internships and leadership programs for college students   and recent graduates. Find career opportunities that match your college major.</TargetSentence>
+    </aetna.n.60>
+    <aetna.n.61 url="http://www.aetna.com/plans-services-health-insurance/overview/index.html" title="Family and Individual Health Plans and Services – Aetna">
+      <TargetSentence>Aetna has a wide range of health plans. Find individual and family health   coverage ranging from medical and dental insurance to pet insurance and &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </aetna.n.61>
+    <aetna.n.62 url="http://topics.nytimes.com/top/news/business/companies/aetna_inc/index.html" title="Aetna Inc. News - The New York Times">
+      <TargetSentence>News about &lt;b&gt;Aetna&lt;/b&gt; Inc. Commentary and archival information about &lt;b&gt;Aetna&lt;/b&gt; Inc.   from The New York Times.</TargetSentence>
+    </aetna.n.62>
+    <aetna.n.63 url="https://www.aetnastudenthealth.com/mobi/stu_conn/default_m.aspx" title="Aetna Student Health">
+      <TargetSentence>Welcome to &lt;b&gt;Aetna&lt;/b&gt; Student Health. On your school-specific page you can find   plan details like enrollment dates, rates, eligibility, health and wellness discounts, &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </aetna.n.63>
+    <aetna.n.64 url="http://newshub.aetna.com/" title="Aetna News Hub |">
+      <TargetSentence>Read the latest news, stories and social media updates from our company.</TargetSentence>
+    </aetna.n.64>
+  </aetna.n.test>
+</dataSet>

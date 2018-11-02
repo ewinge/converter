@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataSet authors="Roberto Navigli, Daniele Vannella" task="SemeVal 2013 task 11" lang="en">
+  <apache.n.test>
+    <apache.n.1 url="http://www.apache.org/" title="Welcome to The Apache Software Foundation!">
+      <TargetSentence>Supports the development of a number of open-source software projects,   including the &lt;b&gt;Apache&lt;/b&gt; web server. Includes license information, latest news, and   project &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </apache.n.1>
+    <apache.n.2 url="http://httpd.apache.org/" title="Welcome! - The Apache HTTP Server Project">
+      <TargetSentence>The &lt;b&gt;Apache&lt;/b&gt; HTTP Server Project is an effort to develop and maintain an open-  source HTTP server for modern operating systems including UNIX and Windows &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </apache.n.2>
+    <apache.n.3 url="http://www.apachecorp.com/" title="Apache Corporation : Home">
+      <TargetSentence>&lt;b&gt;Apache&lt;/b&gt; Corporation is an oil and gas exploration and production company with   operations in the United States, Canada, Egypt, the United Kingdom North Sea, &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </apache.n.3>
+    <apache.n.4 url="http://en.wikipedia.org/wiki/Apache_HTTP_Server" title="Apache HTTP Server - Wikipedia, the free encyclopedia">
+      <TargetSentence>The &lt;b&gt;Apache&lt;/b&gt; HTTP Server, commonly referred to as &lt;b&gt;Apache&lt;/b&gt; is a web server   software notable for playing a key role in the initial growth of the World Wide Web  .</TargetSentence>
+    </apache.n.4>
+    <apache.n.5 url="http://en.wikipedia.org/wiki/Apache" title="Apache - Wikipedia, the free encyclopedia">
+      <TargetSentence>&lt;b&gt;Apache&lt;/b&gt; is the collective term for several culturally related groups of Native   Americans in the United States originally from the Southwest United States.</TargetSentence>
+    </apache.n.5>
+    <apache.n.6 url="http://www.apache.com/" title="Apache">
+      <TargetSentence>The best &lt;b&gt;Apache&lt;/b&gt; web server resource for helpful tips, advice, and configuration.   Get help with configuring the &lt;b&gt;Apache&lt;/b&gt; server for your use.</TargetSentence>
+    </apache.n.6>
+    <apache.n.7 url="http://www.youtube.com/watch%3Fv%3DpY-rPDwzM9M" title="The Shadows - Apache - YouTube">
+      <TargetSentence>Oct 12, 2007 &lt;b&gt;...&lt;/b&gt; This song written by Jerry Lordan and recorded originally by British group The   Shadows in June 1960 at the famous EMI Abbey Road Studio in &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </apache.n.7>
+    <apache.n.8 url="http://www.co.apache.az.us/" title="Apache County Website">
+      <TargetSentence>Welcome to &lt;b&gt;Apache&lt;/b&gt; County &lt;b&gt;...&lt;/b&gt; &lt;b&gt;Apache&lt;/b&gt; County Stewardship Project &lt;b&gt;...&lt;/b&gt; &lt;b&gt;Apache&lt;/b&gt;   County District III Road Yard Assists Vernon Elementary School District · 2012 &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </apache.n.8>
+    <apache.n.9 url="http://vimeo.com/22679618" title="Apache on Vimeo">
+      <TargetSentence>Music video for the band Danger Beach on Dream Damage Records. Their   album Milky Way can be downloaded here: &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </apache.n.9>
+    <apache.n.10 url="http://www.apache-da.com/" title="Apache Design, Inc. | Advancing Low-Power Innovation">
+      <TargetSentence>Join ANSYS and &lt;b&gt;Apache&lt;/b&gt; as we introduce our latest electronics design   technology and simulation breakthroughs that will help you to design next-  generation &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </apache.n.10>
+    <apache.n.11 url="http://opensource.org/licenses/apache-2.0" title="Open Source Initiative OSI - Apache License, Version 2.0:Licensing ...">
+      <TargetSentence>Open Source Initiative OSI - &lt;b&gt;Apache&lt;/b&gt; License, Version 2.0:Licensing. [OSI   Approved License] &lt;b&gt;...&lt;/b&gt; http://www.&lt;b&gt;apache&lt;/b&gt;.org/licenses/. TERMS AND   CONDITIONS &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </apache.n.11>
+    <apache.n.12 url="http://www.apacheweek.com/" title="Apache Week. The essential free resource for users of the world&amp;#39;s ...">
+      <TargetSentence>The O&amp;#39;Reilly Network has teamed with Red Hat &lt;b&gt;Apache&lt;/b&gt; Week, the leading   commercial &lt;b&gt;Apache&lt;/b&gt; site to offer comprehensive &lt;b&gt;Apache&lt;/b&gt; information and   resources.</TargetSentence>
+    </apache.n.12>
+    <apache.n.13 url="http://httpd.apache.org/download.cgi" title="Download - The Apache HTTP Server Project">
+      <TargetSentence>The currently selected mirror is http://&lt;b&gt;apache&lt;/b&gt;.mirrors.pair.com/. If you encounter a   problem with this mirror, please select another mirror. If all mirrors are failing, &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </apache.n.13>
+    <apache.n.14 url="http://httpd.apache.org/docs/2.2/" title="Version 2.2 - Apache - The Apache Software Foundation!">
+      <TargetSentence>&lt;b&gt;Apache&lt;/b&gt; HTTP Server Version 2.2 Documentation. Available Languages: de | en |   es | fr | ja | ko | pt-br | tr | zh-cn. Release Notes. New features with &lt;b&gt;Apache&lt;/b&gt; 2.1/ &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </apache.n.14>
+    <apache.n.15 url="http://tomcat.apache.org/" title="Apache Tomcat - Welcome!">
+      <TargetSentence>Download, documentation and tutorials for the straight-forward servlet container   and Web server. &lt;b&gt;Apache&lt;/b&gt; Tomcat was the Servlet Container reference &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </apache.n.15>
+    <apache.n.16 url="http://www.apache.org/licenses/" title="Licenses - The Apache Software Foundation!">
+      <TargetSentence>Overview of the different versions of the &lt;b&gt;Apache&lt;/b&gt; licenses.</TargetSentence>
+    </apache.n.16>
+    <apache.n.17 url="http://www.apachecorp.com/careers/index.aspx" title="Apache Corporation : Careers">
+      <TargetSentence>&lt;b&gt;Apache&lt;/b&gt; salutes military veterans with career prospects. When it comes to core   values, &lt;b&gt;Apache&lt;/b&gt; and the military fit like a well-pressed uniform. LEARN MORE + &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </apache.n.17>
+    <apache.n.18 url="http://xml.apache.org/" title="XML at The Apache Foundation">
+      <TargetSentence>Different open source tools, most of which use the Xerces implementation (DOM   Level 1 and 2) as a base. Xerces itself is available in Java, C++, Perl, and COM.</TargetSentence>
+    </apache.n.18>
+    <apache.n.19 url="http://www.apache.org/dyn/closer.cgi" title="Apache Download Mirrors">
+      <TargetSentence>We suggest the following mirror site for your download: http://mirror.quintex.com/  &lt;b&gt;apache&lt;/b&gt;/. Other mirror sites are suggested below. Please use the backup mirrors &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </apache.n.19>
+    <apache.n.20 url="https://httpd.apache.org/docs/" title="Documentation - Apache - The Apache Software Foundation!">
+      <TargetSentence>&lt;b&gt;Apache&lt;/b&gt; HTTP Server Documentation. The documentation is available is several   formats. Downloadable formats including Windows Help format and &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </apache.n.20>
+    <apache.n.21 url="http://jakarta.apache.org/" title="The Jakarta Site - The Apache Jakarta™ Project -- Java Related ...">
+      <TargetSentence>Offers a set of open source Java solutions under an open software license.   Jakarta is organized into subprojects.</TargetSentence>
+    </apache.n.21>
+    <apache.n.22 url="http://ant.apache.org/" title="Apache Ant - Welcome">
+      <TargetSentence>Pure Java build tool, simpler and easier to use than GNU Make. Also it runs many   tasks including the javac compiler inside the same VM, so it can compile a &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </apache.n.22>
+    <apache.n.23 url="http://httpd.apache.org/ABOUT_APACHE.html" title="What is the Apache HTTP Server Project? - Apache - The Apache ...">
+      <TargetSentence>The &lt;b&gt;Apache&lt;/b&gt; HTTP Server Project is a collaborative software development effort   aimed at creating a robust, commercial-grade, featureful, and freely-available &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </apache.n.23>
+    <apache.n.24 url="http://en.wikipedia.org/wiki/Apache_License" title="Apache License - Wikipedia, the free encyclopedia">
+      <TargetSentence>The &lt;b&gt;Apache&lt;/b&gt; License 1.0 was the original &lt;b&gt;Apache&lt;/b&gt; License which applies only to   older versions of &lt;b&gt;Apache&lt;/b&gt; packages (such as version 1.2 of the Web server).</TargetSentence>
+    </apache.n.24>
+    <apache.n.25 url="http://incubator.apache.org/" title="Welcome - Apache Incubator">
+      <TargetSentence>The Incubator project is the entry path into The &lt;b&gt;Apache&lt;/b&gt; Software Foundation (  ASF) for projects and codebases wishing to become part of the Foundation&amp;#39;s   efforts &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </apache.n.25>
+    <apache.n.26 url="http://www.apache.org/foundation/" title="Foundation Project - The Apache Software Foundation!">
+      <TargetSentence>The &lt;b&gt;Apache&lt;/b&gt; Software Foundation provides organizational, legal, and financial   support for a broad range of open source software projects. The Foundation &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </apache.n.26>
+    <apache.n.27 url="http://jackrabbit.apache.org/" title="Welcome to Apache Jackrabbit">
+      <TargetSentence>Open-source content repository for Java. Project details, documentation,   download, and developer information.</TargetSentence>
+    </apache.n.27>
+    <apache.n.28 url="http://mina.apache.org/" title="Apache MINA - Welcome to Apache MINA Project!">
+      <TargetSentence>&lt;b&gt;Apache&lt;/b&gt; MINA is a network application framework which helps users develop   high performance and high scalability network applications easily. It provides an &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </apache.n.28>
+    <apache.n.29 url="http://camel.apache.org/" title="Apache Camel: Index">
+      <TargetSentence>&lt;b&gt;Apache&lt;/b&gt; Camel provides support for Bean Binding and seamless integration with   popular frameworks such as Spring, Blueprint and Guice. Camel also has &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </apache.n.29>
+    <apache.n.30 url="http://tika.apache.org/" title="Apache Tika - Apache Tika">
+      <TargetSentence>The &lt;b&gt;Apache&lt;/b&gt; Tika™ toolkit detects and extracts metadata and structured text   content from various documents using existing parser libraries. You can find the &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </apache.n.30>
+    <apache.n.31 url="http://hadoop.apache.org/" title="Welcome to Apache™ Hadoop®!">
+      <TargetSentence>Official site of the &lt;b&gt;Apache&lt;/b&gt; project to provide an open-source implementation of   frameworks for reliable, scalable, distributed computing and data storage.</TargetSentence>
+    </apache.n.31>
+    <apache.n.32 url="http://lucene.apache.org/solr/" title="Apache Lucene - Apache Solr">
+      <TargetSentence>An open-source search server based on the Lucene Java search library. News,   documentation, resources, and download.</TargetSentence>
+    </apache.n.32>
+    <apache.n.33 url="http://directory.apache.org/" title="Apache Directory - LDAP and Kerberos, entirely in Java">
+      <TargetSentence>The &lt;b&gt;Apache&lt;/b&gt; Directory Project provides directory solutions entirely written in Java.   These include a directory server, which has been certified as LDAP v3 &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </apache.n.33>
+    <apache.n.34 url="http://zookeeper.apache.org/" title="Apache ZooKeeper - Home">
+      <TargetSentence>&lt;b&gt;...&lt;/b&gt; &lt;b&gt;Apache&lt;/b&gt; ZooKeeper™. &lt;b&gt;Apache&lt;/b&gt; ZooKeeper is an effort to develop and maintain   an open-source server which enables highly reliable distributed coordination.</TargetSentence>
+    </apache.n.34>
+    <apache.n.35 url="http://en.wikipedia.org/wiki/Apache_Software_Foundation" title="Apache Software Foundation - Wikipedia, the free encyclopedia">
+      <TargetSentence>The &lt;b&gt;Apache&lt;/b&gt; Software Foundation play /əˈpætʃiː/ (ASF) is a non-profit   corporation (classified as 501(c)(3) in the United States) to support &lt;b&gt;Apache&lt;/b&gt;   software &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </apache.n.35>
+    <apache.n.36 url="http://ant.apache.org/bindownload.cgi" title="Apache Ant - Binary Distributions">
+      <TargetSentence>ApacheCon - logo. Binary Distributions. &lt;b&gt;Apache&lt;/b&gt; Ant™. &lt;b&gt;Apache&lt;/b&gt; Ant is a Java   library and command-line tool that help building software. Downloading &lt;b&gt;Apache&lt;/b&gt;   Ant &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </apache.n.36>
+    <apache.n.37 url="http://mahout.apache.org/" title="Apache Mahout: Scalable machine learning and data mining">
+      <TargetSentence>The goal of &lt;b&gt;Apache&lt;/b&gt; Mahout is to build a vibrant, responsive, diverse community   to facilitate discussions not only on the project itself but also on potential use &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </apache.n.37>
+    <apache.n.38 url="http://servicemix.apache.org/" title="Welcome to Apache ServiceMix!">
+      <TargetSentence>&lt;b&gt;Apache&lt;/b&gt; ServiceMix - An open-source integration container.</TargetSentence>
+    </apache.n.38>
+    <apache.n.39 url="http://geronimo.apache.org/" title="Apache Geronimo : Index">
+      <TargetSentence>The J2EE server project of the &lt;b&gt;Apache&lt;/b&gt; Software Foundation.</TargetSentence>
+    </apache.n.39>
+    <apache.n.40 url="http://cassandra.apache.org/" title="The Apache Cassandra Project">
+      <TargetSentence>The &lt;b&gt;Apache&lt;/b&gt; Cassandra database is the right choice when you need scalability   and high availability without compromising performance. Linear scalability and &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </apache.n.40>
+    <apache.n.41 url="http://qpid.apache.org/" title="Apache Qpid™: Open Source AMQP Messaging">
+      <TargetSentence>&lt;b&gt;Apache&lt;/b&gt; Qpid™ is a cross-platform Enterprise Messaging system which   implements the Advanced Message Queuing Protocol (AMQP), providing   message &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </apache.n.41>
+    <apache.n.42 url="http://www.wmat.nsn.us/" title="White Mountain Apache Tribe">
+      <TargetSentence>Information about the tribe&amp;#39;s culture, history, and government. Also includes job   opportunities, health services directory, and related links.</TargetSentence>
+    </apache.n.42>
+    <apache.n.43 url="http://www.apache.org/foundation/licence-FAQ.html" title="Apache License and Distribution FAQ">
+      <TargetSentence>This page answers most of the common queries that we receive about our   license, licensing use of the software, and packaging or redistributing it. Please   check &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </apache.n.43>
+    <apache.n.44 url="http://www.skiapache.com/" title="Ski Apache | New Mexico Skiing and Snowboarding">
+      <TargetSentence>Ski &lt;b&gt;Apache&lt;/b&gt;, located in Mescalero, is New Mexico&amp;#39;s premier ski and snowboard   resort offering dozens of trails for skiers and snowboarders of all levels.</TargetSentence>
+    </apache.n.44>
+    <apache.n.45 url="http://nutch.apache.org/" title="Welcome to Apache Nutch™">
+      <TargetSentence>Open-source web-search software, built on Lucene Java. Project news,   documentation, and download.</TargetSentence>
+    </apache.n.45>
+    <apache.n.46 url="http://ws.apache.org/" title="Welcome to the Apache Web Services™ Project">
+      <TargetSentence>&lt;b&gt;Apache&lt;/b&gt; Axiom - an XML and SOAP object model which supports deferred   parsing &lt;b&gt;...&lt;/b&gt; &lt;b&gt;Apache&lt;/b&gt; Woden - a Java class library for reading, manipulating,   creating and &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </apache.n.46>
+    <apache.n.47 url="http://httpd.apache.org/lists.html" title="Apache HTTP Server Mailing Lists - Apache - The Apache Software ...">
+      <TargetSentence>The following mailing lists relate to the &lt;b&gt;Apache&lt;/b&gt; HTTP Server project. Users   should consider subscribing to the Announcements or User Support mailing lists.</TargetSentence>
+    </apache.n.47>
+    <apache.n.48 url="http://projects.apache.org/" title="Apache Software Foundation - Projects">
+      <TargetSentence>Detailed catalogue of projects by the foundation. Includes feeds and   documentation for project owners.</TargetSentence>
+    </apache.n.48>
+    <apache.n.49 url="http://harmony.apache.org/" title="Apache Harmony - Open Source Java Platform">
+      <TargetSentence>&lt;b&gt;Apache&lt;/b&gt; Harmony is retired at the &lt;b&gt;Apache&lt;/b&gt; Software Foundation since Nov 16,   2011. The information on these pages may be out of date, or may refer to &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </apache.n.49>
+    <apache.n.50 url="http://maven.apache.org/" title="Maven - Welcome to Apache Maven">
+      <TargetSentence>Open Source - &lt;b&gt;Apache&lt;/b&gt; build manager for Java projects. Features a (POM)   Project Object Model, extensible process plugin framework. Functions include   build &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </apache.n.50>
+    <apache.n.51 url="http://lucene.apache.org/core/" title="Apache Lucene - Apache Lucene Core">
+      <TargetSentence>&lt;b&gt;Apache&lt;/b&gt; Lucene(TM) is a high-performance, full-featured text search engine   library written entirely in Java. It is a technology suitable for nearly any   application &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </apache.n.51>
+    <apache.n.52 url="http://lucene.apache.org/" title="Apache Lucene - Welcome to Apache Lucene">
+      <TargetSentence>Search engine library with many features including fast indexing, ranked   searching, boolean, phrase, and span queries, date-range searching, and   extension &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </apache.n.52>
+    <apache.n.53 url="http://tcl.apache.org/" title="Apache Tcl">
+      <TargetSentence>&lt;b&gt;Apache&lt;/b&gt; Tcl is an umbrella for Tcl-&lt;b&gt;Apache&lt;/b&gt; integration efforts. These projects   combine the power of the &lt;b&gt;Apache&lt;/b&gt; web server with the capabilities of the mature, &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </apache.n.53>
+    <apache.n.54 url="http://hc.apache.org/" title="Apache HttpComponents - Apache HttpComponents">
+      <TargetSentence>Jul 5, 2012 &lt;b&gt;...&lt;/b&gt; The &lt;b&gt;Apache&lt;/b&gt; HttpComponents™ project is responsible for creating and   maintaining a toolset of low level Java components focused on HTTP &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </apache.n.54>
+    <apache.n.55 url="http://tuscany.apache.org/" title="Apache Tuscany : Index">
+      <TargetSentence>&lt;b&gt;Apache&lt;/b&gt; Tuscany simplifies the task of developing SOA solutions by providing a   comprehensive infrastructure for SOA development and management that is &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </apache.n.55>
+    <apache.n.56 url="http://httpd.apache.org/docs-project/" title="Documentation Project - The Apache HTTP Server Project">
+      <TargetSentence>The documentation of the &lt;b&gt;Apache&lt;/b&gt; HTTP Server is a collaborative effort, made   possible by the participation of the entire HTTP Server community. We&amp;#39;d love to &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </apache.n.56>
+    <apache.n.57 url="http://logging.apache.org/" title="Welcome - Apache Logging Services">
+      <TargetSentence>The &lt;b&gt;Apache&lt;/b&gt; Logging Services Project creates and maintains open-source   software related to the logging of application behavior and released at no charge   to &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </apache.n.57>
+    <apache.n.58 url="http://myfaces.apache.org/" title="Welcome to the Apache MyFaces Project">
+      <TargetSentence>Open source implementation available from the &lt;b&gt;Apache&lt;/b&gt; Software Foundation.</TargetSentence>
+    </apache.n.58>
+    <apache.n.59 url="http://commons.apache.org/" title="Apache Commons">
+      <TargetSentence>Jul 5, 2012 &lt;b&gt;...&lt;/b&gt; Collection of open source reusable Java components from the &lt;b&gt;Apache&lt;/b&gt;/Jakarta   community.</TargetSentence>
+    </apache.n.59>
+    <apache.n.60 url="http://httpd.apache.org/docs/2.2/platform/windows.html" title="Installing Apache for Windows - Apache - The Apache Software ...">
+      <TargetSentence>For whom to install &lt;b&gt;Apache&lt;/b&gt; Select for All Users, on Port 80, as a Service -   Recommended if you&amp;#39;d like your new &lt;b&gt;Apache&lt;/b&gt; to listen at port 80 for incoming   traffic.</TargetSentence>
+    </apache.n.60>
+    <apache.n.61 url="http://en.wikipedia.org/wiki/Boeing_AH-64_Apache" title="Boeing AH-64 Apache - Wikipedia, the free encyclopedia">
+      <TargetSentence>The Boeing AH-64 &lt;b&gt;Apache&lt;/b&gt; is a four-blade, twin-engine attack helicopter with a   tailwheel-type landing gear arrangement, and a tandem cockpit for a two-man &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </apache.n.61>
+    <apache.n.62 url="http://xmlgraphics.apache.org/fop/" title="Apache™ FOP">
+      <TargetSentence>Open source XSL-FO implementation; converts XSL-FO to PDF and other formats  .</TargetSentence>
+    </apache.n.62>
+    <apache.n.63 url="http://www.apache.org/dist/httpd/Announcement2.0.html" title="Apache HTTP Server Project">
+      <TargetSentence>The &lt;b&gt;Apache&lt;/b&gt; Software Foundation and the &lt;b&gt;Apache&lt;/b&gt; HTTP Server Project are   pleased to announce the release of version 2.0.64 of the &lt;b&gt;Apache&lt;/b&gt; HTTP Server &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </apache.n.63>
+    <apache.n.64 url="http://apr.apache.org/" title="Welcome! - The Apache Portable Runtime Project">
+      <TargetSentence>The mission of the &lt;b&gt;Apache&lt;/b&gt; Portable Runtime (APR) project is to create and   maintain software libraries that provide a predictable and consistent interface to &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </apache.n.64>
+  </apache.n.test>
+</dataSet>

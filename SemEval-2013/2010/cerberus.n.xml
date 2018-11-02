@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataSet authors="Roberto Navigli, Daniele Vannella" task="SemeVal 2013 task 11" lang="en">
+  <cerberus.n.test>
+    <cerberus.n.1 url="http://en.wikipedia.org/wiki/Cerberus" title="Cerberus - Wikipedia, the free encyclopedia">
+      <TargetSentence>&lt;b&gt;Cerberus&lt;/b&gt; 1] or Kerberos 2] in Greek and Roman mythology, is a multi-headed   hound (usually three-headed) which guards the gates of the Underworld, &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </cerberus.n.1>
+    <cerberus.n.2 url="http://www.cerberuscapital.com/" title="Cerberus Capital Management">
+      <TargetSentence>&lt;b&gt;Cerberus&lt;/b&gt; Capital Management, LP, established in 1992, is one of the world&amp;#39;s   leading private investment firms.</TargetSentence>
+    </cerberus.n.2>
+    <cerberus.n.3 url="https://play.google.com/store/apps/details%3Fid%3Dcom.lsdroid.cerberus%26hl%3Den" title="Cerberus anti theft - Android Apps on Google Play">
+      <TargetSentence>Aug 29, 2012 &lt;b&gt;...&lt;/b&gt; &lt;b&gt;Cerberus&lt;/b&gt; helps you get back your lost or stolen Android device. &lt;b&gt;Cerberus&lt;/b&gt; is a   complete anti-theft application, the best protection you can get to &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </cerberus.n.3>
+    <cerberus.n.4 url="https://www.cerberusapp.com/" title="Cerberus for Android - Login">
+      <TargetSentence>&lt;b&gt;Cerberus&lt;/b&gt; is a complete anti-theft application, the best protection you can get to   recover your misplaced, lost or stolen Android device. Control your device &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </cerberus.n.4>
+    <cerberus.n.5 url="http://www.perseus.tufts.edu/Herakles/cerberus.html" title="Hercules&amp;#39; Twelfth Labor: Cerberus">
+      <TargetSentence>&lt;b&gt;Cerberus&lt;/b&gt; was a vicious beast that guarded the entrance to Hades and kept the   living from entering the world of the dead. According to Apollodorus, &lt;b&gt;Cerberus&lt;/b&gt; &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </cerberus.n.5>
+    <cerberus.n.6 url="http://www.pantheon.org/articles/c/cerberus.html" title="Cerberus">
+      <TargetSentence>Mar 3, 1997 &lt;b&gt;...&lt;/b&gt; In Greek mythology, the three-headed watchdog who guards the entrance to the   lower world, the Hades. It is a child of the giant Typhon and &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </cerberus.n.6>
+    <cerberus.n.7 url="http://www.cerberusftp.com/" title="Cerberus FTP Server - Secure Windows SFTP, FTPS, and HTTP ...">
+      <TargetSentence>&lt;b&gt;Cerberus&lt;/b&gt; FTP Server is a professional, secure Windows file transfer server with   FTP/S, SSH SFTP, HTTP/S, FIPS 140-2, Event Notification, and Active Directory &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </cerberus.n.7>
+    <cerberus.n.8 url="http://masseffect.wikia.com/wiki/Cerberus" title="Cerberus - Mass Effect Wiki - Wikia">
+      <TargetSentence>&lt;b&gt;Cerberus&lt;/b&gt; is a human-survivalist paramilitary group led by the enigmatic Illusive   Man. &lt;b&gt;Cerberus&lt;/b&gt;&amp;#39;...</TargetSentence>
+    </cerberus.n.8>
+    <cerberus.n.9 url="http://www.cerberusweb.com/" title="Cerberus Helpdesk">
+      <TargetSentence>Form deeper relationships with your audience. Remember anything about   anyone, collaborate from anywhere, deftly reply to an email flood, automate, stay &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </cerberus.n.9>
+    <cerberus.n.10 url="http://cerberus.rubyforge.org/" title="Cerberus: Home">
+      <TargetSentence>&lt;b&gt;Cerberus&lt;/b&gt; is a lightweight and easy-to-use Continuous Builder software for Ruby.   It could be run periodically from a scheduler and check if application tests are &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </cerberus.n.10>
+    <cerberus.n.11 url="http://www.theoi.com/Ther/KuonKerberos.html" title="CERBERUS : Three-headed guard dog of Hades, labor Heracles ...">
+      <TargetSentence>KERBEROS (or &lt;b&gt;Cerberus&lt;/b&gt;) was the gigantic hound which guarded the gates of   Haides. He was posted to prevent ghosts of the dead from leaving the   underworld &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </cerberus.n.11>
+    <cerberus.n.12 url="http://www.buildingtechnologies.siemens.com/bt/global/en/firesafety/fire-detection/cerberus-pro-fire-safety-system/pages/cerberus-pro.aspx" title="Cerberus PRO fire safety system - Siemens Building Technologies ...">
+      <TargetSentence>Siemens offers a new generation of fire safety systems -- the fire safety system   &lt;b&gt;Cerberus&lt;/b&gt; PRO offers fast, reliable fire detection, alarm signaling and control.</TargetSentence>
+    </cerberus.n.12>
+    <cerberus.n.13 url="http://ancienthistory.about.com/od/monsters/g/Cerberus.htm" title="Cerberus - The Hell Hound of Hades">
+      <TargetSentence>Definition: The three-headed, serpent-tailed dog &lt;b&gt;Cerberus&lt;/b&gt; was the offspring of   Echidna and Typhon. (In Greek mythology, parents didn&amp;#39;t necessarily resemble &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </cerberus.n.13>
+    <cerberus.n.14 url="http://www.imdb.com/title/tt0421121/" title="Cerberus (TV 2005) - IMDb">
+      <TargetSentence>Directed by John Terlesky. With Greg Evigan, Garret Sato, Bogdan Uritescu, Gabi   Andronache. In Bucharest, Romania, the priceless breastplate of Attila, the &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </cerberus.n.14>
+    <cerberus.n.15 url="http://monsters.monstrous.com/cerberus.htm" title="Cerberus">
+      <TargetSentence>Monstrous is your first source of information about &lt;b&gt;cerberus&lt;/b&gt; and other   mythological monsters.</TargetSentence>
+    </cerberus.n.15>
+    <cerberus.n.16 url="http://www.thefreedictionary.com/Cerberus" title="Cerberus - definition of Cerberus by the Free Online Dictionary ...">
+      <TargetSentence>Cer·ber·us (sûr b r- s). n. Greek &amp;amp; Roman Mythology. A three-headed dog   guarding the entrance to Hades. Cer ber·e an (sûr b -r n) adj. &lt;b&gt;Cerberus&lt;/b&gt; [  ˈsɜːbərəs] &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </cerberus.n.16>
+    <cerberus.n.17 url="http://en.wikipedia.org/wiki/Cerberus_Capital_Management" title="Cerberus Capital Management - Wikipedia, the free encyclopedia">
+      <TargetSentence>&lt;b&gt;Cerberus&lt;/b&gt; Capital Management, L.P. is an American private equity firm. The firm is   based in New York City, and run by financier Steve Feinberg, who co-founded &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </cerberus.n.17>
+    <cerberus.n.18 url="http://www.cerberusnetworks.co.uk/" title="Cerberus Networks Ltd. - Home">
+      <TargetSentence>&lt;b&gt;Cerberus&lt;/b&gt; Networks provides Connectivity, Cloud Computing and Managed IT   services that enable your organisation to work efficiently, flexibly and reliably &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </cerberus.n.18>
+    <cerberus.n.19 url="http://itunes.apple.com/app/cerberus-age/id518887839%3Fmt%3D8" title="Cerberus Age for iPhone 3GS, iPhone 4, iPhone 4S, iPod touch (3rd ...">
+      <TargetSentence>Aug 22, 2012 &lt;b&gt;...&lt;/b&gt; Read reviews, get customer ratings, see screenshots, and learn more about   &lt;b&gt;Cerberus&lt;/b&gt; Age on the App Store. Download &lt;b&gt;Cerberus&lt;/b&gt; Age and &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </cerberus.n.19>
+    <cerberus.n.20 url="http://www.merriam-webster.com/dictionary/cerberus" title="Cerberus - Merriam-Webster Online">
+      <TargetSentence>Definition of &lt;b&gt;Cerberus&lt;/b&gt; from the Merriam-Webster Online Dictionary with audio   pronunciations, thesaurus, Word of the Day, and word games.</TargetSentence>
+    </cerberus.n.20>
+    <cerberus.n.21 url="http://cerberus.briartek.com/" title="Cerberus - Global Connectivity for your Smartphone">
+      <TargetSentence>Easy to Understand. Easier to Use. Adventurers, meet your new best friend. As its   legendary name suggests, &lt;b&gt;Cerberus&lt;/b&gt; is a three-part system that will protect you &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </cerberus.n.21>
+    <cerberus.n.22 url="http://www.cerberusbeachhouse.com.au/" title="The Cerberus Beach House">
+      <TargetSentence>Welcome to the Beach House. The &lt;b&gt;Cerberus&lt;/b&gt; Beach House over looks one of the   most spectacular bays just over 20km south of Melbourne. With its beautiful red &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </cerberus.n.22>
+    <cerberus.n.23 url="http://investing.businessweek.com/research/stocks/snapshot/snapshot.asp%3FcapId%3D139449" title="Cerberus Capital Management, L.P.: Private Company Information ...">
+      <TargetSentence>&lt;b&gt;Cerberus&lt;/b&gt; Capital Management, L.P. company research &amp;amp; investing information.   Find executives and the latest company news.</TargetSentence>
+    </cerberus.n.23>
+    <cerberus.n.24 url="https://twitter.com/cerberusapp" title="Cerberus (cerberusapp) on Twitter">
+      <TargetSentence>&lt;b&gt;Cerberus&lt;/b&gt; is an Android app that helps you recover your misplaced, lost or &lt;b&gt;...&lt;/b&gt; they   are sent to the email address you associated with your &lt;b&gt;Cerberus&lt;/b&gt; account &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </cerberus.n.24>
+    <cerberus.n.25 url="http://topics.nytimes.com/topics/news/business/companies/cerberus_capital_management/index.html" title="Cerberus Capital Management News - The New York Times">
+      <TargetSentence>News about &lt;b&gt;Cerberus&lt;/b&gt; Capital Management. Commentary and archival   information about &lt;b&gt;Cerberus&lt;/b&gt; Capital Management from The New York Times.</TargetSentence>
+    </cerberus.n.25>
+    <cerberus.n.26 url="http://cerberusteam.com/" title="Cerberus">
+      <TargetSentence>&lt;b&gt;Cerberus&lt;/b&gt; offers 3d games for mobile devices like the iphone, itouch, ipad and   android. You can also play games or download them for your website.</TargetSentence>
+    </cerberus.n.26>
+    <cerberus.n.27 url="http://en.wikipedia.org/wiki/Cerberus_(film)" title="Cerberus (film) - Wikipedia, the free encyclopedia">
+      <TargetSentence>&lt;b&gt;Cerberus&lt;/b&gt; (also known as &lt;b&gt;Cerberus&lt;/b&gt;: the Guardian of Hell), is a 2005 Sci Fi   Channel original film, starring Sebastian Spence, Emmanuelle Vaugier, and   Greg &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </cerberus.n.27>
+    <cerberus.n.28 url="http://www.sentel.com/products/cerberus.html" title="Cerberus - SENTEL Corporation - Engineering Services, Test and ...">
+      <TargetSentence>&lt;b&gt;Cerberus&lt;/b&gt; Security Sensor Mobile Tower. Mobile Integrated Sensor Suite   Detection, Assessment, Auto Slews to Alarm cues; Integrated Power and   Wireless Link &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </cerberus.n.28>
+    <cerberus.n.29 url="http://www.hoovers.com/company/Cerberus_Capital_Management_LP_/rrtytxi-1.html" title="Cerberus Capital Management, L.P. | Company profile from - Hoovers">
+      <TargetSentence>Hoovers company profile of &lt;b&gt;Cerberus&lt;/b&gt; Capital Management, L.P. . Find detailed   business information such as key executives, financials and other corporate data &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </cerberus.n.29>
+    <cerberus.n.30 url="http://www.mythweb.com/encyc/entries/cerberus.html" title="Encyclopedia of Greek Mythology: Cerberus">
+      <TargetSentence>Hades&amp;#39; guard dog, a relative of both the Chimaera and the Hydra. &lt;b&gt;Cerberus&lt;/b&gt; was   carried up from Hades by Heracles in one his Labors. This was achieved only &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </cerberus.n.30>
+    <cerberus.n.31 url="http://www.myspace.com/cerberus" title="CERBERUS | Free Music, Tour Dates, Photos, Videos">
+      <TargetSentence>&lt;b&gt;CERBERUS&amp;#39;s&lt;/b&gt; official profile including the latest music, albums, songs, music   videos and more updates.</TargetSentence>
+    </cerberus.n.31>
+    <cerberus.n.32 url="http://wiki.eveonline.com/wiki/Cerberus" title="Cerberus - EVElopedia">
+      <TargetSentence>Moving away from their traditionally balanced all-round designs, Lai Dai have   created a very specialized - and dangerous - missile boat in the &lt;b&gt;Cerberus&lt;/b&gt;.</TargetSentence>
+    </cerberus.n.32>
+    <cerberus.n.33 url="http://www.cerberusrecords.com/" title="Cerberus Records">
+      <TargetSentence>The digital release will be coming on Sept. 16th. Fields Of Industry have made   their &lt;b&gt;Cerberus&lt;/b&gt; debut with &amp;quot;Two Dogs, A Television&amp;quot; which is available for digital &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </cerberus.n.33>
+    <cerberus.n.34 url="http://www.cerberusproductions.com/" title="Cerberus Productions | Festival and Event Production">
+      <TargetSentence>&lt;b&gt;Cerberus&lt;/b&gt; Productions focuses on offering solutions for festivals, events and   brands in the areas of operations, production and logistics. Since its beginnings   as a &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </cerberus.n.34>
+    <cerberus.n.35 url="http://www.templatemonster.com/authors/cerberus/" title="Web Templates by Cerberus">
+      <TargetSentence>&lt;b&gt;Cerberus&lt;/b&gt; is one of Template Monster&amp;#39;s web designers.&lt;b&gt;Cerberus&lt;/b&gt; joined our team   April 2003 and has designed 549 templates so far. &lt;b&gt;Cerberus&lt;/b&gt; is especially good &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </cerberus.n.35>
+    <cerberus.n.36 url="http://www.mythicalrealm.com/creatures/cerberus.html" title="Cerberus - Lady Gryphon&amp;#39;s Mythical Realm">
+      <TargetSentence>&lt;b&gt;Cerberus&lt;/b&gt; was a three-headed hound, although the poet Hesiod says he had 50,   with snaky extremities and a snake for a tail. &lt;b&gt;Cerberus&lt;/b&gt; was the watchdog of the &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </cerberus.n.36>
+    <cerberus.n.37 url="http://en.wikipedia.org/wiki/Cerberus_(constellation)" title="Cerberus (constellation) - Wikipedia, the free encyclopedia">
+      <TargetSentence>&lt;b&gt;Cerberus&lt;/b&gt; was a constellation created by Hevelius. It was depicted as a three-  headed snake that Hercules is holding in his hand. The constellation is no longer   in &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </cerberus.n.37>
+    <cerberus.n.38 url="http://lparchive.org/Final-Fantasy-VII-Dirge-of-Cerberus/" title="Final Fantasy VII: Dirge of Cerberus">
+      <TargetSentence>Let&amp;#39;s Play Final Fantasy VII: Dirge of &lt;b&gt;Cerberus&lt;/b&gt; by The Dark Id.</TargetSentence>
+    </cerberus.n.38>
+    <cerberus.n.39 url="http://www.myspace.com/cerberusrocks" title="cerberus | Free Music, Tour Dates, Photos, Videos">
+      <TargetSentence>&lt;b&gt;cerberus&amp;#39;s&lt;/b&gt; official profile including the latest music, albums, songs, music videos   and more updates.</TargetSentence>
+    </cerberus.n.39>
+    <cerberus.n.40 url="http://www.cerberus.net.au/" title="Cerberus Sciences">
+      <TargetSentence>&lt;b&gt;Cerberus&lt;/b&gt; News. Check The Weather! Extreme weather conditions can affect   sample quality and animal welfare. Check the forecast along your delivery route &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </cerberus.n.40>
+    <cerberus.n.41 url="http://www.blackrussianterrier.org/" title="Cerberus Kennels">
+      <TargetSentence>Westminster Kennel Club 2006 Best of Breed Winner Ch. Best Guard Stepan   Razin takes the Garden by storm with handler Luke Baggenstos.</TargetSentence>
+    </cerberus.n.41>
+    <cerberus.n.42 url="http://soundcloud.com/cerberus" title="Cerberus - SoundCloud">
+      <TargetSentence>male 28 DJ host of Sub Woofing Show @ Jungletrain.net bi-weeky on saturdays   15.30-17.00 CET | Create, record and share the sounds you create anywhere to &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </cerberus.n.42>
+    <cerberus.n.43 url="http://www.cerberuscreativeservices.com/" title="Cerberus Creative - Home">
+      <TargetSentence>&lt;b&gt;Cerberus&lt;/b&gt; Logo. dog ate the website. Actually, we are updating our website with   our new logos and colors! Come back soon and we will be up and running!</TargetSentence>
+    </cerberus.n.43>
+    <cerberus.n.44 url="http://www.facebook.com/cerberusproductionsevents" title="CERBERUS PRODUCTIONS, LLC | Facebook">
+      <TargetSentence>&lt;b&gt;CERBERUS&lt;/b&gt; PRODUCTIONS, LLC. 378 likes · 1 talking about this.</TargetSentence>
+    </cerberus.n.44>
+    <cerberus.n.45 url="http://www.cerberusshoal.com/" title="Cerberus Shoal&amp;#39;s Web Site">
+      <TargetSentence>A band formed in Boston, Massachusetts in 1994. With news, background,   discography, tour dates, sound files and links.</TargetSentence>
+    </cerberus.n.45>
+    <cerberus.n.46 url="http://www.boston.com/business/specials/saleofcaritas/" title="The sale of Caritas Christi to Cerberus Capital Management ...">
+      <TargetSentence>Coverage of the sale of Caritas Christi Health Care to New York private equity   firm &lt;b&gt;Cerberus&lt;/b&gt; Capital Management.</TargetSentence>
+    </cerberus.n.46>
+    <cerberus.n.47 url="http://en.wikipedia.org/wiki/Cerberus_(disambiguation)" title="Cerberus (disambiguation) - Wikipedia, the free encyclopedia">
+      <TargetSentence>Cerberus is a mythical multi-headed dog. Cerberus may also refer to: [edit]   Astronomy. Cerberus (constellation), a group of stars; Cerberus (Martian albedo &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </cerberus.n.47>
+    <cerberus.n.48 url="http://en.wiktionary.org/wiki/Cerberus" title="Cerberus - Wiktionary">
+      <TargetSentence>&lt;b&gt;Cerberus&lt;/b&gt;. Definition from Wiktionary, the free dictionary. Jump to: navigation,   search &lt;b&gt;...&lt;/b&gt; [edit] English. Wikipedia has an article on: &lt;b&gt;Cerberus&lt;/b&gt; · Wikipedia &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </cerberus.n.48>
+    <cerberus.n.49 url="http://www.androidiani.com/applicazioni/cerberus-androidiani-review-56620" title="Cerberus [ANDROIDIANI REVIEW] – Androidiani">
+      <TargetSentence>24 lug 2011 &lt;b&gt;...&lt;/b&gt; Tutti desiderano proteggere il loro smartphone o tablet anche in caso di furto.   Oggi, quindi, vi presenteremo &lt;b&gt;Cerberus&lt;/b&gt;, un&amp;#39;applicazione per i v.</TargetSentence>
+    </cerberus.n.49>
+    <cerberus.n.50 url="http://www.commonwealthmagazine.org/News-and-Features/Features/2012/Summer/001-Cerberuss-health-care-play.aspx" title="Cerberus&amp;#39;s health care play - CommonWealth Magazine">
+      <TargetSentence>Jul 10, 2012 &lt;b&gt;...&lt;/b&gt; The owner of the for-profit Steward Health Care is taking on Boston&amp;#39;s big teaching   hospitals.</TargetSentence>
+    </cerberus.n.50>
+    <cerberus.n.51 url="http://p3llc.com/" title="Cerberus Tactical Home Page">
+      <TargetSentence>&lt;b&gt;Cerberus&lt;/b&gt; Tactical is a division of P3LLC, Provost&amp;#39;s Precision Pistols, LLC. P3LLC   specializes in building custom pistols. P3LLC is also the designer and &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </cerberus.n.51>
+    <cerberus.n.52 url="http://www.cerberusftp.com/download/" title="Cerberus FTP Server › Downloads">
+      <TargetSentence>You can download current and previous releases of &lt;b&gt;Cerberus&lt;/b&gt; FTP Server from   this page.</TargetSentence>
+    </cerberus.n.52>
+    <cerberus.n.53 url="http://wiki.ffxiclopedia.org/wiki/Cerberus" title="Cerberus - FFXIclopedia, the Final Fantasy XI wiki - Characters ...">
+      <TargetSentence>Job: Family: &lt;b&gt;Cerberus&lt;/b&gt; Crystal: Weak to: Title Obtained: &lt;b&gt;Cerberus&lt;/b&gt; Muzzler (Mount   Zhayolm) Mount Zhayo.</TargetSentence>
+    </cerberus.n.53>
+    <cerberus.n.54 url="http://en.wikipedia.org/wiki/HMVS_Cerberus" title="HMVS Cerberus - Wikipedia, the free encyclopedia">
+      <TargetSentence>HMVS &lt;b&gt;Cerberus&lt;/b&gt; (Her Majesty&amp;#39;s Victorian Ship) is a breastwork monitor that   served in the Victoria Naval Forces, the Commonwealth Naval Forces (CNF), and   the &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </cerberus.n.54>
+    <cerberus.n.55 url="http://en.wikipedia.org/wiki/Cerberus_(protein)" title="Cerberus (protein) - Wikipedia, the free encyclopedia">
+      <TargetSentence>&lt;b&gt;Cerberus&lt;/b&gt; also known as CER1 is a protein that in humans is encoded by the   CER1 gene. Contents. 1 Function; 2 References; 3 Further reading; 4 External   links &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </cerberus.n.55>
+    <cerberus.n.56 url="http://www.amazon.com/Fifth-Head-Cerberus-Three-Novellas/dp/0312890206" title="The Fifth Head of Cerberus: Three Novellas: Gene Wolfe ...">
+      <TargetSentence>A brothel keeper&amp;#39;s sons discuss genocide and plot murder; a young alien   wanderer is pursued by his shadow double; and a political prisoner tries to prove   his &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </cerberus.n.56>
+    <cerberus.n.57 url="http://en.wikipedia.org/wiki/Cerberus_(sonar)" title="Cerberus (sonar) - Wikipedia, the free encyclopedia">
+      <TargetSentence>&lt;b&gt;Cerberus&lt;/b&gt; is a blue egg-shaped ultrasound device to detect submerged divers. It   is made by Qinetiq. It can distinguish a diver from a seal or dolphin or porpoise.</TargetSentence>
+    </cerberus.n.57>
+    <cerberus.n.58 url="http://en.wikipedia.org/wiki/Cerberus_(Marvel_Comics)" title="Cerberus (Marvel Comics) - Wikipedia, the free encyclopedia">
+      <TargetSentence>&lt;b&gt;Cerberus&lt;/b&gt; is a fictional character in the Marvel Universe, based on the figure from   myth. [edit] Publication history. &lt;b&gt;Cerberus&lt;/b&gt; first appeared in Thor #130 (July &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </cerberus.n.58>
+    <cerberus.n.59 url="http://en.wikipedia.org/wiki/Cerberus_(snake)" title="Cerberus (snake) - Wikipedia, the free encyclopedia">
+      <TargetSentence>&lt;b&gt;Cerberus&lt;/b&gt; (common name dog-faced water snakes) is a small genus of water   snakes in the family Colubridae. Member species are common inhabitants of &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </cerberus.n.59>
+    <cerberus.n.60 url="http://en.wikipedia.org/wiki/Cerberus_Fossae" title="Cerberus Fossae - Wikipedia, the free encyclopedia">
+      <TargetSentence>The &lt;b&gt;Cerberus&lt;/b&gt; Fossae are a series of semi-parallel fissures on Mars formed by   faults which pulled the crust apart in the &lt;b&gt;Cerberus&lt;/b&gt; region (9°N, 197°W). Ripples &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </cerberus.n.60>
+    <cerberus.n.61 url="http://en.wikipedia.org/wiki/HMAS_Cerberus_(naval_base)" title="HMAS Cerberus (naval base) - Wikipedia, the free encyclopedia">
+      <TargetSentence>HMAS &lt;b&gt;Cerberus&lt;/b&gt; is the Royal Australian Navy&amp;#39;s primary training establishment,   located adjacent to Crib Point on the Mornington Peninsula, south of Melbourne, &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </cerberus.n.61>
+    <cerberus.n.62 url="https://www.cerberusapp.com/help.php" title="Cerberus - Help">
+      <TargetSentence>[+] How can I control &lt;b&gt;Cerberus&lt;/b&gt; remotely? You can control &lt;b&gt;Cerberus&lt;/b&gt; from &lt;b&gt;...&lt;/b&gt; [+]   &lt;b&gt;Cerberus&lt;/b&gt; does not take pictures with the front camera. APIs for automatic   selection &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </cerberus.n.62>
+    <cerberus.n.63 url="http://www.cerberusftp.com/products/releasenotes.html" title="Release Notes for Cerberus FTP Server">
+      <TargetSentence>Detailed release notes for every release of &lt;b&gt;Cerberus&lt;/b&gt; FTP Server.</TargetSentence>
+    </cerberus.n.63>
+    <cerberus.n.64 url="http://www.cerberusftp.com/store/" title="Cerberus, LLC Store">
+      <TargetSentence>The &lt;b&gt;Cerberus&lt;/b&gt; FTP Server Store. &lt;b&gt;...&lt;/b&gt; You can purchase a license for &lt;b&gt;Cerberus&lt;/b&gt; FTP   Server Personal, Standard, Professional, or Enterprise edition. Latest &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </cerberus.n.64>
+  </cerberus.n.test>
+</dataSet>

@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataSet authors="Roberto Navigli, Daniele Vannella" task="SemeVal 2013 task 11" lang="en">
+  <chase.n.test>
+    <chase.n.1 url="https://www.chase.com/" title="CHASE Bank - Credit Cards, Mortgage, Personal &amp;amp; Commercial ...">
+      <TargetSentence>&lt;b&gt;CHASE&lt;/b&gt; Bank provides credit cards, mortgage, commercial banking, auto loans,   investing and retirement planning, checking, student loans, and business &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </chase.n.1>
+    <chase.n.2 url="https://chaseonline.chase.com/" title="Chase Online - Logon">
+      <TargetSentence>If you&amp;#39;re not already using Chase Online to access your account, enroll now.   Chase Online offers a broad range of products and services to manage your   money.</TargetSentence>
+    </chase.n.2>
+    <chase.n.3 url="https://locator.chase.com/" title="Find a CHASE Bank Branch or ATM near you">
+      <TargetSentence>Find a Chase® Bank Branch or ATM near you. &lt;b&gt;...&lt;/b&gt; a local mortgage banker near   you. Search by ZIP code or name. FIND A CHASE PRIVATE CLIENT OFFICE &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </chase.n.3>
+    <chase.n.4 url="https://creditcards.chase.com/" title="Credit Cards: Find the right credit card for you | Chase.com">
+      <TargetSentence>Explore different credit card options from Chase. Chase offers cash back credit   cards, rewards credit cards, travel credit cards and business credit cards. Get a &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </chase.n.4>
+    <chase.n.5 url="http://www.jpmorganchase.com/" title="JPMorgan Chase &amp;amp; Co.">
+      <TargetSentence>Global financial services firm with investment, research, banking, finance,   insurance, and other businesses. Governance, investor relations, cultural &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </chase.n.5>
+    <chase.n.6 url="https://careers.jpmorganchase.com/" title="Explore your future with us | Careers | JPMorgan Chase">
+      <TargetSentence>&lt;b&gt;Chase&lt;/b&gt;. Join a group of exceptional people who share a common passion for   providing the highest level of customer service to millions of people every day.</TargetSentence>
+    </chase.n.6>
+    <chase.n.7 url="http://www.chasestudentloans.com/" title="Chase Select private student loans – College Student Loan.">
+      <TargetSentence>Select Private Student Loans. Apply for private student loans, learn the facts   about student loans and make the right decision for your education.</TargetSentence>
+    </chase.n.7>
+    <chase.n.8 url="http://www.nbc.com/chase/" title="Chase">
+      <TargetSentence>search. Welcome to NBC. Log In or Sign Up. &lt;b&gt;Chase&lt;/b&gt;. /&lt;b&gt;chase&lt;/b&gt;/. Main; About &lt;b&gt;...&lt;/b&gt;   ABOUT THE SHOW. About &lt;b&gt;Chase&lt;/b&gt; · Credits. BIOS. Kelli Giddish: Annie Frost ·   Cole &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </chase.n.8>
+    <chase.n.9 url="https://itunes.apple.com/us/app/chase-mobile-sm/id298867247%3Fmt%3D8" title="Chase Mobile (SM) for iPhone, iPod touch, and iPad on the iTunes ...">
+      <TargetSentence>Sep 26, 2012 &lt;b&gt;...&lt;/b&gt; Read reviews, get customer ratings, see screenshots, and learn more about   &lt;b&gt;Chase&lt;/b&gt; Mobile (SM) on the App Store. Download &lt;b&gt;Chase&lt;/b&gt; Mobile &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </chase.n.9>
+    <chase.n.10 url="http://www.facebook.com/ChaseCommunityGiving" title="Chase Community Giving | Facebook">
+      <TargetSentence>&lt;b&gt;Chase&lt;/b&gt; Community Giving. 3856505 likes · 8238 talking about this.</TargetSentence>
+    </chase.n.10>
+    <chase.n.11 url="http://en.wikipedia.org/wiki/Chase_(bank)" title="Chase (bank) - Wikipedia, the free encyclopedia">
+      <TargetSentence>JPMorgan &lt;b&gt;Chase&lt;/b&gt; Bank, N.A., doing business as &lt;b&gt;Chase&lt;/b&gt;, is a national bank that   constitutes the consumer and commercial banking subsidiary of financial   services &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </chase.n.11>
+    <chase.n.12 url="http://en.wikipedia.org/wiki/Chase" title="Chase - Wikipedia, the free encyclopedia">
+      <TargetSentence>Look up &lt;b&gt;Chase&lt;/b&gt; or &lt;b&gt;chase&lt;/b&gt; in Wiktionary, the free dictionary. &lt;b&gt;Chase&lt;/b&gt; may refer to:   Contents. 1 Corporations; 2 Music; 3 Books; 4 Films; 5 Television shows; 6   People &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </chase.n.12>
+    <chase.n.13 url="http://en.wikipedia.org/wiki/Chase_(composition)" title="Chase (composition) - Wikipedia, the free encyclopedia">
+      <TargetSentence>&lt;b&gt;Chase&lt;/b&gt; is an electronic instrumental by Giorgio Moroder from the Academy Award  -winning soundtrack and album Midnight Express (1978), then extended and &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </chase.n.13>
+    <chase.n.14 url="http://www.chasedoors.com/" title="Chase Doors - Home">
+      <TargetSentence>&lt;b&gt;Chase&lt;/b&gt; Doors, Worlds leading manufacturer of traffic doors.</TargetSentence>
+    </chase.n.14>
+    <chase.n.15 url="http://www.creditcards.com/Chase.php" title="Chase Bank Credit Cards - Apply for yours at CreditCards.com">
+      <TargetSentence>Looking for a &lt;b&gt;Chase&lt;/b&gt; Bank credit card? Compare offers and apply for one at   CreditCards.com.</TargetSentence>
+    </chase.n.15>
+    <chase.n.16 url="http://www.imdb.com/title/tt1582458/" title="Chase (TV Series 2010– ) - IMDb">
+      <TargetSentence>Created by Jennifer Johnson. With Kelli Giddish, Cole Hauser, Jesse Metcalfe,   Amaury Nolasco. A team tracks down fugitive criminals.</TargetSentence>
+    </chase.n.16>
+    <chase.n.17 url="https://www.chase.com/online/services/banking-service.htm" title="Online Banking | Chase Online Banking Services - Bank Online with ...">
+      <TargetSentence>Online Banking: Chase Online Banking Services - Mobile Banking Online with   Complete Confidence. Chase Online banking makes it easier. The safe, secure &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </chase.n.17>
+    <chase.n.18 url="https://www.chasepaymentech.com/" title="Chase Paymentech">
+      <TargetSentence>&lt;b&gt;Chase&lt;/b&gt; Paymentech is a leading credit card processing company. Open a   merchant services account, accept credit card payments &amp;amp; get great rates.</TargetSentence>
+    </chase.n.18>
+    <chase.n.19 url="http://www.chaseproducts.com/" title="Chase Products Co.">
+      <TargetSentence>&lt;b&gt;Chase&lt;/b&gt; Products can provide you with a wide range of aerosol household   products, paints, insecticides, automotive, bench, craft, and personal care   products.</TargetSentence>
+    </chase.n.19>
+    <chase.n.20 url="http://www.chasejarvis.com/" title="Chase Jarvis Photography">
+      <TargetSentence>Commercial photographer. Sports, lifestyle, and environmental.</TargetSentence>
+    </chase.n.20>
+    <chase.n.21 url="http://www.chasecorp.com/" title="Chase Corporation">
+      <TargetSentence>Manufacturers of wire and cable, specialty chemicals, bridge construction,   advanced converting, and electronics.</TargetSentence>
+    </chase.n.21>
+    <chase.n.22 url="http://www.chaseparkplaza.com/" title="St. Louis Luxury Hotels | Downtown | The Chase Park Plaza, St ...">
+      <TargetSentence>Welcome to The &lt;b&gt;Chase&lt;/b&gt; Park Plaza hotel in the heart of downtown St. Louis. Our   hotel&amp;#39;s luxury accommodations and grand style allow you to be truly welcomed &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </chase.n.22>
+    <chase.n.23 url="http://en.wiktionary.org/wiki/chase" title="chase - Wiktionary">
+      <TargetSentence>&lt;b&gt;chase&lt;/b&gt; (plural chases) &lt;b&gt;...&lt;/b&gt; Some children like to be caught when playing &lt;b&gt;chase&lt;/b&gt;,   and others do not. &lt;b&gt;...&lt;/b&gt; Anything being &lt;b&gt;chased&lt;/b&gt;, especially a vessel in time of war.</TargetSentence>
+    </chase.n.23>
+    <chase.n.24 url="http://www.jpmorgan.com/" title="J.P. Morgan">
+      <TargetSentence>Our clients benefit from the more than 4,500 &lt;b&gt;Chase&lt;/b&gt; Commercial Banking   professionals who deliver extensive industry knowledge, local expertise and   dedicated &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </chase.n.24>
+    <chase.n.25 url="https://www.chase.com/online/services/customer-service-support.htm" title="Chase Bank – Contact Us | Customer Service &amp;amp; Support">
+      <TargetSentence>&lt;b&gt;...&lt;/b&gt; or Mobile Banking, call 1-877-CHASEPC (1-877-242-7372) &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </chase.n.25>
+    <chase.n.26 url="https://www.chase.com/auto-loan/car-loan.htm" title="Car Loans, Auto Loan – Chase Auto Loans">
+      <TargetSentence>Find the best car loan at a competitive interest rate at Chase Auto Loans. Choose   from a variety of auto loans for new and used cars, including refinancing an &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </chase.n.26>
+    <chase.n.27 url="https://www.chase.com/online/Checking/chase-checking-account.htm" title="Checking Accounts | Open a Chase Checking Account with Free ...">
+      <TargetSentence>Checking Accounts: Enjoy the convenience and value of a Chase checking   account with free Online Banking and Bill Pay! You can open an account online, &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </chase.n.27>
+    <chase.n.28 url="https://www.chase.com/online/services/mobile-banking.htm" title="Mobile Banking | Chase Mobile Banking Services - mobile browser ...">
+      <TargetSentence>Mobile Banking - Chase Mobile Banking Services: Manage your finances from   nearly anywhere. Chase Mobile Banking on your mobile phones browser or try &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </chase.n.28>
+    <chase.n.29 url="https://www.chase.com/chf/mortgage/keeping-your-home" title="Chase Homeownership Center">
+      <TargetSentence>Homeownership Center | chase.com &lt;b&gt;...&lt;/b&gt; At this site, and at dozens of Chase   Homeownership Centers across the country, we are providing resources to &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </chase.n.29>
+    <chase.n.30 url="https://www.chase.com/online/services/bill-pay.htm" title="Bill Pay | Chase Online Bill Pay - Online Bill Pay Account">
+      <TargetSentence>Bill Pay: Chase Fast, Easy and Free Online Bill Pay. Rely on bills getting sent on   time with our Online, On Time Guarantee. Chase Online Bill Pay...</TargetSentence>
+    </chase.n.30>
+    <chase.n.31 url="https://www.chase.com/online/Home-Refinance/mortgage-refinancing.htm" title="Chase Mortgage Refinance | Competitive Home Loan Refinancing ...">
+      <TargetSentence>Chase Mortgage Refinance - Refinancing your mortgage can be a smart   approach to reducing your overall borrowing costs. Chase offers competitive   Home &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </chase.n.31>
+    <chase.n.32 url="http://www.jpmorgan.com/" title="J.P. Morgan">
+      <TargetSentence>Our clients benefit from the more than 4,500 &lt;b&gt;Chase&lt;/b&gt; Commercial Banking   professionals who deliver extensive industry knowledge, local expertise and   dedicated &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </chase.n.32>
+    <chase.n.33 url="https://www.chase.com/index.jsp%3Fpg_name%3Dccpmapp/smallbusiness/home/page/business_banking_home" title="Business Banking | Chase Business Banking Services">
+      <TargetSentence>Chase Business Business Banking: Chase Business Banking Services offers   numerous account options, easy-to-read statements and the ability to link   accounts &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </chase.n.33>
+    <chase.n.34 url="https://www.chase.com/online/Checking/savings-cds-accounts.htm" title="Saving and CD Accounts - Chase">
+      <TargetSentence>It&amp;#39;s never too early to begin saving. At Chase, our Savings &amp;amp; CD products can   help you save for your emergency fund, a future vacation, or even begin to save   for &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </chase.n.34>
+    <chase.n.35 url="https://www.chase.com/online/Home-Lending/contact-us.htm" title="Chase Home Lending | Contact us">
+      <TargetSentence>Contact Chase Mortgage and Home Lending for information and addresses for   services – such as payments, insurance, taxes or payoffs – are available on &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </chase.n.35>
+    <chase.n.36 url="https://www.chase.com/online/services/check-deposit.htm" title="Mobile Check Deposit iPhone app | Chase Quick Deposit Checking ...">
+      <TargetSentence>Mobile Check Deposit iPhone app for Chase Quick Deposit Checking Accounts -   Online Check Deposits: Learn how Chase QuickDeposit (Online Check &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </chase.n.36>
+    <chase.n.37 url="https://www.chase.com/index.jsp%3Fpg_name%3Dccpmapp/privacy_security/fraud/page/report_fraud" title="How to Report Fraud - Chase Security Center">
+      <TargetSentence>Accidentally compromised your Chase account or received suspicious e-mail.   Report fraud by phone or e-mail. &lt;b&gt;...&lt;/b&gt; Security Center Home &amp;gt; How to Report Fraud &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </chase.n.37>
+    <chase.n.38 url="http://www.jpmorganchase.com/corporate/Corporate-Responsibility/corporate-philanthropy.htm" title="Corporate Philanthropy | Chase Philanthropic Giving approach has ...">
+      <TargetSentence>Corporate Philanthropy: &lt;b&gt;Chase&lt;/b&gt; Global Philanthropic approach has evolved for   today&amp;#39;s environment. &lt;b&gt;Chase&lt;/b&gt; is committed to be the catalyst for sustainable &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </chase.n.38>
+    <chase.n.39 url="https://mobilebanking.chase.com/" title="Chase Mobile Banking">
+      <TargetSentence>Chase Online Banking. Welcome to Chase MobileSM Browser. Manage your   finances from nearly anywhere. Log On to J.P.Morgan · Find Us · FAQ · Contact   Us &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </chase.n.39>
+    <chase.n.40 url="http://en.wikipedia.org/wiki/Chase_(comics)" title="Chase (comics) - Wikipedia, the free encyclopedia">
+      <TargetSentence>&lt;b&gt;Chase&lt;/b&gt; was a comic book series published by DC Comics. It was written by Dan   Curtis Johnson, illustrated by J.H. Williams III and inked by Mick Gray. It lasted &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </chase.n.40>
+    <chase.n.41 url="https://www.chase.com/chf/mortgage/hrm_otheralt" title="Chase Foreclosure Prevention - Foreclosure Alternatives">
+      <TargetSentence>If you qualify to sell your home for less than you owe through the Home   Affordable Foreclosure Alternatives (HAFA) program, you may receive financial &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </chase.n.41>
+    <chase.n.42 url="https://www.chase.com/online/services/quickpay.htm" title="Chase Person-to-Person QuickPay">
+      <TargetSentence>E-Pay: With Chase Person-to-Person Wire Transfer (QuickPay) -you can send   and receive payments as easily as you send an e-mail. Learn how Chase &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </chase.n.42>
+    <chase.n.43 url="https://www.chase.com/online/military/military.htm" title="Chase Military Financial Services - ChaseMilitary.com">
+      <TargetSentence>Chase is your armed forces bank, serving our military with credit cards, jobs, and   home loans. We are committed to serving those who proudly serve us.</TargetSentence>
+    </chase.n.43>
+    <chase.n.44 url="https://www.chase.com/online/Home-Lending/home-value-estimator.htm" title="Home Value Estimator | Bank Rates - Chase Mortgage">
+      <TargetSentence>Home Value Estimator: The Chase Home Value Estimator provides you a free   estimated market value of your home or a home you are interested in.</TargetSentence>
+    </chase.n.44>
+    <chase.n.45 url="http://en.wikipedia.org/wiki/Salmon_P._Chase" title="Salmon P. Chase - Wikipedia, the free encyclopedia">
+      <TargetSentence>Salmon Portland &lt;b&gt;Chase&lt;/b&gt; (January 13, 1808 – May 7, 1873) was an American   politician and jurist who served as U.S. Senator from Ohio and the 23rd Governor   of &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </chase.n.45>
+    <chase.n.46 url="http://en.wikipedia.org/wiki/Samuel_Chase" title="Samuel Chase - Wikipedia, the free encyclopedia">
+      <TargetSentence>Samuel &lt;b&gt;Chase&lt;/b&gt; (April 17, 1741 – June 19, 1811) was an Associate Justice of the   United States Supreme Court and earlier was a signatory to the United States &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </chase.n.46>
+    <chase.n.47 url="http://en.wikipedia.org/wiki/Robert_Chase" title="Robert Chase - Wikipedia, the free encyclopedia">
+      <TargetSentence>Dr. Robert &lt;b&gt;Chase&lt;/b&gt; is a fictional character on the Fox medical drama House. He is   portrayed by Jesse Spencer. His character was a part of the team of &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </chase.n.47>
+    <chase.n.48 url="http://apps.facebook.com/chasecommunitygiving/" title="Chase Community Giving on Facebook | Facebook">
+      <TargetSentence>Facebook is a social utility that connects people with friends and others who work  , study and live around them. People use Facebook to keep up with friends, &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </chase.n.48>
+    <chase.n.49 url="https://www.chase.com/online/Checking/gift-card.htm" title="Chase Gift Card">
+      <TargetSentence>The Chase Gift Card can be used practically everywhere - electronics stores,   department stores, online - wherever Visa® debit cards are accepted. Need the &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </chase.n.49>
+    <chase.n.50 url="https://www.chase.com/index.jsp%3Fpg_name%3Dccpmapp/shared/assets/page/hsa_home" title="Chase Health Savings Account - HSA | Health Savings Accounts">
+      <TargetSentence>Chase HealthSavings Accounts ¿ HSA: A Health Savings Account can provide a   smart way to save for future healthcare needs. Open a Chase HSA today and &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </chase.n.50>
+    <chase.n.51 url="https://www.chase.com/index.jsp%3Fpg_name%3Dccpmapp/home_equity/products/page/home_equity" title="CHASE Home Equity Loans and Lines of Credit: Home Equity Loan ...">
+      <TargetSentence>Chase loans let you take advantage of the equity in your home so you can build   more. &lt;b&gt;...&lt;/b&gt; Chase Home Equity lines of credit are not available in AK, HI, and SC.</TargetSentence>
+    </chase.n.51>
+    <chase.n.52 url="http://chasegarden.gardenconservancy.org/" title="Chase Garden">
+      <TargetSentence>&lt;b&gt;Chase&lt;/b&gt; Garden, located near Graham, Washington, one hour south of Seattle on   the way to Mount Rainier, sits on a bluff overlooking the Puyallup River valley &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </chase.n.52>
+    <chase.n.53 url="http://www.centerontheriverfront.com/" title="Chase Center - Home">
+      <TargetSentence>Located on Wilmington&amp;#39;s revitalized riverfront, the &lt;b&gt;Chase&lt;/b&gt; Center is the area&amp;#39;s   premier special event facility with more than 60000 square feet of flexible space   for &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </chase.n.53>
+    <chase.n.54 url="http://www.chaseprofessionals.com/" title="Chase Professionals – Staffing and Recruiting Services | We value ...">
+      <TargetSentence>&lt;b&gt;CHASE&lt;/b&gt; strives to form a partnership with employers. Our recruiters get to know   you, learn about your company and its culture in order to successfully identify the &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </chase.n.54>
+    <chase.n.55 url="http://www.mhprofessional.com/category/%3Fcat%3D3" title="Chase&amp;#39;s Calendar of Events">
+      <TargetSentence>Find out what&amp;#39;s going on any day of the year, anywhere across the globe!   &lt;b&gt;Chase&amp;#39;s&lt;/b&gt; Calendar of Events is the most comprehensive and authoritative   reference &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </chase.n.55>
+    <chase.n.56 url="http://www.chasegroup.com/" title="The Chase Group">
+      <TargetSentence>Harnessing nearly two decades of experience, The &lt;b&gt;Chase&lt;/b&gt; Group, Inc. offers   standard-setting professional recruitment services in the Life Sciences industry.</TargetSentence>
+    </chase.n.56>
+    <chase.n.57 url="http://chaselaw.nku.edu/" title="Salmon P. Chase College of Law: Northern Kentucky University">
+      <TargetSentence>Features news and information from the Dean, admissions information for   prospective students, and access to online job postings.</TargetSentence>
+    </chase.n.57>
+    <chase.n.58 url="http://www.loansafe.org/forum/chase-mortgage-tell-us-your-chase-story/" title="Chase Mortgage - Tell Us Your Chase Story">
+      <TargetSentence>&lt;b&gt;Chase&lt;/b&gt; Mortgage - Tell Us Your &lt;b&gt;Chase&lt;/b&gt; Story - &lt;b&gt;Chase&lt;/b&gt; Mortgage and &lt;b&gt;Chase&lt;/b&gt; Home   Finance are and were huge lenders. We are getting a lot of traffic from.</TargetSentence>
+    </chase.n.58>
+    <chase.n.59 url="https://www.chase.com/index.jsp%3Fpg_name%3Dccpmapp/privacy_security/protection/page/privacy-notice" title="Privacy Notice - Chase">
+      <TargetSentence>FACTS, WHAT DOES CHASE DO WITH YOUR PERSONAL INFORMATION?   Why? Financial companies choose how they share your personal information.</TargetSentence>
+    </chase.n.59>
+    <chase.n.60 url="https://www.chase.com/chf/mortgage/hrm_centers" title="Chase Mortgage Modification Centers: Mortgage Loan Modification ...">
+      <TargetSentence>Opening Chase Homeownership Centers across the country reflects our   commitment to &lt;b&gt;...&lt;/b&gt; to charge a fee for housing counseling or modification of a   delinquent loan. &lt;b&gt;...&lt;/b&gt; If anyone contacts you and says they will modify your   mortgage for a fee, &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </chase.n.60>
+    <chase.n.61 url="https://www.chase.com/online/commercial-bank/solutions-ctl-multifamily.htm" title="Multifamily Lending | Commercial Term Lending | Chase ...">
+      <TargetSentence>Commercial Term Lending. Commercial Term Lending. Solutions &amp;gt; Obtain   Financing &amp;gt; Commercial Term Lending &amp;gt; Multifamily Lending &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </chase.n.61>
+    <chase.n.62 url="http://www.townofchase.org/" title="The Town of Chase OFFICAL WEBSITE Oconto County, Wisconsin ...">
+      <TargetSentence>Thank You to all that donated for the preservation of the 1903 &lt;b&gt;Chase&lt;/b&gt; Stone Barn   and for helping preserve a &lt;b&gt;...&lt;/b&gt; of the &lt;b&gt;Chase&lt;/b&gt; Stone Barn Park and future Museum.</TargetSentence>
+    </chase.n.62>
+    <chase.n.63 url="http://www.chaseinternational.com/" title="Chase International">
+      <TargetSentence>&lt;b&gt;Chase&lt;/b&gt; International is an independent real estate firm specializing in unique and   distinctive properties around the Lake Tahoe region. With more than 200 &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </chase.n.63>
+    <chase.n.64 url="http://en.wikipedia.org/wiki/Chase_(band)" title="Chase (band) - Wikipedia, the free encyclopedia">
+      <TargetSentence>The band &lt;b&gt;Chase&lt;/b&gt; was created in 1970 by Bill &lt;b&gt;Chase&lt;/b&gt;, Ted Piercefield, Alan Ware,   and Jerry Van Blair, all veteran jazz trumpeters who were also adept at vocals &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </chase.n.64>
+  </chase.n.test>
+</dataSet>

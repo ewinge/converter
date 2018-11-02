@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataSet authors="Roberto Navigli, Daniele Vannella" task="SemeVal 2013 task 11" lang="en">
+  <pizza.n.test>
+    <pizza.n.1 url="http://www.dominos.com/" title="Domino&amp;#39;s Home Page - Domino&amp;#39;s Pizza, Order Pizza Online for ...">
+      <TargetSentence>Domino&amp;#39;s &lt;b&gt;Pizza&lt;/b&gt; lets you browse coupons and order online - try the all new hand   tossed crust, robust sauce and shredded mozzarella cheese.</TargetSentence>
+    </pizza.n.1>
+    <pizza.n.2 url="http://www.papajohns.com/" title="Papa John&amp;#39;s Pizza Delivery and Specials ‐ Order Pizza Online for ...">
+      <TargetSentence>Order Papa John&amp;#39;s &lt;b&gt;Pizza&lt;/b&gt; online for fast &lt;b&gt;pizza&lt;/b&gt; delivery or pickup. Get Papa John&amp;#39;s   Special Offers or use Papa John&amp;#39;s promo codes for online &lt;b&gt;pizza&lt;/b&gt; orders.</TargetSentence>
+    </pizza.n.2>
+    <pizza.n.3 url="http://en.wikipedia.org/wiki/Pizza" title="Pizza - Wikipedia, the free encyclopedia">
+      <TargetSentence>&lt;b&gt;Pizza&lt;/b&gt; is an oven-baked, flat, round bread typically topped with a tomato sauce,   cheese and various toppings. &lt;b&gt;Pizza&lt;/b&gt; was originally invented in Naples, Italy, and &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </pizza.n.3>
+    <pizza.n.4 url="http://www.pizzahut.com/" title="Pizza Hut - Pizza Coupons, Pizza Deals, Pizza Delivery, Order Pizza ...">
+      <TargetSentence>Order &lt;b&gt;pizza&lt;/b&gt; online for fast &lt;b&gt;pizza&lt;/b&gt; delivery or drop by for carryout. You may also   contact &lt;b&gt;Pizza&lt;/b&gt; Hut and find out about our catering services for your next big event.</TargetSentence>
+    </pizza.n.4>
+    <pizza.n.5 url="http://pizza.com/" title="Pizza.com - Order Pizza Online, Pizza Coupons, Find Pizzerias">
+      <TargetSentence>&lt;b&gt;Pizza&lt;/b&gt;.com is the place to find local &lt;b&gt;pizza&lt;/b&gt;, review &lt;b&gt;pizza&lt;/b&gt; menus, get &lt;b&gt;pizza&lt;/b&gt; coupons   and order &lt;b&gt;pizza&lt;/b&gt; online for pickup or delivery.</TargetSentence>
+    </pizza.n.5>
+    <pizza.n.6 url="http://www.littlecaesars.com/" title="Pizza - Little Caesars Pizza - Pizza Franchise Opportunities Available">
+      <TargetSentence>Visit Little Caesars &lt;b&gt;Pizza&lt;/b&gt; online to find a &lt;b&gt;pizza&lt;/b&gt; store nearest you. See our menu,   order a carry out and learn more about franchise opportunities.</TargetSentence>
+    </pizza.n.6>
+    <pizza.n.7 url="http://www.giordanos.com/" title="Giordanos Famous Chicago Style Pizza">
+      <TargetSentence>Welcome to Giordano&amp;#39;s &lt;b&gt;Pizza&lt;/b&gt;. The world&amp;#39;s most famous stuffed &lt;b&gt;pizza&lt;/b&gt;. We&amp;#39;re   stuffing America one pie at a time. Giordano&amp;#39;s &lt;b&gt;Pizza&lt;/b&gt; was chosen &amp;quot;Best &lt;b&gt;Pizza&lt;/b&gt; in &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </pizza.n.7>
+    <pizza.n.8 url="http://jetspizza.com/" title="Jet&amp;#39;s Pizza">
+      <TargetSentence>&lt;b&gt;Pizzas&lt;/b&gt;, submarines, salads, and wings with locations in Michigan, Florida, North   Carolina, Ohio, and Tennessee.</TargetSentence>
+    </pizza.n.8>
+    <pizza.n.9 url="http://hungryhowies.com/" title="Hungry Howie&amp;#39;s Pizza | Home of the Original Flavored Crust® Pizza">
+      <TargetSentence>United States. Menu, history, franchise information and shop locator provided.</TargetSentence>
+    </pizza.n.9>
+    <pizza.n.10 url="http://www.youtube.com/watch%3Fv%3DwusGIl3v044" title="Gimme Pizza Slow - YouTube">
+      <TargetSentence>Sep 22, 2010 &lt;b&gt;...&lt;/b&gt; Olsen Twins &lt;b&gt;Pizza&lt;/b&gt; song originally slowed down at the end of this video from http:/  /www.youtube.com/watch?v=FsJhfwbfMvU It took too long to &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </pizza.n.10>
+    <pizza.n.11 url="http://www.extremepizza.com/" title="Welcome to Extreme Pizza">
+      <TargetSentence>Gourmet &lt;b&gt;Pizzas&lt;/b&gt; (baked or take n bake), sandwiches, fresh salads and killer   wings with on-time hot delivery, pick up or eat in.</TargetSentence>
+    </pizza.n.11>
+    <pizza.n.12 url="http://marcos.com/" title="Welcome to Marco&amp;#39;s Pizza">
+      <TargetSentence>Ah!thentic Italian &lt;b&gt;Pizza&lt;/b&gt;. Find out why Marco&amp;#39;s &lt;b&gt;Pizza&lt;/b&gt; is America&amp;#39;s Fastest Growing   &lt;b&gt;Pizza&lt;/b&gt; Chain. Browse our Menu and Hot Deals Online. We&amp;#39;re Committed to &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </pizza.n.12>
+    <pizza.n.13 url="http://www.vocellipizza.com/" title="Vocelli Pizza - Your Neighborhood&amp;#39;s Quality Pizza">
+      <TargetSentence>Vocelli &lt;b&gt;Pizza&lt;/b&gt;. Starting with our hand-tossed dough, topped with our signature   sauce and fresh toppings we deliver Italy to your door.</TargetSentence>
+    </pizza.n.13>
+    <pizza.n.14 url="http://www.papamurphys.com/" title="Papa Murphy&amp;#39;s | Take &amp;#39;N&amp;#39; Bake Pizza">
+      <TargetSentence>Papa Murphy&amp;#39;s &lt;b&gt;pizza&lt;/b&gt; is made fresh right before your eyes before you take it home   and bake it in your oven so it&amp;#39;s always piping hot when you want it.</TargetSentence>
+    </pizza.n.14>
+    <pizza.n.15 url="http://www.simplyrecipes.com/recipes/homemade_pizza/" title="Homemade Pizza Recipe | Simply Recipes">
+      <TargetSentence>Jan 8, 2007 &lt;b&gt;...&lt;/b&gt; Classic homemade &lt;b&gt;pizza&lt;/b&gt; recipe, including &lt;b&gt;pizza&lt;/b&gt; dough and toppings, step-by-  step instructions with photos. Make perfect &lt;b&gt;pizza&lt;/b&gt; at home!</TargetSentence>
+    </pizza.n.15>
+    <pizza.n.16 url="http://www.toppers.com/" title="Welcome to Toppers Pizza - Toppers">
+      <TargetSentence>Welcome to Toppers &lt;b&gt;Pizza&lt;/b&gt; You must be hungry and/or craving for the best &lt;b&gt;pizza&lt;/b&gt;,   quesadillas, Topperstix perhaps a big sausage &lt;b&gt;pizza&lt;/b&gt;, or cheese &lt;b&gt;pizza&lt;/b&gt; or &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </pizza.n.16>
+    <pizza.n.17 url="http://en.wikipedia.org/wiki/Chicago-style_pizza" title="Chicago-style pizza - Wikipedia, the free encyclopedia">
+      <TargetSentence>Chicago-style &lt;b&gt;pizza&lt;/b&gt; or pie typically refers to a deep-dish &lt;b&gt;pizza&lt;/b&gt; style developed in   Chicago, United States. Chicago-style &lt;b&gt;pizza&lt;/b&gt; has a crust up to three inches tall &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </pizza.n.17>
+    <pizza.n.18 url="http://slice.seriouseats.com/" title="Slice - America&amp;#39;s Favorite Pizza Weblog!">
+      <TargetSentence>18 hours ago &lt;b&gt;...&lt;/b&gt; Slice is a weblog about America&amp;#39;s favorite crusty, saucy, cheesy meal—&lt;b&gt;pizza&lt;/b&gt;. We&amp;#39;  re Big Apple–based, with a special affinity for New York–style &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </pizza.n.18>
+    <pizza.n.19 url="http://www.roundtablepizza.com/" title="Round Table Pizza | Home">
+      <TargetSentence>Employee-owned, with franchise locations in western United States, Asia and the   Middle East. Describes specialty &lt;b&gt;pizzas&lt;/b&gt; and sandwiches, with topping list.</TargetSentence>
+    </pizza.n.19>
+    <pizza.n.20 url="http://www.cottageinn.com/" title="Cottage Inn | Pizza">
+      <TargetSentence>&lt;b&gt;Pizza&lt;/b&gt; and Pop. Don&amp;#39;t forget to add pop to any &lt;b&gt;pizza&lt;/b&gt; dish! Classic &lt;b&gt;Pizzas&lt;/b&gt;. Enjoy   the best &lt;b&gt;pizza&lt;/b&gt; around! We got Subs! Enjoy one of our amazing fresh subs today.</TargetSentence>
+    </pizza.n.20>
+    <pizza.n.21 url="http://www.loumalnatis.com/" title="Lou Malnati&amp;#39;s Pizzeria - Chicago-Style Deep Dish Pizza">
+      <TargetSentence>Lou Malnati&amp;#39;s authentic Chicago-style deep dish &lt;b&gt;pizza&lt;/b&gt; by mail anywhere in the   USA. Call 1-800-LOU-TO-GO for Priority &lt;b&gt;Pizza&lt;/b&gt;, other Chicago tastes.</TargetSentence>
+    </pizza.n.21>
+    <pizza.n.22 url="http://www.zacharys.com/" title="Zachary&amp;#39;s Chicago Pizza San Francisco area Oakland Berkeley San ...">
+      <TargetSentence>Zachary&amp;#39;s Chicago &lt;b&gt;Pizza&lt;/b&gt; San Francisco Area stuffed, deep dish and thin crust   &lt;b&gt;pizza&lt;/b&gt;, 150 best &lt;b&gt;pizza&lt;/b&gt; awards, Oakland, Berkeley, San Ramon, California.</TargetSentence>
+    </pizza.n.22>
+    <pizza.n.23 url="http://www.monicalspizza.com/" title="Monical&amp;#39;s Pizza Restaurant | Home of the Family Pleaser®">
+      <TargetSentence>Illinois, Indiana, and Wisconsin chain. Provides company information, locations   and sample menu.</TargetSentence>
+    </pizza.n.23>
+    <pizza.n.24 url="http://www.austinspizza.com/" title="Austin&amp;#39;s Pizza: Austin, TX Pizza Delivery, Catering and Pizzeria">
+      <TargetSentence>Call 512-795-8888 to order. Voted Best &lt;b&gt;Pizza&lt;/b&gt; and Best Delivery by Austin   Chronicle readers. Austin s &lt;b&gt;Pizza&lt;/b&gt; has been a local favorite for over 10 years.</TargetSentence>
+    </pizza.n.24>
+    <pizza.n.25 url="http://imospizza.com/" title="Imo&amp;#39;s Pizza | The Square Beyond Compare">
+      <TargetSentence>Imo&amp;#39;s has been a St. Louis tradition for the delicious taste – the thin, crunchy crust  , the homemade sauce, the tangy provel® cheese and plenty of fresh toppings &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </pizza.n.25>
+    <pizza.n.26 url="http://mountainmikes.com/" title="Mountain Mike&amp;#39;s Pizza - Order Pizza Online - Dine-In, Delivery ...">
+      <TargetSentence>The best &lt;b&gt;pizza&lt;/b&gt; in the West! Join Mike&amp;#39;s Coupon Club for deals and exclusive   offers. Over 130 locations in California, Oregon, Nevada and Utah.</TargetSentence>
+    </pizza.n.26>
+    <pizza.n.27 url="http://en.wikipedia.org/wiki/New_York-style_pizza" title="New York-style pizza - Wikipedia, the free encyclopedia">
+      <TargetSentence>New York-style &lt;b&gt;pizza&lt;/b&gt; originated in New York City in the early 1900s, and in 1905,   the first &lt;b&gt;pizza&lt;/b&gt; establishment in the United States was opened in New York&amp;#39;s &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </pizza.n.27>
+    <pizza.n.28 url="http://www.sals-pizza.com/" title="Sal&amp;#39;s Pizza - Order the Best Italian Pizza - Restaurants Near You">
+      <TargetSentence>Welcome to Sal&amp;#39;s &lt;b&gt;Pizza&lt;/b&gt;, home of the best Italian &lt;b&gt;pizza&lt;/b&gt; made from fresh   ingredients. Our menu serves quality &lt;b&gt;pizza&lt;/b&gt; at low cost. Visit one of our local   restaurants.</TargetSentence>
+    </pizza.n.28>
+    <pizza.n.29 url="http://www.pizzaranch.com/" title="Home of Legendary Pizza, Chicken, Salad, and Buffet | Pizza Ranch">
+      <TargetSentence>Saddle up the family and head out to &lt;b&gt;Pizza&lt;/b&gt; Ranch for lunch or dinner. Our menu   includes &lt;b&gt;pizza&lt;/b&gt;, The Country&amp;#39;s Best Chicken, and a full buffet. Lets Ride!</TargetSentence>
+    </pizza.n.29>
+    <pizza.n.30 url="http://www.deweyspizza.com/" title="Neighborhood Pizza Place - Local Beer | Dewey&amp;#39;s Pizza">
+      <TargetSentence>Dewey&amp;#39;s &lt;b&gt;Pizza&lt;/b&gt; is a hip, inviting neighborhood &lt;b&gt;pizza&lt;/b&gt; place focused on making   great &lt;b&gt;pizza&lt;/b&gt;, offering great beer and providing a fun atmosphere with great music.</TargetSentence>
+    </pizza.n.30>
+    <pizza.n.31 url="http://aureliospizza.com/" title="Welcome to Aurelio&amp;#39;s Pizza">
+      <TargetSentence>US chain primarily in the Midwest. Includes franchise information and locations,   and menu.</TargetSentence>
+    </pizza.n.31>
+    <pizza.n.32 url="http://www.aclu.org/ordering-pizza" title="Ordering Pizza | American Civil Liberties Union">
+      <TargetSentence>Voices by Jason Stiles and Melissa Schwartz Download Flash. Government   programs and private-sector data collection are destroying our privacy, pushing   us &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </pizza.n.32>
+    <pizza.n.33 url="http://pizzaluce.com/" title="Minnesota&amp;#39;s Best Pizza - Pizza Luce">
+      <TargetSentence>Handmade gourmet &lt;b&gt;pizza&lt;/b&gt; made from fresh ingredients. Vegan, Vegetarian and   Gluten Free options. Free Delivery and online ordering in Minneapolis, St. Paul, &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </pizza.n.33>
+    <pizza.n.34 url="http://www.godfathers.com/" title="Godfather&amp;#39;s Pizza-A Pizza You Can&amp;#39;t Refuse">
+      <TargetSentence>Godfather&amp;#39;s &lt;b&gt;Pizza&lt;/b&gt; has mastered the art of making delicious &lt;b&gt;pizza&lt;/b&gt; pies piled high   with your favorite toppings on our thick, rich, original crust.</TargetSentence>
+    </pizza.n.34>
+    <pizza.n.35 url="http://starpizza.net/" title="Star Pizza | Houston">
+      <TargetSentence>All of our &lt;b&gt;pizzas&lt;/b&gt; are made to order, using only the finest, freshest ingredients: The   &lt;b&gt;pizza&lt;/b&gt; sauce is made from scratch with our own special blend of herbs and &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </pizza.n.35>
+    <pizza.n.36 url="http://www.blackjackpizza.com/" title="Blackjack Pizza: Better Pizza. Better Price.">
+      <TargetSentence>Offers &lt;b&gt;pizza&lt;/b&gt; for delivery or carry out. Includes locations, menus, and coupons.</TargetSentence>
+    </pizza.n.36>
+    <pizza.n.37 url="http://pizza.dominos.com/" title="Pizza Delivery from Domino&amp;#39;s - Pizza Coupons, Reviews, and More">
+      <TargetSentence>Order online at Domino&amp;#39;s for &lt;b&gt;pizza&lt;/b&gt; delivery in a snap. Browse coupons, read   reviews, and let us know how we&amp;#39;re doing.</TargetSentence>
+    </pizza.n.37>
+    <pizza.n.38 url="http://www.firstpizza.com/" title="Lombardi&amp;#39;s Pizza">
+      <TargetSentence>In 1897 an Italian immigrant reinvented a Napoletana staple food into one of the   worlds most eaten foods. New York City was the birth place of New York style &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </pizza.n.38>
+    <pizza.n.39 url="http://www.pizzainn.com/" title="Pizza Inn - Our Buffet, Made Your Way">
+      <TargetSentence>Visit &lt;b&gt;Pizza&lt;/b&gt; Inn online to see our &lt;b&gt;pizza&lt;/b&gt; buffet menu, order carryout or delivery, find   a &lt;b&gt;Pizza&lt;/b&gt; Inn location and learn about franchise opportunities.</TargetSentence>
+    </pizza.n.39>
+    <pizza.n.40 url="http://cicispizza.com/" title="CiCi&amp;#39;s Pizza Buffet dine-in for a custom pizza buffet or carry-out">
+      <TargetSentence>Visit a CiCi&amp;#39;s Pizzza restaurant near you for fresh &lt;b&gt;pizza&lt;/b&gt;, pasta, salads and   desserts, or pick up your favorites and go home a hero. CiCi&amp;#39;s &lt;b&gt;Pizza&lt;/b&gt; Buffet makes   it &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </pizza.n.40>
+    <pizza.n.41 url="http://www.flippinpizza.com/" title="HOME Flippin&amp;#39; Pizza">
+      <TargetSentence>MENU · LOCATIONS · ORDER ONLINE · DOUGH CLUB · FOOD QUALITY ·   FUNDRAISERS · FRANCHISING · CONTACT US &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </pizza.n.41>
+    <pizza.n.42 url="http://www.buddyspizza.com/" title="Buddy&amp;#39;s Restaurant Pizzeria - Detroit&amp;#39;s #1 Square Pizza Since 1946">
+      <TargetSentence>Take Buddy&amp;#39;s home with you! Be sure to visit our online store at http://shop.  buddyspizza.com/ and bring Buddy&amp;#39;s to wherever you are. Currently we ship   shirts &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </pizza.n.42>
+    <pizza.n.43 url="http://www.chanellospizza.com/" title="Chanello&amp;#39;s Pizza">
+      <TargetSentence>Chanello&amp;#39;s &lt;b&gt;Pizza&lt;/b&gt; is a Virginia favorite for delicious &lt;b&gt;pizzas&lt;/b&gt;, subs, and wings. Order   online or call us for delivery.</TargetSentence>
+    </pizza.n.43>
+    <pizza.n.44 url="http://www.ledopizza.com/" title="Ledo Pizza">
+      <TargetSentence>Since 1955. - Square &amp;#39;Cause Ledo &lt;b&gt;Pizza&lt;/b&gt; Never Cuts corners!</TargetSentence>
+    </pizza.n.44>
+    <pizza.n.45 url="http://www.minskys.com/" title="Minskys Pizza">
+      <TargetSentence>Full-service restaurants serving special style &lt;b&gt;pizzas&lt;/b&gt;, sandwiches and calzones.</TargetSentence>
+    </pizza.n.45>
+    <pizza.n.46 url="http://www.pagliacci.com/" title="Pagliacci Pizza - Seattle Area Pizzeria and Delivery - Home">
+      <TargetSentence>Pagliacci &lt;b&gt;Pizza&lt;/b&gt;, serving Seattle&amp;#39;s Best &lt;b&gt;pizza&lt;/b&gt; since 1979.</TargetSentence>
+    </pizza.n.46>
+    <pizza.n.47 url="http://en.wikipedia.org/wiki/History_of_pizza" title="History of pizza - Wikipedia, the free encyclopedia">
+      <TargetSentence>This article entails the history of &lt;b&gt;pizza&lt;/b&gt;. Although the word &amp;quot;&lt;b&gt;pizza&lt;/b&gt;&amp;quot; was   documented the first time in 977 in Gaeta and successively in different parts of   Central and &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </pizza.n.47>
+    <pizza.n.48 url="http://www.scottspizzatours.com/" title="Scott&amp;#39;s Pizza Tours | New York City Guided Pizza Tasting ...">
+      <TargetSentence>Scott&amp;#39;s &lt;b&gt;Pizza&lt;/b&gt; Tours - Discover the Secrets of Real NYC &lt;b&gt;Pizza&lt;/b&gt;! Tour By Foot · Tour   By Bus · As Seen on FOX, NBC, AM New York, and New York Daily News!</TargetSentence>
+    </pizza.n.48>
+    <pizza.n.49 url="http://www.gumbyspizza.com/" title="Gumby&amp;#39;s Pizza And Wings">
+      <TargetSentence>Order Gumby&amp;#39;s &lt;b&gt;Pizza&lt;/b&gt; or Pokey Stix for pickup or delivery. Open late night.</TargetSentence>
+    </pizza.n.49>
+    <pizza.n.50 url="http://www.mammamiapizzabeer.com/main.php" title="Tom Seefurth&amp;#39;s Mamma Mia Pizza Beer">
+      <TargetSentence>&amp;quot;&lt;b&gt;Pizza&lt;/b&gt; Beer&amp;quot; was developed Labor Day, 2006 by Tom and Athena Seefurth in our   home brewery in Campton Township, IL. It all started with a surplus of &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </pizza.n.50>
+    <pizza.n.51 url="http://www.westshorepizza.com/" title="Order Online for Pizza Delivery-Tampa, FL-Westshore Pizza">
+      <TargetSentence>Order &lt;b&gt;Pizza&lt;/b&gt; Online - Fast Delivery. We have the freshest &lt;b&gt;Pizza&lt;/b&gt;, Cheesesteaks,   Pasta and Sandwiches. Check our special deals and coupons.</TargetSentence>
+    </pizza.n.51>
+    <pizza.n.52 url="http://www.rosatispizza.com/" title="Rosati&amp;#39;s Pizza | Authentic Chicago Style Pizza and Italian Food ...">
+      <TargetSentence>Made from Rosati&amp;#39;s Family recipes with fresh ingredients passed down through   generations – you can taste the tradition of authentic Italian Flavor in every bite.</TargetSentence>
+    </pizza.n.52>
+    <pizza.n.53 url="http://www.thedailyshow.com/watch/wed-june-1-2011/me-lover-s-pizza-with-crazy-broad" title="Me Lover&amp;#39;s Pizza with Crazy Broad - The Daily Show with Jon Stewart">
+      <TargetSentence>Jun 1, 2011 &lt;b&gt;...&lt;/b&gt; Donald Trump takes Sarah Palin to a &lt;b&gt;pizza&lt;/b&gt; chain and eats his stacked slices with   a fork. Airdate - 06/01/11.</TargetSentence>
+    </pizza.n.53>
+    <pizza.n.54 url="http://www.alfyspizza.com/" title="ALFY&amp;#39;S - Voted Best Pizza and Salad Bar">
+      <TargetSentence>Alfy&amp;#39;s True Italian Dining: classic &lt;b&gt;pizzas&lt;/b&gt;, pasta, sandwiches, soups, salads and   desserts.</TargetSentence>
+    </pizza.n.54>
+    <pizza.n.55 url="http://lillyspizza.com/" title="Lilly&amp;#39;s Pizza | Historic Five Points in Raleigh, NC and Downtown ...">
+      <TargetSentence>In 1993, three ambitious musicians opened a delivery/carryout-only &lt;b&gt;pizza&lt;/b&gt; joint in   the empty space of a former biker bar. The founders called their delicious &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </pizza.n.55>
+    <pizza.n.56 url="http://www.pizzahouse.com/" title="Pizza House – Home Page – Pizzeria Bar and Grill in Ann Arbor and ...">
+      <TargetSentence>Pizzeria Bar and Grill with award winning dining in, delivery and catering   services. Restaurant locations in Ann Arbor and East Lansing, Michigan.</TargetSentence>
+    </pizza.n.56>
+    <pizza.n.57 url="http://beej.us/pizza/" title="The Internet Pizza Server Home Page">
+      <TargetSentence>Something good for your nerve endings™, since 1994. You are visitor number:   2347005. * The &lt;b&gt;Pizza&lt;/b&gt; Server Ordering Area. * Order and view a &lt;b&gt;pizza&lt;/b&gt; over the &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </pizza.n.57>
+    <pizza.n.58 url="http://mannyandolgas.com/" title="Pizza Delivery Washington DC: Best Pizza in MD | Manny &amp;amp; Olgas">
+      <TargetSentence>Get Washington DC and Marylands best &lt;b&gt;pizza&lt;/b&gt; delivered to your door. Manny &amp;amp;   Olgas delivers the &lt;b&gt;pizza&lt;/b&gt;, wings, subs, desserts and more. Order now by phone or &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </pizza.n.58>
+    <pizza.n.59 url="http://pizzafusion.com/" title="Pizza Fusion - Home">
+      <TargetSentence>&lt;b&gt;pizza&lt;/b&gt; fusion, &lt;b&gt;pizza&lt;/b&gt;, organic &lt;b&gt;pizza&lt;/b&gt;, &lt;b&gt;pizza&lt;/b&gt; franchise, organic &lt;b&gt;pizza&lt;/b&gt; franchise,   organic franchise, gourmet &lt;b&gt;pizza&lt;/b&gt;, organic food, organic restaurant, organic,   franchise, &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </pizza.n.59>
+    <pizza.n.60 url="http://www.pizzapatron.com/" title="Pizza Patrón">
+      <TargetSentence>Visit &lt;b&gt;Pizza&lt;/b&gt; Patrón today and enjoy your favorite &lt;b&gt;pizzas&lt;/b&gt; and sides at unbeatable   everyday values. Grab your slice of the Latin life. Latin Life, Enjoy!</TargetSentence>
+    </pizza.n.60>
+    <pizza.n.61 url="http://www.facebook.com/PizzaHut" title="Pizza Hut | Facebook">
+      <TargetSentence>&lt;b&gt;Pizza&lt;/b&gt; Hut. 8622476 likes · 134313 talking about this.</TargetSentence>
+    </pizza.n.61>
+    <pizza.n.62 url="http://www.ianspizza.com/" title="Ians Pizza">
+      <TargetSentence>Pizzeria also offers pie by the slice. Includes menu, delivery map and business   hours.</TargetSentence>
+    </pizza.n.62>
+    <pizza.n.63 url="http://www.benitospizza.com/" title="Benito&amp;#39;s Pizza">
+      <TargetSentence>Benito&amp;#39;s &lt;b&gt;Pizza&lt;/b&gt; · HOME · MENU · CATERING · COUPONS · LOCATIONS · NEWS ·   CONTACT US. New Online Ordering Click Location To Order Ypsilanti Online &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </pizza.n.63>
+    <pizza.n.64 url="http://www.zpizza.com/" title="zpizza: the pure pizza revolution">
+      <TargetSentence>zpizza offers affordable, healthy, artisan &lt;b&gt;pizzas&lt;/b&gt;, rusticas, pastas, calzones,   sandwiches and salads, and the opportunity to create personalized &lt;b&gt;pizzas&lt;/b&gt; with a &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </pizza.n.64>
+  </pizza.n.test>
+</dataSet>

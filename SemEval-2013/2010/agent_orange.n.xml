@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataSet authors="Roberto Navigli, Daniele Vannella" task="SemeVal 2013 task 11" lang="en">
+  <agent_orange.n.test>
+    <agent_orange.n.1 url="http://en.wikipedia.org/wiki/Agent_Orange" title="Agent Orange - Wikipedia, the free encyclopedia">
+      <TargetSentence>&lt;b&gt;Agent Orange&lt;/b&gt; is the combination of the code names for Herbicide Orange (HO)   and Agent LNX, one of the herbicides and defoliants used by the U.S. military as &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </agent_orange.n.1>
+    <agent_orange.n.2 url="http://www.publichealth.va.gov/exposures/agentorange/" title="Agent Orange - Public Health">
+      <TargetSentence>Nov 13, 2012 &lt;b&gt;...&lt;/b&gt; This is the home page of VA&amp;#39;s &lt;b&gt;Agent Orange&lt;/b&gt; Web site with links to information on   &lt;b&gt;Agent Orange&lt;/b&gt; exposure, VA benefits, health care and more.</TargetSentence>
+    </agent_orange.n.2>
+    <agent_orange.n.3 url="http://www.cancer.org/cancer/cancercauses/othercarcinogens/intheworkplace/agent-orange-and-cancer" title="Agent Orange and Cancer">
+      <TargetSentence>Jun 25, 2010 &lt;b&gt;...&lt;/b&gt; During the Vietnam War, the US military used large amounts of mixtures known   as defoliants, which were chemicals that caused the leaves to &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </agent_orange.n.3>
+    <agent_orange.n.4 url="http://www.youtube.com/watch%3Fv%3DGJxb7CY13uc" title="Agent Orange - Vietnam - YouTube">
+      <TargetSentence>Jan 21, 2008 &lt;b&gt;...&lt;/b&gt; July 2004 The use of &lt;b&gt;Agent Orange&lt;/b&gt; during the Vietnam War means that for many   the war never ended. They&amp;#39;re still suffering the effects of &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </agent_orange.n.4>
+    <agent_orange.n.5 url="http://www.military.com/benefits/veterans-health-care/agent-orange.html" title="Agent Orange | Military.com">
+      <TargetSentence>If you are veteran who has had exposure to &lt;b&gt;Agent Orange&lt;/b&gt; you are eligible for   free comprehensive medical examinations including laboratory and other &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </agent_orange.n.5>
+    <agent_orange.n.6 url="http://www.facebook.com/pages/Agent-Orange/118654851533835" title="Agent Orange | Facebook">
+      <TargetSentence>&lt;b&gt;Agent Orange&lt;/b&gt;, Orange, CA. 4766 likes · 151 talking about this.</TargetSentence>
+    </agent_orange.n.6>
+    <agent_orange.n.7 url="http://makeagentorangehistory.org/" title="Make Agent Orange History">
+      <TargetSentence>America is at its best when it responds to humanitarian concerns and works to   promote hope among people in need. We have an opportunity to do this in &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </agent_orange.n.7>
+    <agent_orange.n.8 url="http://us.myspace.com/agentorange" title="AGENT ORANGE | Free Music, Tour Dates, Photos, Videos">
+      <TargetSentence>&lt;b&gt;AGENT ORANGE&amp;#39;s&lt;/b&gt; official profile including the latest music, albums, songs,   music videos and more updates.</TargetSentence>
+    </agent_orange.n.8>
+    <agent_orange.n.9 url="http://www.history.com/topics/agent-orange" title="Agent Orange — History.com Articles, Video, Pictures and Facts">
+      <TargetSentence>During the Vietnam War, U.S. forces used powerful herbicides like &lt;b&gt;Agent Orange&lt;/b&gt;   to deprive enemy troops of foliage cover.</TargetSentence>
+    </agent_orange.n.9>
+    <agent_orange.n.10 url="http://www.vn-agentorange.org/" title="Vietnam Agent Orange Relief &amp;amp; Responsibility Campaign">
+      <TargetSentence>51 seconds of silence to reflect upon 51 years of spraying &lt;b&gt;Agent Orange&lt;/b&gt; and 51   years of suffering of the victims in Vietnam, the U.S. and around the world from &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </agent_orange.n.10>
+    <agent_orange.n.11 url="http://www.organicconsumers.org/monsanto/agentorange032102.cfm" title="Monsanto&amp;#39;s Agent Orange: The Persistent Ghost from the Vietnam War">
+      <TargetSentence>&lt;b&gt;agent orange&lt;/b&gt;, the issue that wont go away. &lt;b&gt;...&lt;/b&gt; A 1969 report commissioned by the   USDA found &lt;b&gt;Agent Orange&lt;/b&gt; showed a &amp;quot;significant potential to increase birth &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </agent_orange.n.11>
+    <agent_orange.n.12 url="http://www.iom.edu/Reports/2011/Veterans-and-Agent-Orange-Update-2010.aspx" title="Veterans and Agent Orange: Update 2010 - Institute of Medicine">
+      <TargetSentence>Sep 29, 2011 &lt;b&gt;...&lt;/b&gt; Because of continuing uncertainty about the long-term health effects of the   sprayed herbicides on Vietnam veterans, Congress passed the &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </agent_orange.n.12>
+    <agent_orange.n.13 url="http://www.ffrd.org/agentorange.htm" title="Agent Orange">
+      <TargetSentence>Information about the history of the use of the dioxin contaminted herbicide &lt;b&gt;Agent&lt;/b&gt;   &lt;b&gt;Orange&lt;/b&gt; during the war in Vietnam and its ongoing health and environmetnal &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </agent_orange.n.13>
+    <agent_orange.n.14 url="http://www.chicagotribune.com/health/agentorange/" title="Agent Orange - chicagotribune.com">
+      <TargetSentence>A lethal legacy: Poisonous defoliants still extract toll in U.S. and Vietnam.</TargetSentence>
+    </agent_orange.n.14>
+    <agent_orange.n.15 url="http://www.leafly.com/hybrid/agent-orange" title="Agent Orange Marijuana Reviews - Leafly">
+      <TargetSentence>An orange-smelling strain that has a citrus aftertaste. Uplifting and almost trippy   high can be experienced from this strain of cannabis.</TargetSentence>
+    </agent_orange.n.15>
+    <agent_orange.n.16 url="http://www.agentorangerecord.com/" title="Agent Orange Record">
+      <TargetSentence>The chemical was &lt;b&gt;Agent Orange&lt;/b&gt;, the occasion was the war in Vietnam, the time   was 1961-71, and the country was South Vietnam. Some 12 million gallons of &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </agent_orange.n.16>
+    <agent_orange.n.17 url="http://en.wikipedia.org/wiki/Agent_Orange_(band)" title="Agent Orange (band) - Wikipedia, the free encyclopedia">
+      <TargetSentence>&lt;b&gt;Agent Orange&lt;/b&gt; is an American punk rock band formed in Orange County,   California in 1979. The band is one of the first to mix punk rock with surf music.   They first &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </agent_orange.n.17>
+    <agent_orange.n.18 url="http://theweek.com/article/index/232816/agent-oranges-shameful-legacy" title="Agent Orange&amp;#39;s shameful legacy - The Week">
+      <TargetSentence>Sep 7, 2012 &lt;b&gt;...&lt;/b&gt; Four decades after the Vietnam War ended, the U.S. government is finally   cleaning up the toxic mess it left behind.</TargetSentence>
+    </agent_orange.n.18>
+    <agent_orange.n.19 url="http://www.monsanto.com/newsviews/Pages/agent-orange-background-monsanto-involvement.aspx" title="Monsanto ~ Agent Orange: Background on Monsanto&amp;#39;s Involvement">
+      <TargetSentence>One of the legacies of the Vietnam War is &lt;b&gt;Agent Orange&lt;/b&gt;, where questions remain   nearly 40 years later.</TargetSentence>
+    </agent_orange.n.19>
+    <agent_orange.n.20 url="http://www.last.fm/music/Agent%2BOrange" title="Agent Orange – Free listening, concerts, stats, &amp;amp; pictures at Last.fm">
+      <TargetSentence>Watch videos &amp;amp; listen free to &lt;b&gt;Agent Orange&lt;/b&gt;: Bloodstains, Everything Turns Grey &amp;amp;   more, plus 17 pictures. There are at least 5 bands called &lt;b&gt;Agent Orange&lt;/b&gt;, two of &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </agent_orange.n.20>
+    <agent_orange.n.21 url="http://www.cnn.com/2012/08/10/world/asia/vietnam-us-agent-orange/index.html" title="U.S. in first effort to clean up Agent Orange in Vietnam - CNN.com">
+      <TargetSentence>Aug 10, 2012 &lt;b&gt;...&lt;/b&gt; The United States has pitched in for the first time to clean up the toxic legacy left   by the &lt;b&gt;Agent Orange&lt;/b&gt; that it dumped on Vietnam.</TargetSentence>
+    </agent_orange.n.21>
+    <agent_orange.n.22 url="http://www.usvetdsp.com/agentorange.htm" title="Agent Orange">
+      <TargetSentence>&lt;b&gt;Agent Orange&lt;/b&gt; had its genesis as a defoliant in an obscure laboratory at the   University of Chicago during World War II. Working on experimental plant growth   at &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </agent_orange.n.22>
+    <agent_orange.n.23 url="http://www.nytimes.com/2012/08/10/world/asia/us-moves-to-address-agent-orange-contamination-in-vietnam.html%3Fpagewanted%3Dall" title="4 Decades On, US Starts Cleanup Of Agent Orange in Vietnam.">
+      <TargetSentence>Aug 9, 2012 &lt;b&gt;...&lt;/b&gt; A four-year, $43 million program is being welcomed in Vietnam, but many people   say the effort is too little and too late.</TargetSentence>
+    </agent_orange.n.23>
+    <agent_orange.n.24 url="http://www.vva.org/Guides/AgentOrangeGuide.pdf" title="Agent Orange - Vietnam Veterans of America">
+      <TargetSentence>Is Presumptive Service-connected &lt;b&gt;Agent Orange&lt;/b&gt; Disability Compensation &lt;b&gt;...&lt;/b&gt;   &lt;b&gt;Agent Orange&lt;/b&gt; is a highly toxic herbicide used by the u.S. military during the &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </agent_orange.n.24>
+    <agent_orange.n.25 url="http://www.history.com/topics/agent-orange" title="Agent Orange — History.com Articles, Video, Pictures and Facts">
+      <TargetSentence>During the Vietnam War, U.S. forces used powerful herbicides like &lt;b&gt;Agent Orange&lt;/b&gt;   to deprive enemy troops of foliage cover.</TargetSentence>
+    </agent_orange.n.25>
+    <agent_orange.n.26 url="http://www.nytimes.com/2012/08/10/world/asia/us-moves-to-address-agent-orange-contamination-in-vietnam.html%3Fpagewanted%3Dall" title="4 Decades On, US Starts Cleanup Of Agent Orange in Vietnam.">
+      <TargetSentence>Aug 9, 2012 &lt;b&gt;...&lt;/b&gt; A four-year, $43 million program is being welcomed in Vietnam, but many people   say the effort is too little and too late.</TargetSentence>
+    </agent_orange.n.26>
+    <agent_orange.n.27 url="http://www.publichealth.va.gov/exposures/agentorange/diseases.asp" title="Veterans&amp;#39; Diseases Associated with Agent Orange - Public Health">
+      <TargetSentence>Oct 3, 2012 &lt;b&gt;...&lt;/b&gt; Information on diseases VA has recognized are related to Veterans&amp;#39; exposure to   &lt;b&gt;Agent Orange&lt;/b&gt; or other herbicides during military service.</TargetSentence>
+    </agent_orange.n.27>
+    <agent_orange.n.28 url="http://www.organicconsumers.org/monsanto/agentorange032102.cfm" title="Monsanto&amp;#39;s Agent Orange: The Persistent Ghost from the Vietnam War">
+      <TargetSentence>&lt;b&gt;agent orange&lt;/b&gt;, the issue that wont go away. &lt;b&gt;...&lt;/b&gt; A 1969 report commissioned by the   USDA found &lt;b&gt;Agent Orange&lt;/b&gt; showed a &amp;quot;significant potential to increase birth &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </agent_orange.n.28>
+    <agent_orange.n.29 url="http://www.organicconsumers.org/articles/article_24592.cfm" title="Stop Agent Orange Corn!">
+      <TargetSentence>Stop &lt;b&gt;Agent Orange&lt;/b&gt; Corn! &lt;b&gt;...&lt;/b&gt; Stop &lt;b&gt;Agent Orange&lt;/b&gt; Corn! For more information on   this topic or related issues you can search the thousands of archived articles on &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </agent_orange.n.29>
+    <agent_orange.n.30 url="http://truth-out.org/opinion/item/10729-the-toxic-effects-of-agent-orange-persist-51-years-after-the-vietnam-war" title="The Toxic Effects of Agent Orange Persist 51 Years After ... - Truthout">
+      <TargetSentence>Aug 7, 2012 &lt;b&gt;...&lt;/b&gt; Second and third generations of children, born to parents exposed during the war   and in areas of heavy spraying hot spots, suffer unspeakable &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </agent_orange.n.30>
+    <agent_orange.n.31 url="http://www.thefreedictionary.com/Agent%2BOrange" title="Agent Orange - The Free Dictionary">
+      <TargetSentence>A herbicide containing trace amounts of the toxic contaminant dioxin that was   used in the Vietnam War to defoliate areas of forest.</TargetSentence>
+    </agent_orange.n.31>
+    <agent_orange.n.32 url="http://www.veteranstoday.com/tag/agent-orange/" title="Agent Orange | Veterans Today">
+      <TargetSentence>The US government maintains their decades-old mantra that there is no   unequivocal scientific evidence that use of &lt;b&gt;Agent Orange&lt;/b&gt; has caused an   increase in &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </agent_orange.n.32>
+    <agent_orange.n.33 url="http://www.iom.edu/Reports/2011/Veterans-and-Agent-Orange-Update-2010.aspx" title="Veterans and Agent Orange: Update 2010 - Institute of Medicine">
+      <TargetSentence>Sep 29, 2011 &lt;b&gt;...&lt;/b&gt; Because of continuing uncertainty about the long-term health effects of the   sprayed herbicides on Vietnam veterans, Congress passed the &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </agent_orange.n.33>
+    <agent_orange.n.34 url="http://www.amazon.com/Agent-Orange-Collateral-Damage-Vietnam/dp/1904563058" title="Agent Orange: Collateral Damage in Vietnam: Philip Jones Griffiths ...">
+      <TargetSentence>Born in the Welsh town of Rhuddlan in 1936, Philip Jones Griffiths studied   pharmacy in Liverpool and practiced in London, while photographing part-time   for the &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </agent_orange.n.34>
+    <agent_orange.n.35 url="http://www.amazon.com/Agent-Orange-Trial-Disasters-Enlarged/dp/0674010264" title="Agent Orange on Trial: Mass Toxic Disasters in the Courts, Enlarged ...">
+      <TargetSentence>&lt;b&gt;Agent Orange&lt;/b&gt;, a defoliant contaminated by the highly toxic dioxin, has stirred   public interest on many levels. Schuck (Yale Law School) brilliantly tells the story   of &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </agent_orange.n.35>
+    <agent_orange.n.36 url="http://www.naturalnews.com/Agent_Orange.html" title="Agent Orange news, articles and information:">
+      <TargetSentence>12/27/2011 - A key chemical of one of the most horrifying elements of the   Vietnam War -- &lt;b&gt;Agent Orange&lt;/b&gt; -- may soon be unleashed on America&amp;#39;s farmlands.</TargetSentence>
+    </agent_orange.n.36>
+    <agent_orange.n.37 url="http://www.ffrd.org/agentorange.htm" title="Agent Orange">
+      <TargetSentence>Information about the history of the use of the dioxin contaminted herbicide &lt;b&gt;Agent&lt;/b&gt;   &lt;b&gt;Orange&lt;/b&gt; during the war in Vietnam and its ongoing health and environmetnal &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </agent_orange.n.37>
+    <agent_orange.n.38 url="http://www.benefits.va.gov/compensation/claims-postservice-questionnaire-claimherbicide.asp" title="Agent Orange - Veterans Benefits Administration - US Department of ...">
+      <TargetSentence>Oct 31, 2012 &lt;b&gt;...&lt;/b&gt; &lt;b&gt;Agent Orange&lt;/b&gt; - Herbicide Exposure New Presumptive Conditions (U.S.   Department of Veterans Affairs)</TargetSentence>
+    </agent_orange.n.38>
+    <agent_orange.n.39 url="http://www.dafont.com/agent-orange.font" title="Agent Orange Font | dafont.com">
+      <TargetSentence>&lt;b&gt;Agent Orange&lt;/b&gt;. Custom preview. Number per page. 10, 20, 50. fonts show   variants. Size. Tiny, Small, Medium, Large. Only fonts with accents. Euro. Sort by &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </agent_orange.n.39>
+    <agent_orange.n.40 url="http://www.nal.usda.gov/speccoll/findaids/agentorange/" title="&amp;quot;The Alvin L. Young Collection on Agent Orange&amp;quot;">
+      <TargetSentence>Table of contents for the Alvin L. Young Collection on &lt;b&gt;Agent Orange&lt;/b&gt;. Special   Collections of the National Agricultural Library (NAL) acquires, arranges,   describes, &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </agent_orange.n.40>
+    <agent_orange.n.41 url="http://www.diabetes.org/living-with-diabetes/complications/agent-orange-and-type-2-diabetes.html" title="Agent Orange and Type 2 Diabetes - American Diabetes Association">
+      <TargetSentence>Find out more about &lt;b&gt;Agent Orange&lt;/b&gt; and how it affects type 2 diabetes.</TargetSentence>
+    </agent_orange.n.41>
+    <agent_orange.n.42 url="http://agentorangelegacy.com/" title="Agent Orange Legacy">
+      <TargetSentence>&lt;b&gt;Agent Orange&lt;/b&gt; Legacy is fighting for the services, support and rights of the   children of Vietnam veterans exposed to &lt;b&gt;Agent Orange&lt;/b&gt; – Dioxin and their   families.</TargetSentence>
+    </agent_orange.n.42>
+    <agent_orange.n.43 url="http://www.dow.com/sustainability/debates/agentorange/" title="Agent Orange">
+      <TargetSentence>Aug 23, 2012 &lt;b&gt;...&lt;/b&gt; As a nation at war, the U.S. government compelled a number of companies to   produce &lt;b&gt;Agent Orange&lt;/b&gt; under the Defense Production Act.</TargetSentence>
+    </agent_orange.n.43>
+    <agent_orange.n.44 url="http://www.setlist.fm/setlists/agent-orange-6bd68e0a.html" title="Agent Orange Concert Setlists | setlist.fm">
+      <TargetSentence>Get &lt;b&gt;Agent Orange&lt;/b&gt; setlists - view them, share them, discuss &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </agent_orange.n.44>
+    <agent_orange.n.45 url="http://code.google.com/p/agent-orange/" title="agent-orange - Print Dubbing Cuesheets using Text Files - Google ...">
+      <TargetSentence>Groups; Discussion and Help. &amp;#39;&lt;b&gt;Agent Orange&lt;/b&gt;&amp;#39; is a ruby script, and associated   Mac OS X Cocoa wrapper application, that takes tab-delimited text files for input &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </agent_orange.n.45>
+    <agent_orange.n.46 url="http://www.drinksmixer.com/drink758.html" title="Agent Orange recipe">
+      <TargetSentence>A delicious recipe for &lt;b&gt;Agent Orange&lt;/b&gt;, with Yukon Jack® Canadian whisky, Jim   Beam® bourbon whiskey, apple schnapps, vodka, light rum, triple sec, grenadine &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </agent_orange.n.46>
+    <agent_orange.n.47 url="http://www.publichealth.va.gov/exposures/agentorange/conditions/ischemicheartdisease.asp" title="Ischemic Heart Disease and Agent Orange - Public Health">
+      <TargetSentence>Nov 23, 2012 &lt;b&gt;...&lt;/b&gt; Information on ischemic heart disease, a disease VA recognizes in Veterans as   associated with &lt;b&gt;Agent Orange&lt;/b&gt; exposure during military service.</TargetSentence>
+    </agent_orange.n.47>
+    <agent_orange.n.48 url="http://www.amazon.com/Waiting-Army-Die-Tragedy-Orange/dp/0932020682" title="Waiting for an Army to Die: The Tragedy of Agent Orange: Fred A ...">
+      <TargetSentence>First published in 1983, this volume received wide praise and made ALA&amp;#39;s most   notable list; it was &amp;quot;highly recommended&amp;quot; by LJ &amp;#39;s reviewer ( LJ 7/83). Despite &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </agent_orange.n.48>
+    <agent_orange.n.49 url="http://www.umass.edu/umpress/title/agent-orange" title="Agent Orange | University of Massachusetts Press">
+      <TargetSentence>Taking on what one former U.S. ambassador called “the last ghost of the Vietnam   War,” this book examines the far-reaching impact of &lt;b&gt;Agent Orange&lt;/b&gt;, the most &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </agent_orange.n.49>
+    <agent_orange.n.50 url="http://www.amazon.com/Agent-Orange-Sodom/dp/B000040OCP" title="Amazon.com: Agent Orange: Music">
+      <TargetSentence>&lt;b&gt;Agent Orange&lt;/b&gt; by Sodom on Amazon.com. FREE Super Saver Shipping on   orders over $25.</TargetSentence>
+    </agent_orange.n.50>
+    <agent_orange.n.51 url="http://www.britannica.com/EBchecked/topic/8993/Agent-Orange" title="Agent Orange (defoliant) -- Britannica Online Encyclopedia">
+      <TargetSentence>Mixture of herbicides that U.S. military forces sprayed in Vietnam from 1962 to   1971 during the Vietnam War for the dual purpose of defoliating forest areas that &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </agent_orange.n.51>
+    <agent_orange.n.52 url="http://digitaljournalist.org/issue0401/pjg_thumbs.html" title="Agent Orange: &amp;quot;Collateral Damage&amp;quot; - The Digital Journalist">
+      <TargetSentence>&lt;b&gt;Agent Orange&lt;/b&gt;: &amp;quot;Collateral Damage&amp;quot; in Viet Nam. Warning: This gallery contains   graphic images. Parental guidance is advised.</TargetSentence>
+    </agent_orange.n.52>
+    <agent_orange.n.53 url="http://www.hatfieldgroup.com/services/contaminantagentorange.aspx" title="Contaminant Monitoring/Agent Orange Services - Hatfield Consultants">
+      <TargetSentence>Hatfield is a world-recognized leader in the field of &lt;b&gt;Agent Orange&lt;/b&gt; contamination   resulting from historical spraying of dioxin-contaminated herbicide in Viet Nam.</TargetSentence>
+    </agent_orange.n.53>
+    <agent_orange.n.54 url="http://www.songkick.com/artists/140282-agent-orange" title="Agent Orange Tour Dates 2013 — Agent Orange Concert Dates and ...">
+      <TargetSentence>Find &lt;b&gt;Agent Orange&lt;/b&gt; live concert tour dates, tickets, reviews, and more on   Songkick. Be the first to know when &lt;b&gt;Agent Orange&lt;/b&gt; is playing live in your town!</TargetSentence>
+    </agent_orange.n.54>
+    <agent_orange.n.55 url="http://www.centerforfoodsafety.org/wp-content/uploads/2012/02/Agent_orange_corn_fact-sheet.pdf" title="SafetyFact Sheet - The Center for Food Safety">
+      <TargetSentence>main ingredients in &lt;b&gt;Agent Orange&lt;/b&gt;, the deadly chemical defoliant used by the U.S.   in the Vietnam War. The. U.S. Department of Agriculture. (USDA) is currently &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </agent_orange.n.55>
+    <agent_orange.n.56 url="http://trouserpress.com/bandpages/AGENT_ORANGE.html" title="TrouserPress.com :: Agent Orange">
+      <TargetSentence>Features commentary on the bands recorded output and a brief discography.</TargetSentence>
+    </agent_orange.n.56>
+    <agent_orange.n.57 url="http://www.publichealth.va.gov/exposures/agentorange/conditions/nonhodgkinslymphoma.asp" title="Non-Hodgkin&amp;#39;s Lymphoma and Agent Orange - Public Health">
+      <TargetSentence>Nov 21, 2012 &lt;b&gt;...&lt;/b&gt; Information on non-Hodgkin&amp;#39;s lymphoma , a disease VA recognizes in Veterans   as associated with &lt;b&gt;Agent Orange&lt;/b&gt; exposure during military &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </agent_orange.n.57>
+    <agent_orange.n.58 url="http://salsa3.salsalabs.com/o/1881/p/dia/action/public/%3Faction_KEY%3D6981" title="Tell USDA To Reject &amp;quot;Agent Orange&amp;quot; Corn">
+      <TargetSentence>&lt;b&gt;Agent Orange&lt;/b&gt; was the chemical defoliant used by the U.S. in Vietnam, and it   caused lasting ecological damage as well as many serious medical conditions in &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </agent_orange.n.58>
+    <agent_orange.n.59 url="http://www.jonmitchellinjapan.com/agent-orange-on-okinawa.html" title="agent orange on okinawa - jon mitchell">
+      <TargetSentence>The English-language version of Defoliated Island, an hour-long documentary   about the usage of &lt;b&gt;Agent Orange&lt;/b&gt; on Okinawa during the Vietnam War, is now &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </agent_orange.n.59>
+    <agent_orange.n.60 url="http://www.lyricsmode.com/lyrics/s/sodom/agent_orange.html" title="Sodom - Agent Orange Lyrics">
+      <TargetSentence>&lt;b&gt;Agent Orange&lt;/b&gt; is performed by Sodom - Get lyrics, music video &amp;amp; widget and read   meanings of this song here.</TargetSentence>
+    </agent_orange.n.60>
+    <agent_orange.n.61 url="http://americanradioworks.publicradio.org/features/vietnam/vnation/legacy.html" title="American RadioWorks - Revisiting Vietnam">
+      <TargetSentence>DURING THE VIETNAM WAR there, the United States sprayed the herbicide   &lt;b&gt;Agent Orange&lt;/b&gt; over thousands of square miles of jungles. The tropical canopy   was &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </agent_orange.n.61>
+    <agent_orange.n.62 url="http://agentorangefilmjohntrinh.ash.com/" title="Agent Orange: 30 Years Later">
+      <TargetSentence>(&amp;quot;A War No One Wins&amp;quot;). Written by JOHN TRINH to dedicate to all the victims of   &lt;b&gt;Agent Orange&lt;/b&gt;. Film Statement: “I object to violence because when it appears to &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </agent_orange.n.62>
+    <agent_orange.n.63 url="http://www.monsanto.com/newsviews/Pages/agent-orange-background-monsanto-involvement.aspx" title="Monsanto ~ Agent Orange: Background on Monsanto&amp;#39;s Involvement">
+      <TargetSentence>One of the legacies of the Vietnam War is &lt;b&gt;Agent Orange&lt;/b&gt;, where questions remain   nearly 40 years later.</TargetSentence>
+    </agent_orange.n.63>
+    <agent_orange.n.64 url="http://dictionary.infoplease.com/agent-orange" title="Agent Orange: meaning and definitions — Infoplease.com">
+      <TargetSentence>A&amp;#39;gent Or&amp;#39;ange. a powerful herbicide and defoliant containing trace amounts of   dioxin, a toxic impurity suspected of causing serious health problems, including &lt;b&gt;...&lt;/b&gt;</TargetSentence>
+    </agent_orange.n.64>
+  </agent_orange.n.test>
+</dataSet>

@@ -1,0 +1,770 @@
+ID	description
+1.1	Polaroid Corporation, a multinational consumer electronics and eyewear company, and former instant camera and film maker
+1.2	Instant film photographs are sometimes known as "Polaroids", after the company that invented and sold them originally
+1.3	Instant camera (or Land camera), sometimes known as a Polaroid camera after the company that invented the concept
+1.4	Polaroid Eyewear, eyewear based around glare-reducing polarized lenses made from the aforementioned Polaroid polarizer
+1.5	Polaroid (polarizer), a type of synthetic plastic sheet which is used to polarize light, developed by Polaroid Corporation
+1.6	Other
+1.7	Polaroid (album) Polaroid (album), a bootleg album by American band Phantom Planet
+2.1	A kangaroo is a large marsupial which is endemic to Australia.
+2.2	Kangaroo Express, the name of some of the convenience stores operated by the American convenience-store chain The Pantry
+2.3	Other
+2.4	Other Businesses
+2.5	Kangaroo (video game), a 1982 video game based on the marsupial.
+2.6	KangaROOS, an American brand of athletic shoe
+2.7	Mathematical Kangaroo, or International Mathematical Kangaroo, an annual international childrens mathematics competition
+2.8	Other Film
+2.9	Kangaroo (1986 film)|Kangaroo (1986 film), an Australian film based on the 1923 D.H. Lawrence novel Kangaroo
+2.10	Kangaroo (1952 film)|Kangaroo (1952 film), an American film directed by Lewis Milestone
+2.11	Kangaroo care, a way of holding a prematurely-born infant with skin-to-skin contact
+2.12	Other Cycling
+2.13	Kangaroo meat, the meat of any of the species of kangaroo
+2.14	Kangaroo (novel)|Kangaroo (novel), a 1923 novel by D. H. Lawrence
+2.15	Kangaroo (armoured personnel carrier), a Canadian-designed World War II armoured personnel carrier used by the United Kingdom and British Commonwealth forces
+2.16	Kangaroo court, a sham legal proceeding
+2.17	Kangaroo (comics), an enemy of Spider-Man in comics
+3.1	Shakira - a Colombian Latin pop/pop-rock singer
+3.2	Other
+4.1	Kawasaki motorcycles
+4.2	Kawasaki Heavy Industries, a Japanese maker of aerospace equipment, ATVs, engines, industrial plants, motorcycles, jet skis, ships, tractors, and trains
+4.3	Kawasaki disease, a vascular disease found primarily in young children
+4.4	Kawasaki, Kanagawa, Japanese city
+4.5	Other Business
+4.6	Kawasaki (surname), a Japanese surname
+4.7	Other
+5.1	Other
+5.2	Yellow is a color.
+5.3	Yellow (song) Yellow (song), a song by Coldplay
+5.4	Yellow, an upcoming 2012 film, starring Sienna Miller and Lucy Punch
+5.5	Other Books and comics
+5.6	Yellow River (disambiguation)
+5.7	Yellow Creek (disambiguation)
+5.8	PokÃ©mon Yellow version, the fourth - and final - installment in the first generation of PokÃ©mon games
+6.1	Strongman (strength athlete)
+6.2	Other
+6.3	Strongman (circus)
+6.4	Strongman (politics)
+6.5	Strongman Mine, a New Zealand coal-mine
+7.1	United States Department of Housing and Urban Development, a division of the U.S. federal government
+7.2	HUD (computing), the same method of visually representing information in computing.
+7.3	HUD (video gaming), a method of visually representing information in video games
+7.4	Hud (film) Hud (film), a 1963 film starring Paul Newman
+7.5	Head-up display, a visual display technology for airplanes, cars and others
+7.6	Hud (sura), the eleventh sura of the Quran, which contains an account of the prophet Hud
+8.1	Fandango (ticket service), a subsidiary of NBC Universal that sells movie tickets
+8.2	Fandango is a lively couples dance, usually in triple metre, traditionally accompanied by guitars and castanets or hand-clapping ( palmas in Spanish and Portuguese). Fandango can both be sung and danced. Sung fandango is usually bipartite: it has an instrumental introduction followed by variaciones . Sung fandango usually follows the structure of cante that consist of four or five octosyllabic verses (coplas) or musical phrases (tercios). Occasionally, the first copla is repeated.
+8.3	Other Places
+8.4	Fandango (1985 film), a 1985, starring Kevin Costner
+8.5	Other
+8.6	Fandango (Mexican band), a 1980s Mexican pop band"
+8.7	Label Fandango, an independent record label run out of the above company
+9.1	Digital subscriber line, a family of digital data transmission technologies
+9.2	Damn Small Linux, a very small Linux distribution
+9.3	Other
+9.4	Domain-specific language, a computer language designed for a specific problem domain
+9.5	Dominican Summer League, a branch of affiliated minor league baseball played in the Dominican Republic
+9.6	Dickinson School of Law, Carlisle, Pennsylvania
+10.1	Bausch & Lomb, American manufacturer of contact lenses and eye-care products
+10.2	Pina Bausch (1940â2009), German modern-dance choreographer
+10.3	Other
+10.4	Robert Bausch (contemporary), American author and professor of English
+10.5	Richard Bausch (contemporary), American author
+10.6	James Bausch (a.k.a. Jarring Jim) (1906â1974), American Olympic decathlete
+10.7	Ludwig Bausch (1805â1871), German bow (stringed instruments) maker
+10.8	John Jacob Bausch (1830â1926), German-American optician who co-founded Bausch & Lomb
+11.1	Pizza, a popular Italian dish
+11.2	Other
+12.1	A snake is a type of reptile.
+12.2	Snake (video game) Snake (video game)
+12.3	Other
+12.4	Snake (zodiac)
+12.5	Other Fictional characters
+12.6	Snake River (disambiguation)
+12.7	Snake , a poem by D. H. Lawrence
+12.8	Other Geography
+12.9	Snake Kung Fu
+12.10	Snake Plissken, an Escape from New York/Escape from L.A. character
+12.11	Plumbers snake
+12.12	Snake Pass, a road in England
+13.1	Queen (band), an English rock band
+13.2	Queen regnant, a female monarch of equivalent power to a male king
+13.3	Other
+13.4	Elizabeth II (born 1926), Queen regnant of the United Kingdom and the other Commonwealth realms
+13.5	The Queen (film) The Queen (film), a 2006 film starring Dame Helen Mirren
+13.6	Queen consort, the wife of a reigning king
+13.7	Queen bee
+13.8	Other In government and monarchy
+13.9	Queen (chess), a chess piece; also used as a verb to describe the changing of a pawn into a queen when it reaches the eighth rank
+13.10	Queen (slang), a slang term for a gay man
+13.11	Queen: The Story of an American Family, a book by Alex Haley and a 1993 TV mini-series based on that book
+13.12	Queen (magazine) Queen (magazine), a British womens magazine
+13.13	May Queen, the goddess of spring or a young girl chosen to personify her as part of a springtime celebration
+13.14	Queen (playing card), a card or cards in a deck of playing cards or tarot cards
+14.1	Cerberus is a mythical multi-headed dog.
+14.2	Cerberus Capital Management, a private equity investment firm
+14.3	Other
+14.4	Cerberus FTP Server, file transfer software
+14.5	Cerberus, pro-human organization in the video game franchise, Mass Effect (series) Mass Effect
+14.6	Cerberus Helpdesk Software, now renamed Cerb5 - http://www.cerberusweb.com
+14.7	Cerberus (film) Cerberus (film), a science fiction movie
+14.8	Cerberus (constellation), a group of stars
+14.9	Cerberus (protein), involved in embryological development
+14.10	HMVS Cerberus HMVS Cerberus, an 1871 warship under various British Commonwealth aegises
+14.11	Cerberus (snake) Cerberus (snake), a genus of snakes
+14.12	Cerberus (Marvel Comics), a character in the Marvel Universe
+14.13	Cerberus (sonar), a diver detection device
+14.14	Other Fiction
+14.15	HMAS Cerberus, Victoria, an Australian naval base
+14.16	Cerberus (Martian albedo feature), a dark spot on Mars
+15.1	Equinox Fitness, chain of gyms based in New York with health clubs in U.S. cities
+15.2	An equinox in astronomy is the event when the Sun can be observed to be directly above the equator.
+15.3	Chevrolet Equinox, a General Motors SUV
+15.4	Equinox Mountain, Vermont, USA
+15.5	Other
+15.6	Other Companies
+15.7	Other Computing
+15.8	Equinox (film) Equinox (film), a 1970 American horror film
+15.9	Equinox , a recent dubstep composition by Californian artist Skrillex
+15.10	Celebrity Equinox, cruise ship launched in 2009.
+15.11	Other Entertainment and media
+16.1	Marble is a type of rock resulting from the metamorphism of limestone.
+16.2	Marble (software), a free and open-source map program
+16.3	Other Places
+16.4	Other
+16.5	Marble, Colorado, a town
+16.6	Marble (toy), a small spherical toy usually made from glass, clay, steel, or agate
+16.7	Marbles Kids Museum in Raleigh, North Carolina
+16.8	Marble sculpture, the art of creating three-dimensional forms from marble
+17.1	Apple Inc., a consumer electronics and software company founded in the 1970s
+17.2	The apple is the pomaceous edible fruit of a temperate-zone deciduous tree.
+18.1	Veracruz is a state in Mexico. Veracruz or Vera Cruz (literally True Cross)
+18.2	Hyundai Veracruz, mid-size crossover sport-utility vehicle
+18.3	Vera Cruz (film) Vera Cruz (film), 1954 motion picture starring Gary Cooper and Burt Lancaster
+18.4	Other
+18.5	Siege of Veracruz (1847)
+18.6	Classic Veracruz culture (c. 100 to 1000 CE), a cultural area of the present-day Mexican state of Veracruz
+18.7	Vera Cruz, Pennsylvania
+18.8	Vera Cruz, Indiana
+18.9	Philip Vera Cruz, Filipino American labor leader
+18.10	Vera Cruz (East Timor), a subdistrict of Dili District
+18.11	Other Places
+19.1	Virgo (astrology), an astrological sign
+19.2	Other
+19.3	Virgo (software), an open source Java (software platform) Java application server by SpringSource
+19.4	Virgo (constellation), a constellation
+19.5	Virgo interferometer, a French-Italian project in physics
+19.6	Other Astronomy
+19.7	Other Art
+20.1	Neptune (mythology), a god in Roman mythology
+20.2	Neptune is the eighth planet from the sun in our solar system.
+20.3	Other Places
+20.4	Other
+20.5	NEPTUNE, an underwater observatory
+20.6	Neptune (band), a band from Boston
+20.7	Neptune Township, New Jersey
+20.8	The Neptunes, a group of hip-hop producers
+20.9	Neptune City, New Jersey
+20.10	Other Companies
+20.11	Other Computing
+21.1	Judas Iscariot, the apostle of Jesus Christ who betrayed him
+21.2	Judas (Greek: ÎÎ¿ÏÎ´Î±Ï) is the anglicized Greek rendering of the Hebrew name Yehudah (Hebrew: ×Ö°××Ö¼×Ö¸×).
+21.3	Judas (song) Judas (song), a 2011 song by Lady Gaga from Born This Way
+21.4	Gospel of Judas, an ancient Gnostic Gospel
+21.5	Other
+21.6	Other Music
+21.7	Judas (film) Judas (film), a 2004 film
+21.8	Other Film
+21.9	Other People
+21.10	Judas of Galilee, also Judas of Gamala, Jewish revolt leader
+21.11	Judas, a character in The Binding of Isaac (video game) The Binding of Isaac
+21.12	Other People with the name
+21.13	Judas Maccabeus, founder of the Hasmonean dynasty
+21.14	Judas the Zealot
+21.15	Judas Cyriacus, man said to have assisted Helena of Constantinople find the True Cross
+22.1	Other Technology
+22.2	Boomerang (TV channel), a TV channel operated by Cartoon Network with various international versions:
+22.3	A boomerang is a curved wooden throwing implement.
+22.4	Other
+22.5	Boomerang (1992 film) Boomerang (1992 film), a 1992 movie starring Eddie Murphy
+22.6	Boomerang (programming language), for bidirectional transformations of text
+22.7	Boomerang (mobile shooter detection system), a gunshot location detection system designed for military uses.
+22.8	Boomerang (Australian TV channel)
+22.9	Other Entertainment
+22.10	Boomerang (comics), a Marvel Comics supervillain
+22.11	Scaled Composites Boomerang, an unconventional twin engine aircraft designed by Burt Rutan
+22.12	Boomerang (UK & Ireland)
+23.1	The Hoover Company, vacuum cleaner manufacturer and floor care company
+23.2	Hoovers, Inc., a business information company based in Austin TX, now owned by Dun &amp; Bradstreet
+23.3	Herbert Hoover (1874â1964), 31st President of the United States
+23.4	J. Edgar Hoover (1895â1972), longest-reigning head of the Federal Bureau of Investigation (48 years)
+23.5	Hoover Institution, a public-policy think tank at Stanford University founded by the 31st President of the United States
+23.6	Hoover, Alabama
+23.7	Hoover Dam, originally named Boulder Dam
+23.8	Other Companies
+23.9	Other
+23.10	Other Music
+23.11	Hoover (band), a post-hardcore band
+23.12	Other People
+23.13	Hoover is a surname: Hoover is a variant spelling of the German Huber, a status name for a landowner or a prosperous small farmer.
+24.1	Nickelodeon is an American cable TV channel.
+24.2	Other
+24.3	Nick Jr. (disambiguation)
+24.4	Other In film
+24.5	The Nickelodeon Theatre, run by the Columbia Film Society
+24.6	Nickelodeon Universe, an amusement park.
+24.7	Nickelodeon Animation Studio, the channels animation arm.
+24.8	Nickelodeon (film) Nickelodeon (film), a 1976 film
+24.9	Nickelodeon Movies, a motion picture production company.
+24.10	Nickelodeon (movie theater), an early 20th-century form of small neighborhood movie theater.
+24.11	Nickelodeon, a 1973 album by Hudson Ford
+24.12	Nickelodeon Studios, a former television studio.
+24.13	Nickelodeon Magazine, a childrens magazine.
+25.1	Steam (software), a digital game distribution platform by Valve Software
+25.2	Steam is vaporized water.
+25.3	Other
+25.4	Steaming, a cooking method
+25.5	Steam (band)
+26.1	An atom is a basic unit of matter consisting of a nucleus within a cloud of one or more electrons.
+26.2	Atom (standard), an XML-based Web syndication format
+26.3	Intel Atom, a line of CPUs for ultra-mobile devices
+26.4	Other
+26.5	Ariel Atom, a high performance sports car made by Ariel Ltd
+26.6	Nuclear power
+26.7	Acorn Atom, an early 1980s home computer
+26.8	Atom (comics), superheroes of the DC Universe
+27.1	Lakota people, a Native American tribe
+27.2	Lakota Local School District (disambiguation), two districts in Ohio
+27.3	Lakota, North Dakota, seat of Nelson County
+27.4	Lakota language, the language of the Lakota
+27.5	Other Place names
+27.6	Other
+27.7	Lakota, Iowa
+28.1	Ghost (1990 film) Ghost (1990 film), a 1990 film starring Patrick Swayze, Demi Moore, and Whoopi Goldberg
+28.2	A ghost is the spirit of a deceased person thought of as appearing in visible form.
+28.3	Ghost (software), a disk cloning program
+28.4	Ghost (Swedish band), a Swedish metal band
+28.5	Other
+28.6	Rolls-Royce Ghost, a luxury sedan produced by Rolls-Royce and introduced in 2009
+28.7	Ghost Adventures, a television series
+28.8	Ghost PokÃ©mon, a type of PokÃ©mon
+28.9	Other Music
+28.10	Ghosts IâIV, a 2008 album by Nine Inch Nails
+28.11	Other Film, television and theatre
+28.12	Ghost the Musical, a 2011 musical based on the film
+28.13	Ghost Hunters, a television serial
+28.14	The Ghost (band) a Bay Area/Chicago Punk Rock band
+28.15	Other Literature
+28.16	Ghost (comics), for titles and characters in comics
+28.17	Other Gaming
+28.18	Michael Jacksons Ghosts, a 1997 short film produced by Michael Jackson
+29.1	An apartment is a self-contained housing unit that occupies only part of a building.
+29.2	Apartment (song) Apartment (song), a 2010 Young the Giant song
+29.3	The Apartment, 1960 American film
+29.4	Other
+30.1	Chase (bank), usually styled as CHASE , the consumer and commercial banking subsidiary of JPMorgan Chase
+30.2	Chase (2010 TV series) Chase (2010 TV series), a drama series from producer Jerry Bruckheimer, airing on NBC
+30.3	Other
+30.4	Chase (composition) Chase (composition), a 1977 dance hit by Giorgio Moroder from the soundtrack and album Midnight Express
+30.5	Other Corporations
+30.6	Chase (comics) Chase (comics), a DC comic book
+30.7	Other Television shows
+30.8	Chase (band), a jazz-rock fusion band of the 1970s
+31.1	Mannequin (1987 film) Mannequin (1987 film), a comedy starring Andrew McCarthy and Kim Cattrall, followed by a Mannequin Two: On the Move sequel
+31.2	A mannequin is a life-sized model of the human figure, used especially in advertising and sales.
+31.3	Other
+31.4	Mannequin (1937 film) Mannequin (1937 film), a drama starring Joan Crawford
+31.5	Other Music
+31.6	Mannequin , a song by Katy Perry from One of the Boys (Katy Perry album) One of the Boys
+32.1	PODS (company)
+32.2	Pipeline Open Data Standard
+32.3	Other
+32.4	Symposium on Principles of Database Systems, an ACM symposium started in 1982
+32.5	A common abbreviation in aquarism for copepods, a group of small crustaceans found in the sea and nearly every freshwater habitat
+33.1	Aetna, an American insurance provider.
+33.2	Other
+34.1	Ford Mustang, a car model
+34.2	Mustang horse, a free-ranging horse of the American west. (Equus ferus caballus)
+34.3	Other
+34.4	Mustang (motorcycle) a manufacturer of miniature motorcycles
+34.5	Mustang, Oklahoma, a city in Oklahoma in the United States
+34.6	Mustang District, a district in Nepal
+34.7	Other Sports
+34.8	Cessna Citation Mustang, a modern business jet which is currently the smallest model in the Cessna Citation range
+34.9	Other Places
+34.10	Other Motor vehicles"
+34.11	Mustang (military officer), slang for an American military officer who began his or her career in the enlisted ranks
+34.12	Fender Mustang, an electric guitar brand from Fender
+35.1	Eros is the Greek god of love.
+35.2	Eros (concept), the Greek word for (especially) romantic or sexual love and the life instinct postulated by Freudian psychology, standing in opposition to Thanatos, the death instinct
+35.3	Center for Earth Resources Observation and Science EROS Center, the Center for Earth Resources Observation and Science, the United States national archive of remotely sensed images of the Earths land surface
+35.4	Eros (film) Eros (film), a 2004 film
+35.5	Other
+35.6	Eros Labs, a Bollywood laboratary that makes DVDs and videos
+35.7	EROS (microkernel), an operating system developed by The EROS Group, LLC., the Johns Hopkins University, and the University of Pennsylvania
+35.8	433 Eros, an asteroid that was the principal target of the NEAR Shoemaker probe
+35.9	Eros (Deftones album) Eros (Deftones album), an unreleased studio album by alternative metal band Deftones
+35.10	Other Entertainment
+35.11	Eros (DÃ¼n album)
+35.12	Eros (Eros Ramazzotti album) Eros (Eros Ramazzotti album)
+35.13	EROS (satellite), Earth Resources Observation Satellite, a series of commercial Israeli Earth observation satellites, designed and manufactured by Israel Aircraft Industries
+35.14	Eros, Louisiana, a town in the United States
+36.1	Noggin (TV channel) Noggin, original name of an American cable TV channel presently called Nick Jr.
+36.2	Other
+36.3	Noggin or gill (volume), a unit of volume
+36.4	Noggin (protein), a signaling molecule involved in embryonic development
+36.5	Noggin (cup), a small cup
+37.1	Hedonism is a term most often used to describe the philosophy that pleasure is the most important pursuit of mankind. Other uses include:
+37.2	Hedonism Resorts, vacation resorts in Jamaica
+37.3	Other
+37.4	Christian hedonism, a controversial Christian doctrine
+37.5	Hedonismbot, a minor character in Futurama
+37.6	Hedonism (Just Because You Feel Good) , a song by Skunk Anansie
+38.1	Shockwave (game portal), a digital video game distributor and portal
+38.2	Adobe Shockwave, a multimedia platform
+38.3	Shockwave (Transformers) Shockwave (Transformers), a sentient and intelligent alien robot
+38.4	A shock wave, a type of propagating disturbance in a fluid, gas, or plasma medium
+38.5	Shockwave (TV series) Shockwave (TV series), a documentary distributed by The History Channel
+38.6	Shockwave (yacht) Shockwave (yacht), a sailing yacht that sank during a 2009 race off New South Wales, Australia
+38.7	ShockWave (video game), a 2005 modification for the popular RTS game Command and Conquer: Generals - Zero Hour
+38.8	Other In music
+38.9	Other
+38.10	Other In sports
+38.11	Shockwave (Six Flags Great America), a large defunct roller coaster manufactured by Arrow Dynamics at Six Flags Great America in Gurnee
+38.12	Other In film and television
+38.13	Shockwave Productions,Inc., the former trade name of A2A Simulations, an interactive video game company
+38.14	The Shockwave Rider, a 1975 science fiction novel by John Brunner
+39.1	Apache Software Foundation, a non-profit corporation to support Apache software projects
+39.2	Apache HTTP Server, web server software
+39.3	Apache Corporation, an oil and gas company based in Houston, Texas, United States
+39.4	Apache is the name of a group of related Native American tribes or a member of these tribes.
+39.5	Other Music and dance
+39.6	Apache County, Arizona, a county in Arizona, United States
+39.7	Other Computing
+39.8	Apache License, an open-source license authored by the Apache Software Foundation
+39.9	Other
+39.10	Other Geography
+39.11	AH-64 Apache, an attack helicopter in service with the United States Army
+40.1	Magic: The Gathering, a collectible card game by Wizards of the Coast
+40.2	Orlando Magic, professional NBA basketball team
+40.3	Magic (paranormal), the use of paranormal methods to manipulate natural forces, such as witchcraft
+40.4	Other
+40.5	Other Computing
+40.6	Magic (illusion), the art of appearing to perform supernatural feats using sleight of hand or other methods
+40.7	Magic (magazine) Magic (magazine), a magazine for magicians
+40.8	Magic Software Enterprises, a software company
+40.9	MAGIC (telescope)
+40.10	Magic (1978 film) Magic (1978 film)
+40.11	Other Persons and organizations
+40.12	Magic (software), a layout tool
+40.13	Magic Radio, a radio network in the United Kingdom
+40.14	Multi-Agency Geographic Information for the Countryside, a mapping service offered by the UK government
+40.15	Magic Johnson (born 1959), American basketball player and businessman
+40.16	WMJX (Magic 106.7), in Boston, Massachusetts
+40.17	Other Publications
+40.18	Other Science and mathematics
+40.19	Other Gaming
+41.1	Bald Eagle, also known as the American Eagle, a bird of prey in North America
+41.2	Other
+41.3	Bald Eagle State Park, in Centre County
+42.1	The Bermuda Triangle is a region in the western part of the North Atlantic Ocean where a number of aircraft  and surface vessels allegedly disappeared mysteriously.
+42.2	Other
+42.3	The Bermuda Triangle (film)|The Bermuda Triangle (film), a 1978 film starring John Huston
+42.4	Bermuda Triangle Band
+42.5	The Bermuda Triangle (book)|The Bermuda Triangle (book), a 1974 book by Charles Berlitz
+42.6	Bermuda Triangle (song)|"Bermuda Triangle" (song), a 1980 song by Barry Manilow
+43.1	Monte Carlo Resort and Casino, a luxury hotel on the Las Vegas Strip
+43.2	Monte Carlo is an administrative area of Monaco.
+43.3	Monte Carlo method, a class of computational algorithms
+43.4	Chevrolet Monte Carlo, an American automobile built by Chevrolet
+43.5	Monte Carlo (2011 film)|Monte Carlo (2011 film), distributed by 20th Century Fox
+43.6	Other Commercial products
+43.7	Monte Carlo Rally, a rallying event organized by the Automobile Club de Monaco
+43.8	Monte-Carlo Masters, a tennis tournament
+43.9	Other
+43.10	Other Food
+43.11	Other Special events
+43.12	Monte Carlo (yacht), a motor yacht
+44.1	Iron Man (film)|Iron Man (film), a 2008 American live film based on the Marvel Comics character
+44.2	Iron Man is a Marvel comic book superhero.
+44.3	Other Film and television
+44.4	Ironman Triathlon, a long-distance triathlon
+44.5	Iron Man 2, a 2010 film, sequel to the 2008 film Iron Man
+44.6	Iron Man (magazine)|Iron Man (magazine), a bodybuilding and weight-training magazine
+44.7	Iron Man (song)|&quot;Iron Man&quot; (song), a song by Black Sabbath
+44.8	Iron Man (band), an American doom metal band
+44.9	Iron Man (video game)|Iron Man (video game), a 2008 video game based on the film
+44.10	Iron: Man, a 1993 sculpture by Antony Gormley, in Birmingham, England
+44.11	Iron Man (TV series)|Iron Man (TV series), a 1994 animated series
+44.12	Ultimate Iron Man, a comic book miniseries
+45.1	Sherlock Holmes is a character created by Arthur Conan Doyle.
+45.2	Sherlock Holmes (2009 film)|Sherlock Holmes (2009 film), starring Robert Downey, Jr. and Jude Law
+45.3	Other Television
+45.4	Other
+45.5	Sherlock Holmes: A Game of Shadows, the 2011 sequel
+45.6	Other Cinema
+45.7	Sherlock Holmes (1984 TV series)|Sherlock Holmes (1984 TV series), a British production starring Jeremy Brett
+45.8	Sherlock Holmes (1965 TV series)|Sherlock Holmes (1965 TV series), with Peter Cushing and Douglas Wilmer portraying Holmes in different years
+45.9	Sherlock Holmes (1922 film)|Sherlock Holmes (1922 film), starring John Barrymore
+45.10	Sherlock Holmes (1954 TV series)|Sherlock Holmes (1954 TV series), an American production, filmed in France, starring Ronald Howard
+46.1	The Trojan Horse, according to legend, was a giant hollow horse in which Greeks hid to gain entrance to Troy.
+46.2	Trojan horse (computing), a computer program that appears harmless but is harmful
+46.3	Other
+46.4	Trojan Horse (NCIS)|"Trojan Horse" (NCIS), an episode of NCIS
+46.5	"Trojan Horse", a song by Bloc Party from Intimacy (Bloc Party album)|Intimacy
+46.6	Trojan Horse (Luv song)|"Trojan Horse"(Luv song), a hit record by Dutch girl group Luv
+47.1	Poison ivy often refers to Toxicodendron radicans, a poisonous plant, though the term is also used for the rash urushiol-induced contact dermatitis, caused by contact with it
+47.2	Poison Ivy (comics), a villain and enemy of Batman in the DC Comics universe
+47.3	Poison Ivy (film)|Poison Ivy (film), a 1992 US film.
+47.4	Poison Ivy, a Remote Administration Tool
+47.5	Other
+47.6	Poison Ivy (musician), co-founder of the band The Cramps
+47.7	Other People
+47.8	"Poison Ivy", a 2009 Jonas Brothers song from the album Lines, Vines and Trying Times
+48.1	The Ten Commandments are a set of biblical principles relating to ethics and worship, which play a fundamental role in Judaism and most forms of Christianity.
+48.2	The Ten Commandments (1956 film)|The Ten Commandments (1956 film), a 1956 epic film directed by Cecil B. DeMille, starring Charlton Heston
+48.3	Other
+48.4	The Ten Commandments (TV series)|The Ten Commandments (TV series), a two-part 2006 television mini-series, directed by Robert Dornhelm
+48.5	The Ten Commandments (1923 film)|The Ten Commandments (1923 film), a 1923 silent film directed by Cecil B. DeMille, starring Theodore Roberts
+48.6	Ten Commandment Alternatives, secular and humanist alternatives to the biblical Ten Commandments
+48.7	Ten Commandments of Computer Ethics
+49.1	United Airlines Flight 93, plane that crashed near Shanksville, Pennsylvania, as part of the September 11, 2001 attacks
+49.2	Flight 93 National Memorial, National Park Service unit in Pennsylvania at the site of the crash of United Airlines Flight 93
+49.3	Flight 93 (TV film)|Flight 93 (TV film), made-for-TV movie about United Airlines Flight 93 directed by Peter Markle
+49.4	Other
+49.5	United 93 (film)|United 93 (film), theatrical feature film about United Airlines Flight 93 directed by Paul Greengrass (formerly titled Flight 93)
+50.1	Ice Age (film)|Ice Age (film), a 2002 film
+50.2	An ice age is a geologic period of major glaciation.
+50.3	Ice Age: Continental Drift, a 2012 sequel
+50.4	Other
+50.5	Pleistocene, a geologic epoch
+50.6	Other Music
+50.7	Iceage, a Danish punk rock band
+50.8	Ice Age: Dawn of the Dinosaurs, a 2009 sequel
+50.9	Other Film
+50.10	Ice Age: The Meltdown, a 2006 sequel
+50.11	Ice Age (band), an American progressive metal band
+50.12	Global cooling
+51.1	Zero Hour (2013 TV series)|Zero Hour (2013 TV series), an upcoming 2013 drama
+51.2	Zero Hour (comics)|Zero Hour (comics), a 1994 DC Comics comic book miniseries and crossover storyline
+51.3	Other
+51.4	Zero Hour!, a 1957 film written by Arthur Hailey
+51.5	Zero Hour (band), a progressive metal band
+51.6	Other Video games
+51.7	Other Literature
+51.8	Zero Hour (Stargate SG-1)|"Zero Hour" (Stargate SG-1), a 2004 episode of the science fiction television series Stargate SG-1
+51.9	Zero Hour: Americas Medic, a 2009 game designed to train and exercise first responders
+51.10	Other Film and television
+51.11	The Zero Hour (radio series)|The Zero Hour (radio series), a 1973-74 radio drama series hosted by Rod Serling
+51.12	Zero Hour (Zero Hour album)|Zero Hour (Zero Hour album), 1999
+51.13	Duke Nukem: Zero Hour, a 1999 third-person shooter
+52.1	Full moon is a lunar phase.
+52.2	Other
+52.3	Full Moon Features, an American film company
+52.4	Full Moon Party in Thailand
+52.5	Other Literature
+52.6	Full Moon (Brandy Norwood album) Full Moon (Brandy Norwood album)
+53.1	Fort Recovery, Ohio, a present-day village near the Ohio fort
+53.2	Fort Recovery, a fort from 1793 in Ohio
+53.3	Fort Recovery, Tortola, a fort from 1620 in the British Virgin Islands
+53.4	Other
+53.5	Fort Recovery (album)|Fort Recovery (album), an album by Centro-Matic
+54.1	Soul food is a type of cuisine.
+54.2	Soul Food (film)|Soul Food (film), a 1997 American comedy-drama film
+54.3	Other
+54.4	Soul Food (TV series)|Soul Food (TV series), an American television drama
+54.5	Soul Food (Goodie Mob album)|Soul Food (Goodie Mob album)
+55.1	Mighty Mouse, a cartoon superhero
+55.2	Apple Mighty Mouse, the first multi-button computer mouse produced by Apple Inc.
+55.3	Other
+55.4	A nickname of Demetrious_Johnson_(fighter)|Demetrious Johnson, a mixed martial artist who competes for the UFC.
+55.5	A genetic variety of house mouse, Mus musculus, with the Myostatin gene knocked out. Also called "mighty mice", a lack of mysostatin increases muscle mass and strength.
+55.6	Mighty Mouse (film)|Mighty Mouse (film), an upcoming film
+56.1	Jurassic Park (film)|Jurassic Park (film), the 1993 film based on the novel
+56.2	Other Games
+56.3	Other
+56.4	Jurassic Park (franchise)|Jurassic Park (franchise), a series of books, films and video games centering on the fictional theme park
+56.5	Jurassic Park: The Ride (Universal Studios Hollywood)
+56.6	Jurassic Park (novel)|Jurassic Park (novel), a 1990 novel by Michael Crichton
+56.7	Jurassic Park video games|Jurassic Park video games
+56.8	Biological issues in Jurassic Park|Biological issues in Jurassic Park
+56.9	Jurassic Park River Adventure (Islands of Adventure)
+57.1	Indiana University, a multi-campus public university university system system in the U.S. state state of Indiana, comprising:
+57.2	Indiana Hoosiers, the athletic program of Indiana University Bloomington
+57.3	Indiana University â Purdue University Indianapolis
+57.4	Indiana University Northwest
+57.5	Indiana University South Bend
+57.6	Indiana University Southeast
+57.7	Indiana University East
+58.1	Heron Island (Queensland), in Australia
+59.1	Match Point, a 2005 film directed by Woody Allen
+59.2	Match point (tennis) is won if the player in the lead scores
+59.3	Other
+60.1	Texas Rangers (baseball), a Major League Baseball team named after the famous Texas lawmen
+60.2	Terrys Texas Rangers, the popular name of the 8th Texas Cavalry
+60.3	Texas Rangers (film)|Texas Rangers (film), a 2001 film directed by Steve Miner
+60.4	Other
+61.1	Brett Butler (actress) (born 1958), American actress, writer and stand-up comedy performer
+61.2	Brett Butler (baseball) (born 1957), American baseball center fielder
+61.3	Other
+61.4	Brett Butler (racing driver) (born 1985), American NASCAR driver
+62.1	Courteney Cox (also known as Courteney Cox Arquette), American actress
+62.2	Other
+62.3	Courtney Cox (musician), American guitarist
+63.1	Jungle Fever, a 1991 film directed by Spike Lee.
+63.2	Other
+63.3	Tropical diseases such as malaria
+63.4	Jungle Fever (soundtrack)|Jungle Fever (soundtrack), a 1991 soundtrack album by Stevie Wonder released on Motown
+63.5	"Jungle Fever", a song by The Chakachas
+64.1	Blood Work (film)|Blood Work (film) (2002), a film based on the above book, starring Clint Eastwood
+64.2	Other
+64.3	Blood Work (novel)|Blood Work (novel) (1998), a novel by Michael Connelly
+64.4	A medical process also known as a blood test
+65.1	 Harry Potter (film series)|Harry Potter (film series), the film series based on the novels
+65.2	Harry Potter is a series of novels by J. K. Rowling.
+65.3	 Harry Potter (character), the main character in Harry Potter media
+65.4	Other
+66.1	Guild Wars (series)|Guild Wars (series), a series of competitive online role-playing games
+66.2	Guild Wars 2, an upcoming massively multiplayer online role-playing game|massively multiplayer online role-playing computer game in the Guild Wars series
+66.3	Guild Wars: Eye of the North, an expansionist action RPG computer game marketed as GW:EN
+67.1	John Carroll University, Catholic Jesuit school in Cleveland, Ohio
+67.2	John Carroll Catholic High School (disambiguation)
+67.3	John Carroll (bishop) (1735â1815), American bishop and founder of Georgetown University
+67.4	Other People
+67.5	John Carroll (actor) (1906â1979), American actor
+67.6	John Carroll Society
+67.7	John Carroll (basketball) (born c. 1950s), American basketball coach
+67.8	John L. Carroll, American legal academic, dean of Cumberland School of Law in Birmingham, Alabama
+67.9	Other
+67.10	Sir John Carroll (astronomer) (1899â1974), British scientist
+68.1	BlackPlanet, a social networking website geared towards African-Americans
+68.2	Other
+68.3	Black Planet (song)|Black Planet, a song by The Sisters of Mercy
+68.4	a Carbon planet, a proposed planetary type that is actually black.
+69.1	Century 21 Real Estate, a real estate franchise
+69.2	Century 21 (department store), a chain of department stores in the northeastern United States
+69.3	Other
+70.1	Coyote Ugly Saloon, a bar in New York City, which spawned multiple franchises all over North America
+70.2	Coyote Ugly (film)|Coyote Ugly (film), a 2000 film based on the bar
+70.3	Other
+71.1	Other
+71.2	Mortal Kombat (video game)|Mortal Kombat (video game), the first game in the Mortal Kombat series of games.
+71.3	Mortal Kombat (film)|Mortal Kombat (film), a 1995 film based on the first video game.
+71.4	Mortal Kombat (2011 video game)|Mortal Kombat (2011 video game), a sequel for the PlayStation 3 and Xbox 360.
+71.5	Special:Prefixindex/Mortal Kombat|List of Wikipedia articles beginning with "Mortal Kombat"
+72.1	Silent Hill, a series of video games:
+72.2	Silent Hill (film)|Silent Hill (film), a 2006 film based on the game series.
+72.3	Other
+72.4	Silent Hill 2 (film)|Silent Hill 2 (film), the sequel to 2006 movie.
+72.5	Silent Hill (video game)|Silent Hill (video game), the first game in the series, released in 1999
+72.6	Silent Hill 4: The Room, released in 2004
+72.7	Silent Hill 2, released in 2001
+72.8	Silent Hill Homecoming, released in 2008
+72.9	Silent Hill (comics)|Silent Hill (comics), comic book spin-off from games
+73.1	Stone Cold Steve Austin (born 1964), an American actor and retired professional wrestler
+73.2	Stone Cold (1991 film)|Stone Cold (1991 film), an action film starring Brian Bosworth
+73.3	Other
+73.4	Stone Cold, a novel by David Baldacci
+73.5	Stone Cold: A Jesse Stone Novel, by Robert B. Parker, turned into a series of television movies starring Tom Selleck
+74.1	Independence Day (film)|Independence Day (film), a 1996 science-fiction action film directed by Roland Emmerich
+74.2	Independence Day is an annual celebration commemorating the anniversary of a nations assumption of independent statehood.
+74.3	Independence Day (Martina McBride song)|"Independence Day" (Martina McBride song)
+74.4	Independence Day (novel)|Independence Day (novel), a novel by Richard Ford
+74.5	Other
+74.6	Independence Day (Bruce Springsteen song)|"Independence Day" (Bruce Springsteen song)
+74.7	"Independence Day", a song by Elliott Smith from XO (Elliott Smith album)|XO
+74.8	Other Music
+75.1	Lemonade Stand - a computer game used to teach basic business, math, and computer skills.
+75.2	Lemonade stand (business) - the traditional business of selling lemonade, usually by children.
+75.3	Other
+76.1	Aurora Borealis is a natural light display
+76.2	Other
+76.3	Aurora_Borealis_(band)|Aurora Borealis (band), a black metal band from Waldorf, Maryland, U.S.
+76.4	Aurora Borealis (film)|Aurora Borealis (film), a 2006 film
+77.1	"Agent Orange", is the code name for a powerful herbicide and defoliant used by the U.S. military during the Vietnam War.
+77.2	Agent Orange (band), a punk rock band from Orange County, California
+77.3	Other
+77.4	Agent Orange (cocktail), a mixed alcoholic drink
+77.5	Agent Orange (album)|Agent Orange (album), an album by the German thrash metal band Sodom
+78.1	Yahoo! Babel Fish, a web translation service
+78.2	Babel Fish Corporation, a human-powered translation service developed by Oscar Jofre
+78.3	Babel fish (The Hitchhikers Guide to the Galaxy)|Babel fish (The Hitchhikers Guide to the Galaxy), a fictitious animal (in Douglas Adams books), which performs instant translations
+78.4	Other
+78.5	Babel Fish (band), a Norwegian band
+79.1	Far Cry (series)|Far Cry (series), a franchise of first person shooter computer and video games
+79.2	Far Cry (film)|Far Cry (film), a 2008 German film adapted from the video game
+79.3	Other
+80.1	Carrot Top (born 1965), American comedian
+80.2	Other
+80.3	Carrot top, a pejorative referring to people with red hair
+80.4	Carrot Top Records, an American independent record label
+81.1	The Last Supper (Leonardo da Vinci)|The Last Supper (Leonardo da Vinci), the famous 1495â1498 painting by Leonardo da Vinci
+81.2	The Last Supper refers to the last meal that Jesus Christ took with his disciples
+81.3	The Last Supper (1995 film)|The Last Supper (1995 film), a black comedy starring Cameron Diaz
+81.4	Other
+81.5	Other Film and video
+81.6	Last meal, customarily given to a condemned prisoner
+81.7	The Last Supper (opera)|The Last Supper (opera), a 2000 opera
+81.8	Other Artwork
+81.9	Last Supper, a 1447 painting by Andrea del Castagno
+82.1	Romeo and Juliet is a tragedy by William Shakespeare
+82.2	Other Film and television
+82.3	Romeo and Juliet (1968 film)|Romeo and Juliet (1968 film)
+82.4	Other
+82.5	Romeo and Juliet (Dire Straits song)|"Romeo and Juliet" (Dire Straits song), a 1981 song by the British rock band Dire Straits
+82.6	Other Operas and musicals
+82.7	Romeo and Juliet (Prokofiev)|Romeo and Juliet (Prokofiev), a ballet score by Sergei Prokofiev
+82.8	Romeo + Juliet, 1996 film
+82.9	Romeo and Juliet (1936 film)|Romeo and Juliet (1936 film)
+82.10	Romeo and Juliet (Tchaikovsky)|Romeo and Juliet (Tchaikovsky), a fantasy-overture by Pyotr Ilyich Tchaikovsky
+83.1	The Medal of Honor is a national U.S. military award.
+83.2	Medal of Honor (series)|Medal of Honor (series), a video game series
+83.3	Medal of Honor (2010 video game)|Medal of Honor (2010 video game), a reboot of the series
+83.4	Other Awards
+83.5	Other
+83.6	IEEE Medal of Honor (known as the IRE Medal of Honor until 1963), of the Institute of Radio Engineers
+83.7	Congressional Space Medal of Honor
+84.1	Arch of Triumph (1948 film)|Arch of Triumph (1948 film) a 1948 film starring Ingrid Bergman
+84.2	Arc de Triomphe, a structure/building in Paris, France
+84.3	Arch of Triumph (Pyongyang), a structure in Pyongyang, and the worlds largest Triumphal arch
+84.4	Arch of Triumph of the Immaculate Heart of Mary and International Shrine of the Holy Innocents, a proposed structure in Buffalo, New York
+84.5	Arch of Triumph (1985 film)|Arch of Triumph (1985 film), a 1985 film, remake of the 1948 film
+84.6	Other
+84.7	Arcul de Triumf, a structure in Bucharest, Romania
+84.8	Arc de Triomf, a structure in Barcelona, Spain
+84.9	Arch of Triumph (novel)|Arch of Triumph (novel), an Erich Maria Remarque novel
+85.1	Other
+85.2	Dead or Alive (series)|Dead or Alive (series), a series primarily composed of fighting games
+85.3	Dead or Alive (band), a British New Wave band
+85.4	DOA: Dead or Alive, a 2006 film based on the video game series Dead or Alive (see below)
+85.5	Wanted Dead or Alive (Bon Jovi song)|"Wanted Dead or Alive" (Bon Jovi song), a 1987 song by Bon Jovi
+85.6	Dead or Alive (novel)|Dead or Alive (novel), a 2010 book by Tom Clancy, with an audio version which included narration by actor Lou Diamond Phillips
+85.7	Dead or Alive (film)|Dead or Alive (film), a 1999 Japanese yakuza action film, followed by two sequels
+85.8	Other Music
+86.1	Johnny Cash, American country and western singer, who regularly performed dressed in all black
+86.2	The Man in Black (Lost) (also known as the smoke monster and similar), the unnamed antagonist of the TV series Lost
+86.3	Other
+86.4	Man in Black (film)|Man in Black (film), a 1949 British thriller film
+86.5	Men in Black (disambiguation)
+86.6	Other Entertainment
+86.7	Other Music
+87.1	Heaven and Hell (Black Sabbath album)|Heaven and Hell (Black Sabbath album), or the title song (see below)
+87.2	Heaven & Hell (band), a band with members of Black Sabbath
+87.3	Other
+87.4	Heaven and Hell
+87.5	Heaven and Hell (Supernatural)|"Heaven and Hell" (Supernatural), an episode of the television series Supernatural
+87.6	Heaven and Hell (Swedenborg)|Heaven and Hell (Swedenborg), a book by Emanuel Swedenborg
+87.7	The Marriage of Heaven and Hell, an 18th century book by William Blake
+87.8	Heaven & Hell (song)|"Heaven & Hell" (song) a song by Raekwon, 1994
+87.9	Heaven and Hell (essay)|Heaven and Hell (essay), a book by Aldous Huxley, sequel to The Doors of Perception
+87.10	Heaven and Hell (Vangelis album)|Heaven and Hell (Vangelis album), or the title song
+87.11	Heaven and Hell (The Who song)|"Heaven and Hell" (The Who song), 1970, also recorded by John Entwistle
+87.12	Heaven and Hell (Allan Kardec)|Heaven and Hell (Allan Kardec), a book by Allan Kardec
+87.13	Other Literature
+87.14	Other Music
+87.15	Other Albums
+87.16	Other Film and television
+88.1	Stand by Me (film)|Stand by Me (film), a 1986 American drama film directed by Rob Reiner
+88.2	Stand by Me (song)|"Stand by Me" (song), a 1961 single by Ben E. King
+88.3	Other Songs
+88.4	Other
+88.5	Other Music
+88.6	"Stand by Me", a 2010 single by Prince Royce
+88.7	Stand by Me (Shayne Ward song)|"Stand by Me" (Shayne Ward song), a 2006 single by Shayne Ward
+88.8	Stand by Me: The Ultimate Collection, 1987 compilation album by Ben E. King
+88.9	Stand by Me (Oasis song)|"Stand by Me" (Oasis song), a 1997 single by Oasis
+89.1	Prince of Persia: The Sands of Time (film)|Prince of Persia: The Sands of Time (film), a 2010 film
+89.2	Prince of Persia, the video game franchise
+89.3	Prince of Persia (1989 video game)|Prince of Persia (1989 video game)
+89.4	Prince of Persia (2008 video game)|Prince of Persia (2008 video game)
+89.5	Other
+89.6	Forgotten sands | Prince of Persia: The Forgotten Sands, a 2010 video game
+89.7	Prince of Persia: The Sands of Time, a 2003 video game
+89.8	Prince of Persia: The Two Thrones, a 2005 video game
+89.9	Prince of Persia: Warrior Within, a 2004 video game
+90.1	Billy the Kid was a notorious Western outlaw.
+90.2	Billy the Kid (2007 film)|Billy the Kid (2007 film), a documentary directed by Jennifer Venditti
+90.3	Other
+90.4	Billy the Kid (1989 film)|Billy the Kid (1989 film), made for television movie starring Val Kilmer
+90.5	Billy the Kid (ballet)|Billy the Kid (ballet), a 1938 ballet by American composer Aaron Copland
+90.6	Billy the Kid (1930 film)|Billy the Kid (1930 film), a Hollywood film
+90.7	"The Ballad of Billy the Kid", a 1973 song by Billy Joel
+91.1	Dog Eat Dog (U.S. game show)|Dog Eat Dog (U.S. game show), the U.S. version of the UK show
+91.2	Other
+91.3	Dog Eat Dog (band), an American hardcore/rapcore group
+91.4	"Dog Eat Dog", a song by Ted Nugent from Free-for-All (Ted Nugent album)|Free-for-All
+91.5	Dog Eat Dog (Joni Mitchell album)|Dog Eat Dog (Joni Mitchell album), 1985
+91.6	Dog Eat Dog (Mhlongo novel)|Dog Eat Dog (Mhlongo novel), a campus novel by Niq Mhlongo
+91.7	Other Television show episodes
+91.8	Dog Eat Dog (song)|"Dog Eat Dog" (song), a 1977 song by AC/DC
+91.9	Dog Eat Dog, a novel by Edward Bunker
+91.10	"Dog Eat Dog", a song by "Weird Al" Yankovic from Polka Party!
+91.11	"Dog Eat Dog", a song by Adam and the Ants from Kings of the Wild Frontier
+91.12	"Dog Eat Dog", a song by De La Soul from Stakes Is High
+91.13	Dog Eat Dog (Warrant album)|Dog Eat Dog (Warrant album), 1992
+91.14	Other Music
+91.15	Other Literature
+91.16	Dog Eat Dog, a novel by David J. Rodger
+91.17	Other Film and television
+91.18	Dog Eat Dog (2007 film)|Dog Eat Dog (2007 film), a 2007 Colombian film by director Carlos Moreno
+91.19	Dog Eat Dog (2001 film)|Dog Eat Dog (2001 film), a 2001 UK film
+92.1	Sense and Sensibility (film)|Sense and Sensibility (film) (1995), by Ang Lee
+92.2	Sense and Sensibility is a novel by Jane Austen.
+92.3	Sense and Sensibility (1981 TV serial)|Sense and Sensibility (1981 TV serial), by Rodney Bennett
+92.4	Other
+92.5	Sense and Sensibility and Sea Monsters (2009) a parody novel by Ben H. Winters
+92.6	Sense and Sensibility (2008 TV serial)|Sense and Sensibility (2008 TV serial), by John Alexander
+93.1	Soldier of Fortune (magazine)|Soldier of Fortune (magazine), a publication purportedly aimed at mercenaries
+93.2	Soldier of Fortune (video game)|Soldier of Fortune (video game), a 2000 first-person shooter game created by Raven Software
+93.3	Other
+93.4	Soldier of Fortune (song)| Soldier of Fortune (song), a song by Deep Purple from their 1974 album Stormbringer, covered by Opeth, Black Majesty and Whitesnake
+93.5	Soldier of Fortune, Inc., a 1997â1998 television show (later renamed Special Ops Force)
+93.6	Soldier of Fortune (film)|Soldier of Fortune (film), a 1955 film starring Clark Gable, Susan Hayward, and Michael Rennie
+93.7	Soldier of Fortune: Payback, the third installment of the Soldier of Fortune game series
+93.8	Soldier of Fortune, a song by Thin Lizzy from their 1977 album Bad Reputation (Thin Lizzy album)|Bad Reputation
+93.9	Soldiers of Fortune (film)|Soldiers of Fortune (film), an 2012 action film starring Sean Bean, Ving Rhames and Christian Slater
+93.10	Soldier of Fortune II: Double Helix, sequel
+93.11	Other Print
+93.12	Soldier of Fortune, a song recorded by The Manhattan Transfer on their 1983 album Bodies and Souls
+93.13	Other Media
+94.1	One Tree Hill (TV series) One Tree Hill (TV series), an American television drama originally aired on the WB/CW network in 2003, named after the U2 song
+94.2	Other
+94.3	One Tree Hill (song) One Tree Hill (song), a 1987 song by rock band U2 referencing One Tree Hill, New Zealand
+94.4	One Tree Hill, New Zealand, a volcanic peak and surrounding suburb in Auckland, New Zealand
+95.1	Sisters of Mercy, a world-wide Catholic religious order founded by Catherine McAuley.
+95.2	The Sisters of Mercy, a British rock band
+95.3	Sisters of Mercy , a song by Leonard Cohen on the album Songs of Leonard Cohen
+95.4	Other
+96.1	Beauty and the Beast (1991 film)|Beauty and the Beast (1991 film), an animated Disney film
+96.2	Beauty and the Beast is a traditional fairy tale.
+96.3	Beauty and the Beast (2012 TV series)|Beauty and the Beast (2012 TV series), an American television series that will air on The CW in 2012
+96.4	Beauty and the Beast (musical)|Beauty and the Beast (musical), a Broadway musical based on the film
+96.5	Beauty and the Beast (1946 film)|Beauty and the Beast (1946 film) (La Belle et la BÃªte), a French film directed by Jean Cocteau
+96.6	Beauty and the Beast (Disney song)|"Beauty and the Beast" (Disney song), a song from the film, performed by Celine Dion and Peabo Bryson
+96.7	Other Television
+96.8	Other
+96.9	Beauty and the Beast (1987 TV series)|Beauty and the Beast (1987 TV series), an American television drama series aired on CBS in 1987
+96.10	Other Film and theatre
+97.1	Lord of the Flies is a novel by William Golding.
+97.2	Lord of the Flies (1990 film)|Lord of the Flies (1990 film), based on the novel
+97.3	Lord of the Flies (1963 film)|Lord of the Flies (1963 film), based on the novel
+97.4	Other
+97.5	Lord of the Flies (song)|"Lord of the Flies" (song), by Iron Maiden
+97.6	Beelzebub, a satanic being.
+98.1	The Battle of the Bulge was a major World War II German offensive.
+98.2	Battle of the Bulge (film)|Battle of the Bulge (film), a 1965 film
+98.3	Other
+98.4	Axis & Allies: Battle of the Bulge, by Avalon Hill
+99.1	The Da Vinci Code, the original 2003 novel by Dan Brown
+99.2	The Da Vinci Code (film)|The Da Vinci Code (film), the 2006 film based on the novel
+99.3	Criticisms of The Da Vinci Code|Criticisms of The Da Vinci Code, criticism and controversy around the novel
+99.4	The Da Vinci Code (soundtrack)|The Da Vinci Code (soundtrack), a CD based on the music of the film
+99.5	Other
+99.6	The Da Vinci Code (video game)|The Da Vinci Code (video game), the 2006 game based on the novel, and timed for release with the movie
+100.1	The Wizard of Oz (1939 film)|The Wizard of Oz (1939 film), its best-known adaptation
+100.2	The Wonderful Wizard of Oz, a 1900 book by L. Frank Baum and W.W. Denslow
+100.3	Other
+100.4	The Wizard of Oz (1942 musical)|The Wizard of Oz (1942 musical)
+100.5	The Wizard of Oz (1902 stage play)|The Wizard of Oz (1902 stage play), a musical by L. Frank Baum, Paul Tietjens and others
+100.6	The_Wizard_of_Oz_(1933_film)|The Wizard of Oz (1933 animated film), directed by Ted Eshbaugh
+100.7	Adaptations of The Wizard of Oz|Adaptations of The Wizard of Oz, including book, stage, film, television and game adaptations
+100.8	Wizard of Oz (1925 film)|Wizard of Oz (1925 film), directed by Larry Semon
